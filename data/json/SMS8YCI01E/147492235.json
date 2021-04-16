@@ -1,0 +1,1283 @@
+{
+    "@file-name": "147492235.html",
+    "@class": "Reference",
+    "@type": "TextNode",
+    "@base-id": "147492235",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "99079191949643147-9",
+    "@icon-name": "productdescription",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Appliance"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "183780619",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "793488652",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "9007199438521611",
+        "@title": "shortdesc - Appliance",
+        "@id": "9007199438521611-9",
+        "$": "You can find an overview of the parts of your appliance here."
+    },
+    "image-container":     {
+        "@type": "img_original",
+        "@image-page": "true-imageInReferenceNode",
+        "calloutMap": {"BSHCollectionOfElements":         [
+            {"callout":             {
+                "@legend-number": "2",
+                "@hotspot-id": "AP_rk"
+            }},
+            {"callout": ""},
+            {"callout":             {
+                "@legend-number": "1",
+                "@hotspot-id": "AP_ty"
+            }},
+            {"callout":             {
+                "@legend-number": "3",
+                "@hotspot-id": "AP_uk"
+            }},
+            {"callout":             {
+                "@legend-number": "4",
+                "@hotspot-id": "AP_vs"
+            }},
+            {"callout":             {
+                "@legend-number": "5",
+                "@hotspot-id": "AP_us"
+            }},
+            {"callout":             {
+                "@legend-number": "6",
+                "@hotspot-id": "AP_ta"
+            }},
+            {"callout":             {
+                "@legend-number": "7",
+                "@hotspot-id": "AP_ok"
+            }},
+            {"callout":             {
+                "@legend-number": "8",
+                "@hotspot-id": "AP_bs"
+            }},
+            {"callout": ""},
+            {"callout":             {
+                "@legend-number": "9",
+                "@hotspot-id": "AP_ib"
+            }},
+            {"callout":             {
+                "@legend-number": "10",
+                "@hotspot-id": "AP_et"
+            }},
+            {"callout":             {
+                "@legend-number": "11",
+                "@hotspot-id": "AP_os"
+            }},
+            {"callout":             {
+                "@legend-number": "12",
+                "@hotspot-id": "AP_ao"
+            }},
+            {"callout":             {
+                "@legend-number": "13",
+                "@hotspot-id": "AP_zb"
+            }},
+            {"callout":             {
+                "@legend-number": "14",
+                "@hotspot-id": "AP_si"
+            }},
+            {"callout":             {
+                "@legend-number": "15",
+                "@hotspot-id": "AP_vk"
+            }}
+        ]},
+        "img":         {
+            "@src": "700095628",
+            "@id": "3672552459",
+            "@name": "AP_3-Bel_Innenbeleuchtung_Zeolith_01-15_ref_R_1186",
+            "@type": "st4-svg",
+            "@class": "VectorGraphics",
+            "@link-id": "99079192502246540",
+            "@label": "700095628",
+            "@width": "4252",
+            "@height": "4252",
+            "@dpi": "900",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@width-cm": "12.00008888888889",
+            "@height-cm": "12.00008888888889",
+            "@href": "Images/svg/3672552459__sq__Original.svg"
+        },
+        "properties":         {
+            "@flipTable": "false",
+            "@presentation": "table",
+            "@propertie-count": "3",
+            "@relcolwidth": "10 35 55",
+            "@hsdl-percent": "10% 35% 55%",
+            "property":             [
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359469835",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "39DDD906-88A5-473D-B7BE-0F80CC31A4FE",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868951819",
+                    "@id": "18014398868951819-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_ty",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/1.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Rating plate"
+                    }},
+                    "propdesc": {"p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "Rating plate with",
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Kurzlink",
+                                    "@source-id": "18014398868951819-9",
+                                    "@target-id": "108086391239533067-9",
+                                    "@use": "grab",
+                                    "@target": "Product number (E-Nr.) and production number (FD)",
+                                    "@name": "RelatedTopic",
+                                    "@id": "18014398932307212",
+                                    "@target-base-id": "182641163",
+                                    "@external": "0",
+                                    "@linkid": "422825228",
+                                    "@arrow": "after",
+                                    "$": "E number and FD number"
+                                }},
+                                "."
+                            ]
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "The data you need for",
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Kurzlink",
+                                    "@source-id": "18014398868951819-9",
+                                    "@target-id": "144115188258262923-9",
+                                    "@use": "grab",
+                                    "@target": "Customer Service",
+                                    "@name": "RelatedTopic",
+                                    "@id": "18014398869000588",
+                                    "@target-base-id": "182407051",
+                                    "@external": "0",
+                                    "@linkid": "359518604",
+                                    "@arrow": "after",
+                                    "$": "Customer Service"
+                                }},
+                                "."
+                            ]
+                        }
+                    ]}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359468043",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "D7AB5478-C62C-43A3-AAE8-0BC11EB76AC8",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868950027",
+                    "@id": "18014398868950027-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_rk",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/2.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Detergent dispenser"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "18014398868950027-9",
+                                "@target-id": "90071992694546315-9",
+                                "@use": "grab",
+                                "@target": "Detergent",
+                                "@name": "RelatedTopic",
+                                "@id": "18014398868998540",
+                                "@target-base-id": "147136395",
+                                "@external": "0",
+                                "@linkid": "359516556",
+                                "@arrow": "after",
+                                "$": "Detergent"
+                            }},
+                            "is added to the detergent dispenser."
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359464459",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1B8AA0BE-0F57-4CB9-BF87-C6A176DCC8FB",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868946443",
+                    "@id": "18014398868946443-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_uk",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/3.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Bottom basket"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2307067531",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "E0C2E51D-716D-42CD-B935-F2CE88FC0979",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2307067531",
+                        "@id": "2307067531-9",
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "2307067531-9",
+                            "@target-id": "45035996774449803-9",
+                            "@use": "grab",
+                            "@target": "Bottom basket",
+                            "@name": "RelatedTopic",
+                            "@id": "2307070348",
+                            "@target-base-id": "500744843",
+                            "@external": "0",
+                            "@linkid": "2307070348",
+                            "@arrow": "after",
+                            "$": "Bottom basket"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359395083",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "AA028A01-79DF-48D4-A56E-46D3BBBAB7BF",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868877067",
+                    "@id": "18014398868877067-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_vs",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/4.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Dispenser for special salt"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Add the special salt to the dispenser for special salt.",
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "18014398868877067-9",
+                                "@target-id": "135107990378074379-9",
+                                "@use": "grab",
+                                "@target": "Water softening system",
+                                "@name": "RelatedTopic",
+                                "@id": "3559498124",
+                                "@target-base-id": "1556959499",
+                                "@external": "0",
+                                "@linkid": "3559498124",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Water softening system"
+                            }}
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359393291",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "6562C793-3863-4870-88DF-720CBE357E9F",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868875275",
+                    "@id": "18014398868875275-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_us",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/5.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Lower spray arm"
+                    }},
+                    "propdesc": {"p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$": "The lower spray arm washes the tableware in the bottom basket."
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "If the tableware has not been washed properly, clean the spray arms.",
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Langlink in Properties",
+                                    "@source-id": "18014398868875275-9",
+                                    "@target-id": "27021597911507339-9",
+                                    "@use": "grab",
+                                    "@target": "Cleaning spray arms",
+                                    "@name": "RelatedTopic",
+                                    "@id": "18014398869000972",
+                                    "@target-base-id": "147284363",
+                                    "@external": "0",
+                                    "@linkid": "359518988",
+                                    "@dynamic": "true",
+                                    "@arrow": "before",
+                                    "$": "Cleaning spray arms"
+                                }}
+                            ]
+                        }
+                    ]}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359387915",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "DAAD26B8-E88F-413F-AE40-EBBE0F89BF9B",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021598123610891",
+                    "@id": "27021598123610891-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_ta",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/6.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Tablet collecting tray"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": "During the wash cycle tablets automatically fall out of the detergent dispenser into the tablet collecting tray where they can fully dissolve."
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359384331",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "C5CD59E6-B118-4187-941C-8045315E5B76",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868866315",
+                    "@id": "18014398868866315-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_ok",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/7.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Top basket"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2307201547",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "DE32F7B5-E185-4930-89F4-B6849598F5ED",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2307201547",
+                        "@id": "2307201547-9",
+                        "@context": "Cond",
+                        "$": {"targetless_link": {"$": "Top basket"}}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "3559523083",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "9A039896-65AC-4BA7-BA51-39C996A9A232",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007202814264075",
+                    "@id": "9007202814264075-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_bs",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/8.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Cutlery drawer"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "9007202814264075-9",
+                            "@target-id": "27021598304940683-9",
+                            "@use": "grab",
+                            "@target": "Cutlery drawer",
+                            "@name": "RelatedTopic",
+                            "@id": "9007202814266636",
+                            "@target-base-id": "540717707",
+                            "@external": "0",
+                            "@linkid": "3559525644",
+                            "@arrow": "after",
+                            "$": "Cutlery drawer"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "3559781259",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "29750D00-AA17-4E8C-B95D-ABE486DDCE30",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "3559781259",
+                    "@id": "3559781259-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_ib",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/9.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "EmotionLight"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Interior lighting of the appliance.",
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "3559781259-9",
+                                "@target-id": "117093590458818571-9",
+                                "@use": "grab",
+                                "@target": "Overview of basic settings",
+                                "@name": "RelatedTopic",
+                                "@id": "3583265804",
+                                "@target-base-id": "147185675",
+                                "@external": "0",
+                                "@linkid": "3583265804",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Overview of basic settings"
+                            }}
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "545822987",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "FB93E286-5DBA-4AAF-9748-264F5A8185A2",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028797564786955",
+                    "@id": "36028797564786955-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_et",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/10.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Cutlery shelf",
+                            {"footnote":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "36028797564786955-9",
+                                "@target-id": "9007199438288139-9",
+                                "@use": "grab",
+                                "@name": "RelatedTopic",
+                                "@id": "9007204289979916",
+                                "@target-base-id": "183547147",
+                                "@external": "0",
+                                "@linkid": "5035238924",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "tooltip": {"$": "Depending on the appliance specifications"}
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "36028797564786955-9",
+                            "@target-id": "18014399050205323-9",
+                            "@use": "grab",
+                            "@target": "Etagere",
+                            "@name": "RelatedTopic",
+                            "@id": "36028797564790284",
+                            "@target-base-id": "540723339",
+                            "@external": "0",
+                            "@linkid": "545826316",
+                            "@arrow": "after",
+                            "$": "Cutlery shelf"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359386123",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "318C6A44-1366-427C-895B-A42C4D6B71EE",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868868107",
+                    "@id": "18014398868868107-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_os",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/11.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Upper spray arm"
+                    }},
+                    "propdesc": {"p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$": "The upper spray arm washes the tableware in the top basket."
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "If the tableware has not been washed properly, clean the spray arms.",
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Langlink in Properties",
+                                    "@source-id": "18014398868868107-9",
+                                    "@target-id": "27021597911507339-9",
+                                    "@use": "grab",
+                                    "@target": "Cleaning spray arms",
+                                    "@name": "RelatedTopic",
+                                    "@id": "18014398869000460",
+                                    "@target-base-id": "147284363",
+                                    "@external": "0",
+                                    "@linkid": "359518476",
+                                    "@dynamic": "true",
+                                    "@arrow": "before",
+                                    "$": "Cleaning spray arms"
+                                }}
+                            ]
+                        }
+                    ]}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359389707",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "6D3D7BB4-3290-4112-9D5E-79D4D9D3DF41",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868871691",
+                    "@id": "18014398868871691-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_ao",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/12.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Intake opening of the Zeolith container"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "The intake opening is required for",
+                            {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "18014398868871691-9",
+                                "@target-id": "147406091-9",
+                                "@use": "grab",
+                                "@target": "Zeolith drying",
+                                "@name": "RelatedTopic",
+                                "@id": "18014398868997772",
+                                "@target-base-id": "147406091",
+                                "@external": "0",
+                                "@linkid": "359515788",
+                                "@arrow": "after",
+                                "$": "Zeolith drying"
+                            }},
+                            "."
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359391499",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "FCD0389A-CF1F-4975-A418-107694CD6ED7",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868873483",
+                    "@id": "18014398868873483-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_zb",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/13.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Blow opening of the Zeolith container"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "The blow opening is required for",
+                            {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "18014398868873483-9",
+                                "@target-id": "147406091-9",
+                                "@use": "grab",
+                                "@target": "Zeolith drying",
+                                "@name": "RelatedTopic",
+                                "@id": "18014398868999308",
+                                "@target-base-id": "147406091",
+                                "@external": "0",
+                                "@linkid": "359517324",
+                                "@arrow": "after",
+                                "$": "Zeolith drying"
+                            }},
+                            "."
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359460875",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "364870BF-E244-4B54-81D5-3C990CA3A6BE",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868942859",
+                    "@id": "18014398868942859-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_si",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/14.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Filter system"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "18014398868942859-9",
+                            "@target-id": "27021597911495179-9",
+                            "@use": "grab",
+                            "@target": "Filter system",
+                            "@name": "RelatedTopic",
+                            "@id": "18014398868998028",
+                            "@target-base-id": "147272203",
+                            "@external": "0",
+                            "@linkid": "359516044",
+                            "@arrow": "after",
+                            "$": "Filter system"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "359466251",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "C8D19EFE-64ED-497A-B1D3-D437C15CF522",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398868948235",
+                    "@id": "18014398868948235-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_vk",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/15.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Dispenser for rinse aid"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Add rinse aid to the dispenser for rinse aid.",
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "18014398868948235-9",
+                                "@target-id": "108086392614998795-9",
+                                "@use": "grab",
+                                "@target": "Rinse aid system",
+                                "@name": "RelatedTopic",
+                                "@id": "3557588364",
+                                "@target-base-id": "1558106891",
+                                "@external": "0",
+                                "@linkid": "3557588364",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Rinse aid system"
+                            }}
+                        ]
+                    }}
+                }
+            ]
+        }
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "36028797564786955-9",
+            "@label": "FB93E286-5DBA-4AAF-9748-264F5A8185A2",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014408015675404",
+            "@source": "Appliance",
+            "@target-base-id": "545822987",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "135107990378074379-9",
+            "@label": "2036325260",
+            "@use": "copy",
+            "@target": "Water softening system",
+            "@name": "RelatedTopic",
+            "@id": "72057596074253196",
+            "@source": "Appliance",
+            "@target-base-id": "1556959499",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "108086392614998795-9",
+            "@label": "2036325388",
+            "@use": "copy",
+            "@target": "Rinse aid system",
+            "@name": "RelatedTopic",
+            "@id": "72057596074253324",
+            "@source": "Appliance",
+            "@target-base-id": "1558106891",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868873483-9",
+            "@label": "FCD0389A-CF1F-4975-A418-107694CD6ED7",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "72057597510969996",
+            "@source": "Appliance",
+            "@target-base-id": "359391499",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868871691-9",
+            "@label": "6D3D7BB4-3290-4112-9D5E-79D4D9D3DF41",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "72057597511041036",
+            "@source": "Appliance",
+            "@target-base-id": "359389707",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "9007202814264075-9",
+            "@label": "9A039896-65AC-4BA7-BA51-39C996A9A232",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "72057597597441804",
+            "@source": "Appliance",
+            "@target-base-id": "3559523083",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "3559781259-9",
+            "@label": "29750D00-AA17-4E8C-B95D-ABE486DDCE30",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "72057597597458828",
+            "@source": "Appliance",
+            "@target-base-id": "3559781259",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868866315-9",
+            "@label": "C5CD59E6-B118-4187-941C-8045315E5B76",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161535372",
+            "@source": "Appliance",
+            "@target-base-id": "359384331",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868868107-9",
+            "@label": "318C6A44-1366-427C-895B-A42C4D6B71EE",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161537164",
+            "@source": "Appliance",
+            "@target-base-id": "359386123",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "27021598123610891-9",
+            "@label": "DAAD26B8-E88F-413F-AE40-EBBE0F89BF9B",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161538956",
+            "@source": "Appliance",
+            "@target-base-id": "359387915",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868875275-9",
+            "@label": "6562C793-3863-4870-88DF-720CBE357E9F",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161544332",
+            "@source": "Appliance",
+            "@target-base-id": "359393291",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868877067-9",
+            "@label": "AA028A01-79DF-48D4-A56E-46D3BBBAB7BF",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161546124",
+            "@source": "Appliance",
+            "@target-base-id": "359395083",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868942859-9",
+            "@label": "364870BF-E244-4B54-81D5-3C990CA3A6BE",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161611916",
+            "@source": "Appliance",
+            "@target-base-id": "359460875",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868946443-9",
+            "@label": "1B8AA0BE-0F57-4CB9-BF87-C6A176DCC8FB",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161615500",
+            "@source": "Appliance",
+            "@target-base-id": "359464459",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868948235-9",
+            "@label": "C8D19EFE-64ED-497A-B1D3-D437C15CF522",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161617292",
+            "@source": "Appliance",
+            "@target-base-id": "359466251",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868950027-9",
+            "@label": "D7AB5478-C62C-43A3-AAE8-0BC11EB76AC8",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161619084",
+            "@source": "Appliance",
+            "@target-base-id": "359468043",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "18014398868951819-9",
+            "@label": "39DDD906-88A5-473D-B7BE-0F80CC31A4FE",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079192161620876",
+            "@source": "Appliance",
+            "@target-base-id": "359469835",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079191949643147-9",
+            "@target-id": "9007199438521611-9",
+            "@label": "793488652",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleLink",
+            "@id": "99079192595639564",
+            "@source": "Appliance",
+            "@target-base-id": "183780619",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868866315-9",
+            "@target-id": "2307201547-9",
+            "@label": "DE32F7B5-E185-4930-89F4-B6849598F5ED",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "2308310796",
+            "@target-base-id": "2307201547",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868868107-9",
+            "@target-id": "27021597911507339-9",
+            "@label": "359518476",
+            "@use": "grab",
+            "@target": "Cleaning spray arms",
+            "@name": "RelatedTopic",
+            "@id": "18014398869000460",
+            "@target-base-id": "147284363",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868875275-9",
+            "@target-id": "27021597911507339-9",
+            "@label": "359518988",
+            "@use": "grab",
+            "@target": "Cleaning spray arms",
+            "@name": "RelatedTopic",
+            "@id": "18014398869000972",
+            "@target-base-id": "147284363",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868877067-9",
+            "@target-id": "135107990378074379-9",
+            "@label": "3559498124",
+            "@use": "grab",
+            "@target": "Water softening system",
+            "@name": "RelatedTopic",
+            "@id": "3559498124",
+            "@target-base-id": "1556959499",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868942859-9",
+            "@target-id": "27021597911495179-9",
+            "@label": "359516044",
+            "@use": "grab",
+            "@target": "Filter system",
+            "@name": "RelatedTopic",
+            "@id": "18014398868998028",
+            "@target-base-id": "147272203",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868946443-9",
+            "@target-id": "2307067531-9",
+            "@label": "E0C2E51D-716D-42CD-B935-F2CE88FC0979",
+            "@use": "grab",
+            "@target": "Appliance",
+            "@name": "TextModuleHierarchy",
+            "@id": "2307075980",
+            "@target-base-id": "2307067531",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "2307067531-9",
+            "@target-id": "45035996774449803-9",
+            "@label": "2307070348",
+            "@use": "grab",
+            "@target": "Bottom basket",
+            "@name": "RelatedTopic",
+            "@id": "2307070348",
+            "@target-base-id": "500744843",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868948235-9",
+            "@target-id": "108086392614998795-9",
+            "@label": "3557588364",
+            "@use": "grab",
+            "@target": "Rinse aid system",
+            "@name": "RelatedTopic",
+            "@id": "3557588364",
+            "@target-base-id": "1558106891",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868950027-9",
+            "@target-id": "90071992694546315-9",
+            "@label": "359516556",
+            "@use": "grab",
+            "@target": "Detergent",
+            "@name": "RelatedTopic",
+            "@id": "18014398868998540",
+            "@target-base-id": "147136395",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868951819-9",
+            "@target-id": "144115188258262923-9",
+            "@label": "359518604",
+            "@use": "grab",
+            "@target": "Customer Service",
+            "@name": "RelatedTopic",
+            "@id": "18014398869000588",
+            "@target-base-id": "182407051",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868951819-9",
+            "@target-id": "108086391239533067-9",
+            "@label": "422825228",
+            "@use": "grab",
+            "@target": "Product number (E-Nr.) and production number (FD)",
+            "@name": "RelatedTopic",
+            "@id": "18014398932307212",
+            "@target-base-id": "182641163",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868873483-9",
+            "@target-id": "147406091-9",
+            "@label": "3473024140",
+            "@use": "copy",
+            "@target": "Zeolith drying",
+            "@name": "RelatedTopic",
+            "@id": "3473024140",
+            "@target-base-id": "147406091",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868873483-9",
+            "@target-id": "147406091-9",
+            "@label": "359517324",
+            "@use": "grab",
+            "@target": "Zeolith drying",
+            "@name": "RelatedTopic",
+            "@id": "18014398868999308",
+            "@target-base-id": "147406091",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868871691-9",
+            "@target-id": "147406091-9",
+            "@label": "3473024012",
+            "@use": "copy",
+            "@target": "Zeolith drying",
+            "@name": "RelatedTopic",
+            "@id": "3473024012",
+            "@target-base-id": "147406091",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398868871691-9",
+            "@target-id": "147406091-9",
+            "@label": "359515788",
+            "@use": "grab",
+            "@target": "Zeolith drying",
+            "@name": "RelatedTopic",
+            "@id": "18014398868997772",
+            "@target-base-id": "147406091",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007202814264075-9",
+            "@target-id": "27021598304940683-9",
+            "@label": "3559525644",
+            "@use": "grab",
+            "@target": "Cutlery drawer",
+            "@name": "RelatedTopic",
+            "@id": "9007202814266636",
+            "@target-base-id": "540717707",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "3559781259-9",
+            "@target-id": "117093590458818571-9",
+            "@label": "3583265804",
+            "@use": "grab",
+            "@target": "Overview of basic settings",
+            "@name": "RelatedTopic",
+            "@id": "3583265804",
+            "@target-base-id": "147185675",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797564786955-9",
+            "@target-id": "9007199438288139-9",
+            "@label": "5035238924",
+            "@use": "grab",
+            "@name": "RelatedTopic",
+            "@id": "9007204289979916",
+            "@target-base-id": "183547147",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797564786955-9",
+            "@target-id": "18014399050205323-9",
+            "@label": "545826316",
+            "@use": "grab",
+            "@target": "Etagere",
+            "@name": "RelatedTopic",
+            "@id": "36028797564790284",
+            "@target-base-id": "540723339",
+            "@external": "0"
+        }}
+    ]},
+    "image":     {
+        "@id": "3672552459",
+        "@name": "AP_3-Bel_Innenbeleuchtung_Zeolith_01-15_ref_R_1186",
+        "@type": "st4-svg",
+        "@href": "Images/svg/3672552459__en__Original.svg",
+        "@class": "VectorGraphics",
+        "@link-id": "99079192502246540",
+        "@label": "700095628",
+        "@width": "4252",
+        "@height": "4252",
+        "@dpi": "900",
+        "@aspect": "en",
+        "@source-aspect": "All",
+        "@width-cm": "12.00008888888889",
+        "@height-cm": "12.00008888888889",
+        "calloutMap": {"BSHCollectionOfElements":         [
+            {"callout":             {
+                "@legend-number": "2",
+                "@hotspot-id": "AP_rk"
+            }},
+            {"callout": ""},
+            {"callout":             {
+                "@legend-number": "1",
+                "@hotspot-id": "AP_ty"
+            }},
+            {"callout":             {
+                "@legend-number": "3",
+                "@hotspot-id": "AP_uk"
+            }},
+            {"callout":             {
+                "@legend-number": "4",
+                "@hotspot-id": "AP_vs"
+            }},
+            {"callout":             {
+                "@legend-number": "5",
+                "@hotspot-id": "AP_us"
+            }},
+            {"callout":             {
+                "@legend-number": "6",
+                "@hotspot-id": "AP_ta"
+            }},
+            {"callout":             {
+                "@legend-number": "7",
+                "@hotspot-id": "AP_ok"
+            }},
+            {"callout":             {
+                "@legend-number": "8",
+                "@hotspot-id": "AP_bs"
+            }},
+            {"callout": ""},
+            {"callout":             {
+                "@legend-number": "9",
+                "@hotspot-id": "AP_ib"
+            }},
+            {"callout":             {
+                "@legend-number": "10",
+                "@hotspot-id": "AP_et"
+            }},
+            {"callout":             {
+                "@legend-number": "11",
+                "@hotspot-id": "AP_os"
+            }},
+            {"callout":             {
+                "@legend-number": "12",
+                "@hotspot-id": "AP_ao"
+            }},
+            {"callout":             {
+                "@legend-number": "13",
+                "@hotspot-id": "AP_zb"
+            }},
+            {"callout":             {
+                "@legend-number": "14",
+                "@hotspot-id": "AP_si"
+            }},
+            {"callout":             {
+                "@legend-number": "15",
+                "@hotspot-id": "AP_vk"
+            }}
+        ]}
+    }
+}

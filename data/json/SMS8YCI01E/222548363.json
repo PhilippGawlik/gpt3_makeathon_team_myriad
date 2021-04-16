@@ -1,0 +1,292 @@
+{
+    "@file-name": "222548363.html",
+    "@class": "UMTask",
+    "@type": "TextNode",
+    "@base-id": "222548363",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "222548363-9",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "How to use your appliance"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "222540939",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "222554636",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "9007199477281931",
+        "@title": "shortdesc - Procedure at a glance",
+        "@id": "9007199477281931-9",
+        "$": "You can find an overview of the standard workflow for using the appliance here."
+    },
+    "preconditions":     {
+        "preconditionhead": {"b": {"$": "Requirements:"}},
+        "precondition":         {
+            "$": "Initial start-up is complete.",
+            "link":             {
+                "@BSH-Linktype": "Langlink",
+                "@source-id": "222548363-9",
+                "@target-id": "36028797240654859-9",
+                "@use": "grab",
+                "@target": "First steps",
+                "@name": "RelatedTopic",
+                "@id": "222554764",
+                "@source": "How to use your appliance",
+                "@target-base-id": "221690891",
+                "@external": "0",
+                "@linkid": "222554764",
+                "@dynamic": "true",
+                "@arrow": "before",
+                "$": "First steps"
+            }
+        }
+    },
+    "instructions": {"BSHCollectionOfElements":     [
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "36028797166086283-9",
+                "@use": "grab",
+                "@target": "Arrange tableware",
+                "@name": "RelatedTopic",
+                "@id": "358885516",
+                "@source": "How to use your appliance",
+                "@target-base-id": "147122315",
+                "@external": "0",
+                "@linkid": "358885516",
+                "@arrow": "after",
+                "$": "Arrange tableware."
+            }
+        }}},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "27021597911389451-9",
+                "@use": "grab",
+                "@target": "Adding detergent",
+                "@name": "RelatedTopic",
+                "@id": "222556684",
+                "@source": "How to use your appliance",
+                "@target-base-id": "147166475",
+                "@external": "0",
+                "@linkid": "222556684",
+                "@arrow": "after",
+                "$": "Add detergent."
+            }
+        }}},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "72057594184632587-9",
+                "@use": "grab",
+                "@target": "Switching on the appliance",
+                "@name": "RelatedTopic",
+                "@id": "222556812",
+                "@source": "How to use your appliance",
+                "@target-base-id": "146704651",
+                "@external": "0",
+                "@linkid": "222556812",
+                "@arrow": "after",
+                "$": "Switch on appliance."
+            }
+        }}},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "27021597910933899-9",
+                "@use": "grab",
+                "@target": "Setting a programme",
+                "@name": "RelatedTopic",
+                "@id": "222556940",
+                "@source": "How to use your appliance",
+                "@target-base-id": "146710923",
+                "@external": "0",
+                "@linkid": "222556940",
+                "@arrow": "after",
+                "$": "Set a programme."
+            }
+        }}},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "146728587-9",
+                "@use": "grab",
+                "@target": "Setting additional functions",
+                "@name": "RelatedTopic",
+                "@id": "222557196",
+                "@source": "How to use your appliance",
+                "@target-base-id": "146728587",
+                "@external": "0",
+                "@linkid": "222557196",
+                "@arrow": "after",
+                "$": "Select an additional function if necessary."
+            }
+        }}},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "81064793439413003-9",
+                "@use": "grab",
+                "@target": "Starting the programme",
+                "@name": "RelatedTopic",
+                "@id": "222557068",
+                "@source": "How to use your appliance",
+                "@target-base-id": "146744075",
+                "@external": "0",
+                "@linkid": "222557068",
+                "@arrow": "after",
+                "$": "Start the programme."
+            }
+        }}},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "222548363-9",
+                "@target-id": "9007199401870347-9",
+                "@use": "grab",
+                "@target": "Removing tableware",
+                "@name": "RelatedTopic",
+                "@id": "222558348",
+                "@source": "How to use your appliance",
+                "@target-base-id": "147129355",
+                "@external": "0",
+                "@linkid": "222558348",
+                "@arrow": "after",
+                "$": "Remove the tableware at the end of the programme."
+            }
+        }}}
+    ]},
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "9007199477281931-9",
+            "@label": "222554636",
+            "@use": "grab",
+            "@target": "How to use your appliance",
+            "@name": "TextModuleLink",
+            "@id": "222554636",
+            "@source": "How to use your appliance",
+            "@target-base-id": "222540939",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "36028797240654859-9",
+            "@label": "222554764",
+            "@use": "grab",
+            "@target": "First steps",
+            "@name": "RelatedTopic",
+            "@id": "222554764",
+            "@source": "How to use your appliance",
+            "@target-base-id": "221690891",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "27021597911389451-9",
+            "@label": "222556684",
+            "@use": "grab",
+            "@target": "Adding detergent",
+            "@name": "RelatedTopic",
+            "@id": "222556684",
+            "@source": "How to use your appliance",
+            "@target-base-id": "147166475",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "72057594184632587-9",
+            "@label": "222556812",
+            "@use": "grab",
+            "@target": "Switching on the appliance",
+            "@name": "RelatedTopic",
+            "@id": "222556812",
+            "@source": "How to use your appliance",
+            "@target-base-id": "146704651",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "27021597910933899-9",
+            "@label": "222556940",
+            "@use": "grab",
+            "@target": "Setting a programme",
+            "@name": "RelatedTopic",
+            "@id": "222556940",
+            "@source": "How to use your appliance",
+            "@target-base-id": "146710923",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "81064793439413003-9",
+            "@label": "222557068",
+            "@use": "grab",
+            "@target": "Starting the programme",
+            "@name": "RelatedTopic",
+            "@id": "222557068",
+            "@source": "How to use your appliance",
+            "@target-base-id": "146744075",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "146728587-9",
+            "@label": "222557196",
+            "@use": "grab",
+            "@target": "Setting additional functions",
+            "@name": "RelatedTopic",
+            "@id": "222557196",
+            "@source": "How to use your appliance",
+            "@target-base-id": "146728587",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "9007199401870347-9",
+            "@label": "222558348",
+            "@use": "grab",
+            "@target": "Removing tableware",
+            "@name": "RelatedTopic",
+            "@id": "222558348",
+            "@source": "How to use your appliance",
+            "@target-base-id": "147129355",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "222548363-9",
+            "@target-id": "36028797166086283-9",
+            "@label": "358885516",
+            "@use": "grab",
+            "@target": "Arrange tableware",
+            "@name": "RelatedTopic",
+            "@id": "358885516",
+            "@source": "How to use your appliance",
+            "@target-base-id": "147122315",
+            "@external": "0"
+        }}
+    ]}
+}

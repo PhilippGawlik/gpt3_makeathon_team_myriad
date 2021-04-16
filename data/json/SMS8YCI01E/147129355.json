@@ -1,0 +1,111 @@
+{
+    "@file-name": "147129355.html",
+    "@class": "UMTask",
+    "@type": "TextNode",
+    "@base-id": "147129355",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "9007199401870347-9",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Removing tableware"},
+    "safety":     {
+        "@type": "custom.bsh.general",
+        "@severity": "warning",
+        "@class": "TextModule2",
+        "@base-id": "849316619",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "849320716",
+        "@fragment-element": "safety",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "849316619",
+        "@id": "849316619-9",
+        "warnword": {"$": "WARNING"},
+        "cause": {"$": "Hot tableware can cause burns to the skin. When hot, tableware is sensitive to shock, may crack and can result in injury."},
+        "measures": {"safety-instructions": {"safety-instruction": {"$": "When the programme has ended, do not empty the appliance until the tableware has cooled down for a while."}}}
+    },
+    "instructions": {"BSHCollectionOfElements":     [
+        {"instruction":         {
+            "@class": "TextModule2",
+            "@base-id": "2128468363",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "7632065B-6EE3-4B66-A942-6E5870A63BD6",
+            "@fragment-element": "instruction",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "2128468363",
+            "@id": "2128468363-9",
+            "p":             {
+                "@context": "instructions",
+                "$": "To prevent water dripping on the tableware, unload it starting at the bottom and working up."
+            }
+        }},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "$": "Check the washing tank and accessories for soiling and clean if necessary.",
+            "link":             {
+                "@BSH-Linktype": "Langlink",
+                "@source-id": "9007199401870347-9",
+                "@target-id": "45035996456105867-9",
+                "@use": "grab",
+                "@target": "Cleaning and servicing",
+                "@name": "RelatedTopic",
+                "@id": "9007200046555916",
+                "@source": "Removing tableware",
+                "@target-base-id": "182400907",
+                "@external": "0",
+                "@linkid": "791814924",
+                "@dynamic": "true",
+                "@arrow": "before",
+                "$": "Cleaning and servicing"
+            }
+        }}}
+    ]},
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "9007199401870347-9",
+            "@target-id": "2128468363-9",
+            "@label": "7632065B-6EE3-4B66-A942-6E5870A63BD6",
+            "@use": "grab",
+            "@target": "Removing tableware",
+            "@name": "TextModuleHierarchy",
+            "@id": "2128468492",
+            "@source": "Removing tableware",
+            "@target-base-id": "2128468363",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007199401870347-9",
+            "@target-id": "45035996456105867-9",
+            "@label": "791814924",
+            "@use": "grab",
+            "@target": "Cleaning and servicing",
+            "@name": "RelatedTopic",
+            "@id": "9007200046555916",
+            "@source": "Removing tableware",
+            "@target-base-id": "182400907",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007199401870347-9",
+            "@target-id": "849316619-9",
+            "@label": "849320716",
+            "@use": "grab",
+            "@target": "Removing tableware",
+            "@name": "TextModuleLink",
+            "@id": "9007200104061708",
+            "@source": "Removing tableware",
+            "@target-base-id": "849316619",
+            "@external": "0"
+        }}
+    ]}
+}

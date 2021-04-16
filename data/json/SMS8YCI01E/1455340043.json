@@ -1,0 +1,76 @@
+{
+    "@file-name": "1455340043.html",
+    "@class": "Reference",
+    "@type": "TextNode",
+    "@base-id": "1455340043",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "1455340043-9",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Unsuitable detergents"},
+    "shortdesc": {"$": "Do not use detergent which could cause damage to the appliance or present a risk to health."},
+    "properties":     {
+        "@flipTable": "false",
+        "@presentation": "table",
+        "@propertie-count": "2",
+        "@relcolwidth": "40 60",
+        "@hsdl-percent": "40% 60%",
+        "prophead":         {
+            "proptypehd":             {
+                "@col-index": "1",
+                "p":                 {
+                    "@context": "Cond",
+                    "$": "Detergent"
+                }
+            },
+            "propvaluehd":             {
+                "@col-index": "2",
+                "p":                 {
+                    "@context": "Cond",
+                    "$": "Description"
+                }
+            }
+        },
+        "property":         [
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Hand washing-up liquid"
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Hand washing-up liquid can cause increased frothing and damage the appliance."
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Detergent containing chlorine"
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Chlorine residue on tableware may present a risk to health."
+                    }
+                }
+            }
+        ]
+    }
+}

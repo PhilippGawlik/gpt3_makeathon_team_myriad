@@ -1,0 +1,3291 @@
+{
+    "@file-name": "1827680111704568971.html",
+    "@class": "Safety",
+    "@type": "TextNode",
+    "@reuseid": "9007200959309963",
+    "@base-reuseid": "1704568971",
+    "@base-id": "182768011",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "36028797201731979-9",
+    "@icon-name": "safety",
+    "@is-page": "true",
+    "@is-top-theme": "false",
+    "@childrencount": "8",
+    "@is-distributor": "false",
+    "@level": "1",
+    "@timestamp": "20210303102313000454",
+    "title":     {
+        "@locationcontext": "SafetyChapter",
+        "$": "Safety"
+    },
+    "shortdesc":     {
+        "@locationcontext": "SafetyChapter",
+        "$": "Please read the safety information to ensure that you use the appliance safely."
+    },
+    "linklist":     {
+        "@locationcontext": "SafetyChapter",
+        "BSHCollectionOfElements":         [
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "63050394965984011-9",
+                "@label": "1704569484",
+                "@use": "grab",
+                "@target": "General information",
+                "@name": "InformationLink",
+                "@id": "9007200959310476",
+                "@source": "Safety",
+                "@target-base-id": "182797067",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "261208778570344843-9",
+                "@label": "1704569868",
+                "@use": "grab",
+                "@target": "Intended use",
+                "@name": "InformationLink",
+                "@id": "9007200959310860",
+                "@source": "Safety",
+                "@target-base-id": "182856075",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "90071992730390411-9",
+                "@label": "1704570252",
+                "@use": "grab",
+                "@target": "Restriction on user group",
+                "@name": "InformationLink",
+                "@id": "9007200959311244",
+                "@source": "Safety",
+                "@target-base-id": "182980491",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "27021598258838027-9",
+                "@label": "1704570636",
+                "@use": "grab",
+                "@target": "Safe installation",
+                "@name": "InformationLink",
+                "@id": "9007200959311628",
+                "@source": "Safety",
+                "@target-base-id": "494615051",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "63050395277794315-9",
+                "@label": "1704571020",
+                "@use": "grab",
+                "@target": "Safe use",
+                "@name": "InformationLink",
+                "@id": "9007200959312012",
+                "@source": "Safety",
+                "@target-base-id": "494607371",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "18014399008677387-9",
+                "@label": "1704571404",
+                "@use": "grab",
+                "@target": "Damaged appliance",
+                "@name": "InformationLink",
+                "@id": "9007200959312396",
+                "@source": "Safety",
+                "@target-base-id": "499195403",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "36028797201731979-9",
+                "@target-id": "9007199749353227-9",
+                "@label": "1704571788",
+                "@use": "grab",
+                "@target": "Risk to children",
+                "@name": "InformationLink",
+                "@id": "9007200959312780",
+                "@source": "Safety",
+                "@target-base-id": "494612235",
+                "@external": "0"
+            }}
+        ]
+    },
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=182797067/scrollto=182797067/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "182797067",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "63050394965984011-9",
+            "@icon-name": "safety",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "General information"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "@class": "TextModule2",
+                "@base-id": "6308374283",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "8568FBB2-0982-4DF7-9940-F865CD0A0399",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "6308374283",
+                "@id": "6308374283-9",
+                "$": "You can find general information for this instruction manual here."
+            },
+            "ul":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"li":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "@class": "TextModule2",
+                        "@base-id": "6308378379",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "4492D617-D0B2-4018-AA55-341088200124",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "6308378379",
+                        "@id": "6308378379-9",
+                        "p":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@context": "li",
+                            "$": "Read this instruction manual carefully. Only this will ensure you use the appliance safely and efficiently."
+                        }
+                    }},
+                    {"li":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "@class": "TextModule2",
+                        "@base-id": "182832139",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "182841868",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007199437573131",
+                        "@title": "li - Target group UI",
+                        "@id": "9007199437573131-9",
+                        "p":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@context": "li",
+                            "$": "This manual is intended for the user of the appliance."
+                        }
+                    }},
+                    {"li":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "@class": "TextModule2",
+                        "@base-id": "6308432779",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "B7012456-093E-43ED-BFAB-3988EB353801",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "6308432779",
+                        "@id": "6308432779-9",
+                        "p":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@context": "li",
+                            "$": "Follow the safety instructions and warnings."
+                        }
+                    }},
+                    {"li":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "@class": "TextModule2",
+                        "@base-id": "1331782539",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "81356D16-E9C3-433D-BE15-FA1CA8735EC4",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007200586523531",
+                        "@id": "9007200586523531-9",
+                        "p":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@context": "li",
+                            "$": "Keep the instruction manual and the product information safe for future reference or for the next owner."
+                        }
+                    }},
+                    {"li":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "@class": "TextModule2",
+                        "@base-id": "6308435979",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "4F5D5783-997F-41AD-8187-4276B93858E6",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "6308435979",
+                        "@id": "6308435979-9",
+                        "p":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@context": "li",
+                            "$": "Check the appliance after unpacking it. Do not connect the appliance if it has been damaged in transit."
+                        }
+                    }}
+                ]
+            },
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "63050394965984011-9",
+                        "@target-id": "6308435979-9",
+                        "@label": "4F5D5783-997F-41AD-8187-4276B93858E6",
+                        "@use": "grab",
+                        "@target": "General information",
+                        "@name": "TextModuleLink",
+                        "@id": "18014404817923084",
+                        "@source": "General information",
+                        "@target-base-id": "6308435979",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394965984011-9",
+                        "@target-id": "6308432779-9",
+                        "@label": "B7012456-093E-43ED-BFAB-3988EB353801",
+                        "@use": "grab",
+                        "@target": "General information",
+                        "@name": "TextModuleLink",
+                        "@id": "18014404817923468",
+                        "@source": "General information",
+                        "@target-base-id": "6308432779",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394965984011-9",
+                        "@target-id": "6308378379-9",
+                        "@label": "4492D617-D0B2-4018-AA55-341088200124",
+                        "@use": "grab",
+                        "@target": "General information",
+                        "@name": "TextModuleLink",
+                        "@id": "18014404817923852",
+                        "@source": "General information",
+                        "@target-base-id": "6308378379",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394965984011-9",
+                        "@target-id": "6308374283-9",
+                        "@label": "8568FBB2-0982-4DF7-9940-F865CD0A0399",
+                        "@use": "grab",
+                        "@target": "General information",
+                        "@name": "TextModuleLink",
+                        "@id": "18014404817924236",
+                        "@source": "General information",
+                        "@target-base-id": "6308374283",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394965984011-9",
+                        "@target-id": "9007200586523531-9",
+                        "@label": "81356D16-E9C3-433D-BE15-FA1CA8735EC4",
+                        "@use": "grab",
+                        "@target": "General information",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "45035997605492492",
+                        "@source": "General information",
+                        "@target-base-id": "1331782539",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394965984011-9",
+                        "@target-id": "9007199437573131-9",
+                        "@label": "182841868",
+                        "@use": "grab",
+                        "@target": "General information",
+                        "@name": "TextModuleLink",
+                        "@id": "63050394966028812",
+                        "@source": "General information",
+                        "@target-base-id": "182832139",
+                        "@external": "0"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=182856075/scrollto=182856075/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "182856075",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "261208778570344843-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Intended use"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Read the information on intended use to ensure that you use the appliance correctly and safely."
+            },
+            "BSHCollectionOfElements":             [
+                {"ul":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "intro":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "p":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@context": "intro",
+                            "$": "Only use this appliance:"
+                        }
+                    },
+                    "BSHCollectionOfElements":                     [
+                        {"li":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@class": "TextModule2",
+                            "@base-id": "182863883",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "230412556",
+                            "@fragment-element": "li",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "9007199437604875",
+                            "@title": "li - Use in accordance with UI",
+                            "@id": "9007199437604875-9",
+                            "p":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "@context": "li",
+                                "$": "As specified in this instruction manual."
+                            }
+                        }},
+                        {"li":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@class": "TextModule2",
+                            "@base-id": "182885771",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "182957196",
+                            "@fragment-element": "li",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "9007199437626763",
+                            "@title": "li - PDC - Dish washer",
+                            "@id": "9007199437626763-9",
+                            "p":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "@context": "li",
+                                "$": "For cleaning household tableware."
+                            }
+                        }},
+                        {"li":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@class": "TextModule2",
+                            "@base-id": "1218243979",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "C3D9E229-DC07-4366-90D8-B2F0E5005CC4",
+                            "@fragment-element": "li",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "1218243979",
+                            "@id": "1218243979-9",
+                            "p":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "@context": "li",
+                                "$": "In private households and in enclosed spaces in a domestic environment."
+                            }
+                        }},
+                        {"li":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@class": "TextModule2",
+                            "@base-id": "4715916555",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "D8ED5F22-8847-4935-851C-961D774A73BC",
+                            "@fragment-element": "li",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "9007203970657547",
+                            "@id": "9007203970657547-9",
+                            "p":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "@context": "li",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "Up to an altitude of max."},
+                                    {"variable":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@linkid": "4715918092",
+                                        "@name": "1014",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "2500",
+                                        "@variableName": "sea level m",
+                                        "@variant": "1012",
+                                        "@variantName": "PDC - 642 - Zeolith",
+                                        "$": "2500"
+                                    }},
+                                    {"$": " m above sea level."}
+                                ]
+                            }
+                        }}
+                    ]
+                }},
+                {"ul":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "intro": ""
+                }}
+            ],
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "261208778570344843-9",
+                        "@target-id": "9007203970657547-9",
+                        "@label": "D8ED5F22-8847-4935-851C-961D774A73BC",
+                        "@use": "grab",
+                        "@target": "Intended use",
+                        "@name": "TextModuleLink",
+                        "@id": "90071997263399180",
+                        "@source": "Intended use",
+                        "@target-base-id": "4715916555",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "261208778570344843-9",
+                        "@target-id": "1218243979-9",
+                        "@label": "C3D9E229-DC07-4366-90D8-B2F0E5005CC4",
+                        "@use": "grab",
+                        "@target": "Intended use",
+                        "@name": "TextModuleLink",
+                        "@id": "216172783332073612",
+                        "@source": "Intended use",
+                        "@target-base-id": "1218243979",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "261208778570344843-9",
+                        "@target-id": "9007199437626763-9",
+                        "@label": "182957196",
+                        "@use": "grab",
+                        "@target": "Intended use",
+                        "@name": "TextModuleLink",
+                        "@id": "261208778570445964",
+                        "@source": "Intended use",
+                        "@target-base-id": "182885771",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "261208778570344843-9",
+                        "@target-id": "9007199437604875-9",
+                        "@label": "230412556",
+                        "@use": "grab",
+                        "@target": "Intended use",
+                        "@name": "TextModuleLink",
+                        "@id": "261208778617901324",
+                        "@source": "Intended use",
+                        "@target-base-id": "182863883",
+                        "@external": "0"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=182980491/scrollto=182980491/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "182980491",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "90071992730390411-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Restriction on user group"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Avoid risks to children and vulnerable persons."
+            },
+            "BSHCollectionOfElements":             [
+                {"p":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "@class": "TextModule2",
+                    "@base-id": "1253198731",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1431915788",
+                    "@fragment-element": "p",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "1253198731",
+                    "@id": "1253198731-9",
+                    "$": "This appliance may be used by children aged 8 or over and by people who have reduced physical, sensory or mental abilities or inadequate experience and/or knowledge, provided that they are supervised or have been instructed on how to use the appliance safely and have understood the resulting dangers."
+                }},
+                {"p":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "$": "Children must not play with the appliance."
+                }},
+                {"p":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "@class": "TextModule2",
+                    "@base-id": "299886091",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "121479B5-3030-461B-B3A5-8E5F06B16815",
+                    "@fragment-element": "p",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398809368075",
+                    "@title": "p - Cleaning/user maintenance without age specification",
+                    "@id": "18014398809368075-9",
+                    "$": "Cleaning and user maintenance must not be performed by children unless they are being supervised."
+                }},
+                {"p":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "@class": "TextModule2",
+                    "@base-id": "1375822987",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2DB51A73-24C6-4C20-914D-21605550355A",
+                    "@fragment-element": "p",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014399885304971",
+                    "@id": "18014399885304971-9",
+                    "$": "Keep children under the age of 8 years away from the appliance and power cable."
+                }}
+            ],
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "90071992730390411-9",
+                        "@target-id": "18014399885304971-9",
+                        "@label": "2DB51A73-24C6-4C20-914D-21605550355A",
+                        "@use": "grab",
+                        "@target": "Restriction on user group",
+                        "@name": "TextModuleLink",
+                        "@id": "9007204565077260",
+                        "@source": "Restriction on user group",
+                        "@target-base-id": "1375822987",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "90071992730390411-9",
+                        "@target-id": "1709772427-25",
+                        "@label": "1736704012",
+                        "@use": "grab",
+                        "@target": "Restriction on user group",
+                        "@name": "TextModuleLink",
+                        "@id": "36028798755667980",
+                        "@source": "Restriction on user group",
+                        "@target-base-id": "1709772427",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "90071992730390411-9",
+                        "@target-id": "1253198731-9",
+                        "@label": "1431915788",
+                        "@use": "grab",
+                        "@target": "Restriction on user group",
+                        "@name": "TextModuleLink",
+                        "@id": "45035997705620748",
+                        "@source": "Restriction on user group",
+                        "@target-base-id": "1253198731",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "90071992730390411-9",
+                        "@target-id": "18014398809368075-9",
+                        "@label": "121479B5-3030-461B-B3A5-8E5F06B16815",
+                        "@use": "grab",
+                        "@target": "Restriction on user group",
+                        "@name": "TextModuleLink",
+                        "@id": "81064793937406476",
+                        "@source": "Restriction on user group",
+                        "@target-base-id": "299886091",
+                        "@external": "0"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=494615051/scrollto=494615051/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "494615051",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "27021598258838027-9",
+            "@icon-name": "assembling",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Safe installation"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Follow these safety instructions when installing the appliance."
+            },
+            "BSHCollectionOfElements":             [
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.general",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546730251",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546757388",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546730251",
+                    "@id": "546730251-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Improper installation may cause injury."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "When installing and connecting the appliance, follow the instructions in the manual and installation instructions."
+                            }
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.electricshock",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "188244747",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "813564940",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398697726731",
+                    "@id": "18014398697726731-9",
+                    "warnword": {"$": "WARNING"},
+                    "BSHCollectionOfElements":                     [
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Improper installation is dangerous."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "1642461195",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "73F60A5E-E787-4EBE-8699-A52E08CD0F8F",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "1642461195",
+                                        "@id": "1642461195-9",
+                                        "$": "Connect and operate the appliance only in accordance with the specifications on the rating plate."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "1642462987",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "C3E338B4-28BC-4C26-9859-E60D35E9A920",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "1642462987",
+                                        "@id": "1642462987-9",
+                                        "$": "Connect the appliance to a power supply with alternating current only via a properly installed socket with earthing."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "1631745035",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "4BF5CC50-B380-40F8-8391-08BAA931CC2B",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "1631745035",
+                                        "@id": "1631745035-9",
+                                        "$": "The protective conductor system of the domestic electrical installation must be properly installed."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "1631752331",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "1313C9F3-C917-4D87-AEEB-CF153BC926DB",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "1631752331",
+                                        "@id": "1631752331-9",
+                                        "$": "Never equip the appliance with an external switching device, e.g. a timer or remote control."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "723999755",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "1360EEE0-636F-41AD-B5C1-228E7FE8B1F6",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "9007199978740747",
+                                        "@id": "9007199978740747-9",
+                                        "$": "When the appliance is installed, the mains plug of the power cord must be freely accessible. If free access is not possible, an all-pole isolating switch must be installed in the permanent electrical installation according to the installation regulations."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "775348491",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "87D5ED05-1DF3-4FAC-A3F0-61EE0DBDD2D0",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "18014399284830475",
+                                        "@id": "18014399284830475-9",
+                                        "$": "When installing the appliance, check that the power cable is not trapped or damaged."
+                                    }}
+                                ]
+                            }
+                        }},
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Cutting through the supply hose or immersing the Aqua-Stop valve in water is dangerous."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Never immerse the plastic housing in water. The plastic housing on the supply hose contains an electric valve."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Never cut through the supply hose. The supply hose contains electric power cables."
+                                    }}
+                                ]
+                            }
+                        }}
+                    ]
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.fire",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "725446539",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "813565068",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "725446539",
+                    "@id": "725446539-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "It is dangerous to use an extended power cord and non-approved adapters."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "BSHCollectionOfElements":                             [
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Do not use extension cables or multiple socket strips."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "If the power cord is too short, contact Customer Service."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Only use adapters approved by the manufacturer."
+                                }}
+                            ]
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.burns",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546750603",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546757772",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546750603",
+                    "@id": "546750603-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "If the appliance is not installed properly, this may result in burns."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "With free-standing appliances, ensure that they are installed with the back panel against a wall."
+                            }
+                        }
+                    }
+                }},
+                {"linklist":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "BSHCollectionOfElements":                     [
+                        {"link":                         {
+                            "@source-id": "27021598258838027-9",
+                            "@target-id": "546730251-9",
+                            "@label": "546757388",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleLink",
+                            "@id": "27021598310980364",
+                            "@source": "Safe installation",
+                            "@target-base-id": "546730251",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "27021598258838027-9",
+                            "@target-id": "546750603-9",
+                            "@label": "546757772",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleLink",
+                            "@id": "27021598310980748",
+                            "@source": "Safe installation",
+                            "@target-base-id": "546750603",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "27021598258838027-9",
+                            "@target-id": "18014398697726731-9",
+                            "@label": "813564940",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleLink",
+                            "@id": "27021598577787916",
+                            "@source": "Safe installation",
+                            "@target-base-id": "188244747",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "27021598258838027-9",
+                            "@target-id": "725446539-9",
+                            "@label": "813565068",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleLink",
+                            "@id": "27021598577788044",
+                            "@source": "Safe installation",
+                            "@target-base-id": "725446539",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "27021598258838027-9",
+                            "@target-id": "27021598489417355-9",
+                            "@label": "815526796",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleLink",
+                            "@id": "27021598579749772",
+                            "@source": "Safe installation",
+                            "@target-base-id": "725194379",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "27021598258838027-9",
+                            "@target-id": "1635040779-9",
+                            "@label": "1635891852",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleLink",
+                            "@id": "27021599400114828",
+                            "@source": "Safe installation",
+                            "@target-base-id": "1635040779",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "18014398697726731-9",
+                            "@target-id": "1631752331-9",
+                            "@label": "1313C9F3-C917-4D87-AEEB-CF153BC926DB",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "1631752460",
+                            "@target-base-id": "1631752331",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "18014398697726731-9",
+                            "@target-id": "1631745035-9",
+                            "@label": "4BF5CC50-B380-40F8-8391-08BAA931CC2B",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "1631785868",
+                            "@target-base-id": "1631745035",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "18014398697726731-9",
+                            "@target-id": "1642461195-9",
+                            "@label": "73F60A5E-E787-4EBE-8699-A52E08CD0F8F",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "1642468620",
+                            "@target-base-id": "1642461195",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "18014398697726731-9",
+                            "@target-id": "1642462987-9",
+                            "@label": "C3E338B4-28BC-4C26-9859-E60D35E9A920",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "1643089804",
+                            "@target-base-id": "1642462987",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "18014398697726731-9",
+                            "@target-id": "18014399284830475-9",
+                            "@label": "87D5ED05-1DF3-4FAC-A3F0-61EE0DBDD2D0",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "18014399284830604",
+                            "@target-base-id": "775348491",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "18014398697726731-9",
+                            "@target-id": "9007199978740747-9",
+                            "@label": "1360EEE0-636F-41AD-B5C1-228E7FE8B1F6",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "18014399284836492",
+                            "@target-base-id": "723999755",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "27021598489417355-9",
+                            "@target-id": "27021598489419915-9",
+                            "@label": "B8A6310B-C3AE-4B62-B5C6-772918F44E36",
+                            "@use": "grab",
+                            "@target": "Safe installation",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "27021598489420044",
+                            "@source": "safety_Risk of electrical shock_Protective grounding Denmark",
+                            "@target-base-id": "725196939",
+                            "@external": "0"
+                        }}
+                    ]
+                }},
+                {"image":                 {
+                    "@name": "OG_Denmark type E",
+                    "@type": "svg",
+                    "@href": "Images/svg/18014399301698699__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021598556446092",
+                    "@label": "792223116",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "10.668",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "10.668",
+                    "@height-cm": "4.370916666666666"
+                }},
+                {"image":                 {
+                    "@name": "OG_Denmark type K",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200046960523__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021598556447756",
+                    "@label": "792224780",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "4.370916666666666"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=494607371/scrollto=494607371/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "494607371",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "63050395277794315-9",
+            "@icon-name": "operating",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Safe use"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "@class": "TextModule2",
+                "@base-id": "215342859",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1467986956",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "215342859",
+                "@id": "215342859-9",
+                "$": "Follow these safety instructions when using the appliance."
+            },
+            "BSHCollectionOfElements":             [
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.healthdamage",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546678283",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546725132",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546678283",
+                    "@id": "546678283-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Failure to comply with safety instructions and directions for use on packagings of detergent and rinse aid products may cause serious harm to health."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Follow the safety instructions and directions for use on the packagings of detergent and rinse aid products."
+                            }
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.explosion",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "544925067",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546725260",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199799666059",
+                    "@id": "9007199799666059-17",
+                    "warnword": {"$": "WARNING"},
+                    "BSHCollectionOfElements":                     [
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Adding solvents to the interior of the appliance may cause explosions."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Never add solvents to the interior of the appliance."
+                                }
+                            }
+                        }},
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Highly caustic alkaline or highly acidic cleaning agents in conjunction with aluminium parts in the interior of the appliance may cause explosions."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Never use highly caustic alkaline or highly acidic cleaning agents, in particular commercial or industrial products, in conjunction with aluminium parts (e.g. grease filters of extractor hoods or aluminium pans), e.g. for the Machine Care programme."
+                                }
+                            }
+                        }}
+                    ]
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.general",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "7961059083",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "7964131212",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007207215800075",
+                    "@title": "safety_Risk of injury_Open door_en",
+                    "@id": "9007207215800075-9",
+                    "warnword": {"$": "WARNING"},
+                    "BSHCollectionOfElements":                     [
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Leaving the appliance door open may result in injury."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Only open the appliance door to load or unload tableware in order to prevent accidents, e.g. through tripping."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Do not sit or stand on the appliance door when open."
+                                    }}
+                                ]
+                            }
+                        }},
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Knives and utensils with sharp points can cause injuries."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Arrange knives and utensils with sharp points in the cutlery basket with the points downwards, on the knife shelf or in the cutlery drawer."
+                                }
+                            }
+                        }}
+                    ]
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.scalding",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546686347",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546725644",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546686347",
+                    "@id": "546686347-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "If you open the appliance door while the programme is running, hot water may splash out of the appliance."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Open the appliance door carefully if the programme is still running."
+                            }
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.tipping",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546672139",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546725772",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546672139",
+                    "@id": "546672139-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Overfilling the Baskets may cause the appliance to tip up."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Never overfill the Baskets with free-standing appliances."
+                            }
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.electricshock",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "204939659",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "832244236",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "54043195733385611",
+                    "@title": "Risk of electric shock - Moisture penetration",
+                    "@id": "54043195733385611-9",
+                    "warnword": {"$": "WARNING"},
+                    "BSHCollectionOfElements":                     [
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "An ingress of moisture can cause an electric shock."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "4233955723",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "C06D41B0-6B27-42AA-ABAB-3807A550D842",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "4233955723",
+                                        "@id": "4233955723-9",
+                                        "$": "Only use the appliance in enclosed spaces."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "4233957515",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "11B971F0-67F7-4FC9-A0DD-695C46DF3A30",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "4233957515",
+                                        "@id": "4233957515-9",
+                                        "$": "Never expose the appliance to intense heat or humidity."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "725079179",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "C78844E1-3F53-4078-9AAF-32D3497D2210",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "9007199979820171",
+                                        "@id": "9007199979820171-9",
+                                        "$": "Do not use steam- or high-pressure cleaners to clean the appliance."
+                                    }}
+                                ]
+                            }
+                        }},
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "@class": "TextModule2",
+                            "@base-id": "1741725195",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "6A89172D-7793-4A6A-A61B-CBAC580D1358",
+                            "@fragment-element": "cause",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "1741725195",
+                            "@id": "1741725195-9",
+                            "$": "If the insulation of the power cord is damaged, this is dangerous."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@class": "TextModule2",
+                                        "@base-id": "4454734987",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "38E811F1-BCB9-4993-968C-D7EFB3057176",
+                                        "@fragment-element": "safety-instruction",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "4454734987",
+                                        "@id": "4454734987-9",
+                                        "$": "Never let the power cord come into contact with hot appliance parts or heat sources."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Never let the power cord come into contact with sharp points or edges."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Never kink, crush or modify the power cord."
+                                    }}
+                                ]
+                            }
+                        }}
+                    ]
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.burns",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "832913675",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "3518512396",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "832913675",
+                    "@id": "832913675-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "The blow opening of the Zeolith container becomes hot and can cause burns."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Never touch the blow opening of the Zeolith container."
+                            }
+                        }
+                    }
+                }}
+            ],
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959059851-9",
+                        "@label": "7964130316",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218871308",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959059851",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959068939-9",
+                        "@label": "7964130444",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218871436",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959068939",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959436555-9",
+                        "@label": "7964130572",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218871564",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959436555",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961018635-9",
+                        "@label": "7964130700",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218871692",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961018635",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961027851-9",
+                        "@label": "7964130828",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218871820",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961027851",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959008779-9",
+                        "@label": "7964130956",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218871948",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959008779",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961498379-9",
+                        "@label": "7964131084",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872076",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961498379",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "9007207215800075-9",
+                        "@label": "7964131212",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872204",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961059083",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962719627-9",
+                        "@label": "7964131340",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872332",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962719627",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961068299-9",
+                        "@label": "7964131468",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872460",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961068299",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961103115-9",
+                        "@label": "7964131596",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872588",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961103115",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961125131-9",
+                        "@label": "7964131724",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872716",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961125131",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961313547-9",
+                        "@label": "7964131852",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872844",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961313547",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961533195-9",
+                        "@label": "7964131980",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218872972",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961533195",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7960164619-9",
+                        "@label": "7964132108",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873100",
+                        "@source": "Safe use",
+                        "@target-base-id": "7960164619",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961542411-9",
+                        "@label": "7964132236",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873228",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961542411",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961906443-9",
+                        "@label": "7964132364",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873356",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961906443",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961884427-9",
+                        "@label": "7964132492",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873484",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961884427",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961915659-9",
+                        "@label": "7964132620",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873612",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961915659",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961924875-9",
+                        "@label": "7964132748",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873740",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961924875",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961322763-9",
+                        "@label": "7964132876",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873868",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961322763",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961998091-9",
+                        "@label": "7964133004",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218873996",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961998091",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962007307-9",
+                        "@label": "7964133132",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874124",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962007307",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962051467-9",
+                        "@label": "7964133260",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874252",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962051467",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962042251-9",
+                        "@label": "7964133388",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874380",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962042251",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962086283-9",
+                        "@label": "7964133516",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874508",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962086283",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7961049867-9",
+                        "@label": "7964133644",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874636",
+                        "@source": "Safe use",
+                        "@target-base-id": "7961049867",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962121099-9",
+                        "@label": "7964133772",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874764",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962121099",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962130315-9",
+                        "@label": "7964133900",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218874892",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962130315",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962152331-9",
+                        "@label": "7964134028",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875020",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962152331",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962558347-9",
+                        "@label": "7964134156",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875148",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962558347",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962644363-9",
+                        "@label": "7964134284",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875276",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962644363",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962662795-9",
+                        "@label": "7964134412",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875404",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962662795",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962710411-9",
+                        "@label": "7964134540",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875532",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962710411",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959012747-9",
+                        "@label": "7964134668",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875660",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959012747",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962653579-9",
+                        "@label": "7964134796",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875788",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962653579",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962805643-9",
+                        "@label": "7964134924",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218875916",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962805643",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962853259-9",
+                        "@label": "7964135052",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876044",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962853259",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962906507-9",
+                        "@label": "7964135180",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876172",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962906507",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962862475-9",
+                        "@label": "7964135308",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876300",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962862475",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7962871691-9",
+                        "@label": "7964135436",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876428",
+                        "@source": "Safe use",
+                        "@target-base-id": "7962871691",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959570187-9",
+                        "@label": "7964135564",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876556",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959570187",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7959560971-9",
+                        "@label": "7964135692",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876684",
+                        "@source": "Safe use",
+                        "@target-base-id": "7959560971",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "7960117003-9",
+                        "@label": "7964135820",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "9007207218876812",
+                        "@source": "Safe use",
+                        "@target-base-id": "7960117003",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "832913675-9",
+                        "@label": "3518512396",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "45035999792217356",
+                        "@source": "Safe use",
+                        "@target-base-id": "832913675",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "546678283-9",
+                        "@label": "546725132",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395329912076",
+                        "@source": "Safe use",
+                        "@target-base-id": "546678283",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "9007199799666059-17",
+                        "@label": "546725260",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395329912204",
+                        "@source": "Safe use",
+                        "@target-base-id": "544925067",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "546704779-9",
+                        "@label": "546725516",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395329912460",
+                        "@source": "Safe use",
+                        "@target-base-id": "546704779",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "546686347-9",
+                        "@label": "546725644",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395329912588",
+                        "@source": "Safe use",
+                        "@target-base-id": "546686347",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "546672139-9",
+                        "@label": "546725772",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395329912716",
+                        "@source": "Safe use",
+                        "@target-base-id": "546672139",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "27021598488969995-9",
+                        "@label": "815527820",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395598714764",
+                        "@source": "Safe use",
+                        "@target-base-id": "724747019",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "54043195733385611-9",
+                        "@label": "832244236",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050395615431180",
+                        "@source": "Safe use",
+                        "@target-base-id": "204939659",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050395277794315-9",
+                        "@target-id": "215342859-9",
+                        "@label": "1467986956",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleLink",
+                        "@id": "63050396251173900",
+                        "@source": "Safe use",
+                        "@target-base-id": "215342859",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "27021598488969995-9",
+                        "@target-id": "4454734987-9",
+                        "@label": "38E811F1-BCB9-4993-968C-D7EFB3057176",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "9007203709480204",
+                        "@target-base-id": "4454734987",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "27021598488969995-9",
+                        "@target-id": "1741725195-9",
+                        "@label": "6A89172D-7793-4A6A-A61B-CBAC580D1358",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "18014400251211404",
+                        "@target-base-id": "1741725195",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195733385611-9",
+                        "@target-id": "4233955723-9",
+                        "@label": "C06D41B0-6B27-42AA-ABAB-3807A550D842",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "4233955852",
+                        "@source": "Risk of electric shock - Moisture penetration",
+                        "@target-base-id": "4233955723",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195733385611-9",
+                        "@target-id": "4233957515-9",
+                        "@label": "11B971F0-67F7-4FC9-A0DD-695C46DF3A30",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "4233957644",
+                        "@source": "Risk of electric shock - Moisture penetration",
+                        "@target-base-id": "4233957515",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195733385611-9",
+                        "@target-id": "9007199979820171-9",
+                        "@label": "C78844E1-3F53-4078-9AAF-32D3497D2210",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "36028797744081164",
+                        "@source": "Risk of electric shock - Moisture penetration",
+                        "@target-base-id": "725079179",
+                        "@external": "0"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=499195403/scrollto=499195403/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "499195403",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "18014399008677387-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Damaged appliance"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Follow the safety instructions if the appliance is damaged."
+            },
+            "safety":             {
+                "@locationcontext": "SafetyChapterSingle",
+                "@type": "custom.bsh.electricshock",
+                "@severity": "warning",
+                "@class": "TextModule2",
+                "@base-id": "204877707",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "815521548",
+                "@fragment-element": "safety",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "9007199459618699",
+                "@id": "9007199459618699-9",
+                "warnword": {"$": "WARNING"},
+                "BSHCollectionOfElements":                 [
+                    {"cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "@class": "TextModule2",
+                        "@base-id": "1741862923",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "B43F9595-50C1-4CA0-98F9-F2282750DC3A",
+                        "@fragment-element": "cause",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "1741862923",
+                        "@id": "1741862923-9",
+                        "$": "If the appliance or the power cord is damaged, this is dangerous."
+                    }},
+                    {"measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "BSHCollectionOfElements":                             [
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Never operate a damaged appliance."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "@class": "TextModule2",
+                                    "@base-id": "723816843",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "19DFF446-C6C3-4EED-B81B-3F81DE6BD1BD",
+                                    "@fragment-element": "safety-instruction",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "9007199978557835",
+                                    "@id": "9007199978557835-9",
+                                    "$": "Never operate an appliance with a cracked or fractured surface."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "@class": "TextModule2",
+                                    "@base-id": "1644280075",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "3F2ABCBB-5011-4492-8320-BDDFF6812E5B",
+                                    "@fragment-element": "safety-instruction",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "1644280075",
+                                    "@id": "1644280075-9",
+                                    "$": "Never pull on the power cord to unplug the appliance. Always unplug the appliance at the mains."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "@class": "TextModule2",
+                                    "@base-id": "723829771",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "B524D21F-579C-436B-9C46-8AA7C864BDE8",
+                                    "@fragment-element": "safety-instruction",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "9007199978570763",
+                                    "@id": "9007199978570763-9",
+                                    "$": "If the appliance or the power cord is damaged, immediately unplug the power cord or switch off the fuse in the fuse box and turn off the water tap."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "link":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "@BSH-Linktype": "Kurzlink",
+                                        "@source-id": "9007199459618699-9",
+                                        "@target-id": "144115188258262923-9",
+                                        "@use": "grab",
+                                        "@target": "Customer Service",
+                                        "@name": "RelatedTopic",
+                                        "@id": "1781069452",
+                                        "@target-base-id": "182407051",
+                                        "@external": "0",
+                                        "@linkid": "1781069452",
+                                        "@arrow": "after",
+                                        "$": "Call Customer Service."
+                                    }
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Repairs to the appliance should only be carried out by trained specialist staff."
+                                }}
+                            ]
+                        }
+                    }},
+                    {"cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Incorrect repairs are dangerous."
+                    }},
+                    {"measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "BSHCollectionOfElements":                             [
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "@class": "TextModule2",
+                                    "@base-id": "6309509643",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "43B4B1FF-8407-4C35-BD89-45D2C3D5FB09",
+                                    "@fragment-element": "safety-instruction",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "6309509643",
+                                    "@id": "6309509643-17",
+                                    "$": "Repairs to the appliance should only be carried out by trained specialist staff."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "@class": "TextModule2",
+                                    "@base-id": "6309513739",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "F27FA8BE-60D3-4284-8412-D3DEBAAD7C93",
+                                    "@fragment-element": "safety-instruction",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "6309513739",
+                                    "@id": "6309513739-17",
+                                    "$": "Only use genuine spare parts when repairing the appliance."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "@class": "TextModule2",
+                                    "@base-id": "724001547",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "AC92E4F5-2581-453F-A532-0DDB7F01E5BE",
+                                    "@fragment-element": "safety-instruction",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "18014399233483531",
+                                    "@id": "18014399233483531-17",
+                                    "$": "If the power cord of this appliance is damaged, it must be replaced with a special connection cable, which is available from the manufacturer or his Customer Service."
+                                }}
+                            ]
+                        }
+                    }}
+                ]
+            },
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "18014399008677387-9",
+                        "@target-id": "9007199459618699-9",
+                        "@label": "815521548",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleLink",
+                        "@id": "18014399325003532",
+                        "@source": "Damaged appliance",
+                        "@target-base-id": "204877707",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014399008677387-9",
+                        "@target-id": "18014399233554315-9",
+                        "@label": "815523852",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleLink",
+                        "@id": "18014399325005836",
+                        "@source": "Damaged appliance",
+                        "@target-base-id": "724072331",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199459618699-9",
+                        "@target-id": "1644280075-9",
+                        "@label": "3F2ABCBB-5011-4492-8320-BDDFF6812E5B",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "1644280204",
+                        "@target-base-id": "1644280075",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199459618699-9",
+                        "@target-id": "1741862923-9",
+                        "@label": "B43F9595-50C1-4CA0-98F9-F2282750DC3A",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "1741867148",
+                        "@target-base-id": "1741862923",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199459618699-9",
+                        "@target-id": "144115188258262923-9",
+                        "@label": "1781069452",
+                        "@use": "grab",
+                        "@target": "Customer Service",
+                        "@name": "RelatedTopic",
+                        "@id": "1781069452",
+                        "@target-base-id": "182407051",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199459618699-9",
+                        "@target-id": "9007199978557835-9",
+                        "@label": "19DFF446-C6C3-4EED-B81B-3F81DE6BD1BD",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "9007199978557964",
+                        "@target-base-id": "723816843",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199459618699-9",
+                        "@target-id": "9007199978570763-9",
+                        "@label": "B524D21F-579C-436B-9C46-8AA7C864BDE8",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "9007199978568716",
+                        "@target-base-id": "723829771",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014399233554315-9",
+                        "@target-id": "6309509643-17",
+                        "@label": "43B4B1FF-8407-4C35-BD89-45D2C3D5FB09",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "6309509772",
+                        "@target-base-id": "6309509643",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014399233554315-9",
+                        "@target-id": "6309513739-17",
+                        "@label": "F27FA8BE-60D3-4284-8412-D3DEBAAD7C93",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "6309513868",
+                        "@target-base-id": "6309513739",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014399233554315-9",
+                        "@target-id": "18014399233483531-17",
+                        "@label": "AC92E4F5-2581-453F-A532-0DDB7F01E5BE",
+                        "@use": "grab",
+                        "@target": "Damaged appliance",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "18014399284824588",
+                        "@target-base-id": "724001547",
+                        "@external": "0"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=494612235/scrollto=494612235/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@base-id": "494612235",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "9007199749353227-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Risk to children"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Follow the safety instructions if there are children in your home."
+            },
+            "BSHCollectionOfElements":             [
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.suffocation",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "188270347",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "551943180",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "188270347",
+                    "@id": "188270347-9",
+                    "warnword": {"$": "WARNING"},
+                    "BSHCollectionOfElements":                     [
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Children may put packaging material over their heads or wrap themselves up in it and suffocate."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Keep packaging material away from children."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Do not let children play with packaging material."
+                                    }}
+                                ]
+                            }
+                        }},
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Children may breathe in or swallow small parts, causing them to suffocate."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Keep small parts away from children."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Do not let children play with small parts."
+                                    }}
+                                ]
+                            }
+                        }},
+                        {"cause":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "$": "Children may become trapped in the appliance and suffocate."
+                        }},
+                        {"measures":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instructions":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "BSHCollectionOfElements":                                 [
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Use the childproof lock if fitted."
+                                    }},
+                                    {"safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Never let children play with or operate the appliance."
+                                    }}
+                                ]
+                            }
+                        }}
+                    ]
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.healthrisk",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "723071755",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "815532812",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199977812747",
+                    "@id": "9007199977812747-17",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Children can lock themselves in the appliance, thereby putting their lives at risk."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "@class": "TextModule2",
+                                "@base-id": "774560779",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "F3914378-A69F-4E2F-ABDE-159FAA2DBB90",
+                                "@fragment-element": "safety-instruction",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "9007200029301771",
+                                "@id": "9007200029301771-17",
+                                "$": "With redundant appliances, unplug the power cord. Then cut through the cord and damage the lock on the appliance door beyond repair so that the appliance door will no longer close."
+                            }
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.crushing",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546845323",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546876940",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546845323",
+                    "@id": "546845323-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "With higher-level appliances, children can become crushed between the appliance door and cabinet doors underneath."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Keep an eye on children when opening and closing the appliance door."
+                            }
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.chemical",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546837643",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546877068",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546837643",
+                    "@id": "546837643-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Rinse aid and detergent may cause chemical burns to the mouth, throat and eyes."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "BSHCollectionOfElements":                             [
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Keep children away from detergent and rinse aid products."
+                                }},
+                                {"safety-instruction":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "$": "Keep children away from the appliance when open. The water in the interior of the dishwasher is not drinking water. It may contain residues of detergents and rinse aid."
+                                }}
+                            ]
+                        }
+                    }
+                }},
+                {"safety":                 {
+                    "@locationcontext": "SafetyChapterSingle",
+                    "@type": "custom.bsh.general",
+                    "@severity": "warning",
+                    "@class": "TextModule2",
+                    "@base-id": "546830347",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "546877196",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "546830347",
+                    "@id": "546830347-9",
+                    "warnword": {"$": "WARNING"},
+                    "cause":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Children may get their fingers caught in the slots of the tablet collecting tray and injure themselves."
+                    },
+                    "measures":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "safety-instructions":                         {
+                            "@locationcontext": "SafetyChapter",
+                            "safety-instruction":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Keep children away from the appliance when open."
+                            }
+                        }
+                    }
+                }}
+            ],
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "546845323-9",
+                        "@label": "546876940",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007199801617932",
+                        "@source": "Risk to children",
+                        "@target-base-id": "546845323",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "546837643-9",
+                        "@label": "546877068",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007199801618060",
+                        "@source": "Risk to children",
+                        "@target-base-id": "546837643",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "546830347-9",
+                        "@label": "546877196",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007199801618188",
+                        "@source": "Risk to children",
+                        "@target-base-id": "546830347",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "546822027-9",
+                        "@label": "546877324",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007199801618316",
+                        "@source": "Risk to children",
+                        "@target-base-id": "546822027",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "188270347-9",
+                        "@label": "551943180",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007199806684172",
+                        "@source": "Risk to children",
+                        "@target-base-id": "188270347",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "546804363-9",
+                        "@label": "551943308",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007199806684300",
+                        "@source": "Risk to children",
+                        "@target-base-id": "546804363",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199749353227-9",
+                        "@target-id": "9007199977812747-17",
+                        "@label": "815532812",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleLink",
+                        "@id": "9007200070273804",
+                        "@source": "Risk to children",
+                        "@target-base-id": "723071755",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007199977812747-17",
+                        "@target-id": "9007200029301771-17",
+                        "@label": "F3914378-A69F-4E2F-ABDE-159FAA2DBB90",
+                        "@use": "grab",
+                        "@target": "Risk to children",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "9007200029301900",
+                        "@target-base-id": "774560779",
+                        "@external": "0"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@locationcontext": "SafetyChapter",
+            "@file-name": "1827680111704568971.html#!/Togglebox=1830480751704572555/scrollto=1830480751704572555/",
+            "@class": "Safety",
+            "@type": "TextNode",
+            "@reuseid": "1704572555",
+            "@base-reuseid": "1704572555",
+            "@base-id": "183048075",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "45035996456753035-9",
+            "@is-page": "false",
+            "@childrencount": "2",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title":             {
+                "@locationcontext": "SafetyChapter",
+                "$": "Preventing material damage"
+            },
+            "shortdesc":             {
+                "@locationcontext": "SafetyChapter",
+                "@class": "TextModule2",
+                "@base-id": "425171723",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "C795808C-E97D-4FBD-AC15-9758854033A9",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "9007199679912715",
+                "@title": "shortdesc - Preventing material damage",
+                "@id": "9007199679912715-9",
+                "$": "Follow these instructions to prevent material damage to your appliance, accessories or other objects in your kitchen."
+            },
+            "linklist":             {
+                "@locationcontext": "SafetyChapter",
+                "BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "45035996456753035-9",
+                        "@target-id": "9007199765323915-9",
+                        "@label": "1704573068",
+                        "@use": "grab",
+                        "@target": "Safe installation",
+                        "@name": "InformationLink",
+                        "@id": "1704573068",
+                        "@source": "Preventing material damage",
+                        "@target-base-id": "510582923",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "45035996456753035-9",
+                        "@target-id": "816673035-9",
+                        "@label": "1704573452",
+                        "@use": "grab",
+                        "@target": "Safe use",
+                        "@name": "InformationLink",
+                        "@id": "1704573452",
+                        "@source": "Preventing material damage",
+                        "@target-base-id": "816673035",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "45035996456753035-9",
+                        "@target-id": "9007199679912715-9",
+                        "@label": "C795808C-E97D-4FBD-AC15-9758854033A9",
+                        "@use": "grab",
+                        "@target": "Preventing material damage",
+                        "@name": "TextModuleLink",
+                        "@id": "36028797444140556",
+                        "@source": "Preventing material damage",
+                        "@target-base-id": "425171723",
+                        "@external": "0"
+                    }}
+                ]
+            },
+            "BSHCollectionOfElements":             [
+                {"node":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "@file-name": "1827680111704568971.html#!/Togglebox=1830480751704572555/scrollto=510582923/",
+                    "@class": "Safety",
+                    "@type": "TextNode",
+                    "@base-id": "510582923",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "9007199765323915-9",
+                    "@icon-name": "assembling",
+                    "@is-page": "false",
+                    "@childrencount": "0",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Safe installation"
+                    },
+                    "shortdesc":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Follow the instructions when installing the appliance."
+                    },
+                    "safety":                     {
+                        "@locationcontext": "SafetyChapterSingle",
+                        "@type": "custom.bsh.notice",
+                        "@severity": "notice",
+                        "@class": "TextModule2",
+                        "@base-id": "546917259",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "547219340",
+                        "@fragment-element": "safety",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007199801658251",
+                        "@id": "9007199801658251-9",
+                        "warnword": {"$": "ATTENTION!"},
+                        "BSHCollectionOfElements":                         [
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Improper installation of the appliance may cause damage."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "If the dishwasher is installed above or below other domestic appliances, follow the information on installation in combination with a dishwasher in the installation instructions for the individual appliances."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "If there is no information or if the installation instructions do not include the relevant information, contact the manufacturer of these appliances to check that the dishwasher can be installed above or below these appliances."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "If no information is available from the manufacturer, the dishwasher should not be installed above or below such appliances."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "To ensure the safe operation of all domestic appliances, continue following the installation instructions for the dishwasher."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "@class": "TextModule2",
+                                            "@base-id": "2310419211",
+                                            "@chapternumbering": "yes",
+                                            "@showintoc": "yes",
+                                            "@linkid": "BF0CF1D5-2C3C-41DD-B972-6EBA72734F77",
+                                            "@fragment-element": "safety-instruction",
+                                            "@aspect-name": "en",
+                                            "@specific-culture": "en-GB",
+                                            "@ref": "2310419211",
+                                            "@id": "2310419211-9",
+                                            "$": "Do not install the dishwasher under a hob."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "Do not install the dishwasher near heat sources, e.g. radiators, heat storage tanks, ovens or other appliances that generate heat."
+                                        }}
+                                    ]
+                                }
+                            }},
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Modified or damaged water hoses may result in material damage and damage to the appliance."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "Never kink, crush, modify or cut through water hoses."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "Only use the water hoses supplied with the appliance or genuine spare hoses."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "Never re-use water hoses that have been used before."
+                                        }}
+                                    ]
+                                }
+                            }},
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "If the water pressure is too high or too low, this may impair functioning of the appliance."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "BSHCollectionOfElements":                                             [
+                                                {"$": "Make sure that the water pressure in the water supply system is min."},
+                                                {"variable":                                                 {
+                                                    "@locationcontext": "SafetyChapter",
+                                                    "@linkid": "1343280652",
+                                                    "@name": "1002",
+                                                    "@detailed-topic-type": "Technical value",
+                                                    "@variableType": "Standard",
+                                                    "@variable": "50",
+                                                    "@variableName": "water pressure_min kPa",
+                                                    "@variant": "1006",
+                                                    "@variantName": "PDC",
+                                                    "$": "50"
+                                                }},
+                                                {"$": " kPa ("},
+                                                {"variable":                                                 {
+                                                    "@locationcontext": "SafetyChapter",
+                                                    "@linkid": "1343280652",
+                                                    "@name": "1004",
+                                                    "@detailed-topic-type": "Technical value",
+                                                    "@variableType": "Standard",
+                                                    "@variable": "0,5",
+                                                    "@variableName": "water pressure_min bar",
+                                                    "@variant": "1006",
+                                                    "@variantName": "PDC",
+                                                    "$": "0,5"
+                                                }},
+                                                {"$": " bar) and max."},
+                                                {"variable":                                                 {
+                                                    "@locationcontext": "SafetyChapter",
+                                                    "@linkid": "1343280652",
+                                                    "@name": "1005",
+                                                    "@detailed-topic-type": "Technical value",
+                                                    "@variableType": "Standard",
+                                                    "@variable": "1000",
+                                                    "@variableName": "water pressure_max kPa",
+                                                    "@variant": "1006",
+                                                    "@variantName": "PDC",
+                                                    "$": "1000"
+                                                }},
+                                                {"$": " kPa ("},
+                                                {"variable":                                                 {
+                                                    "@locationcontext": "SafetyChapter",
+                                                    "@linkid": "1343280652",
+                                                    "@name": "1003",
+                                                    "@detailed-topic-type": "Technical value",
+                                                    "@variableType": "Standard",
+                                                    "@variable": "10",
+                                                    "@variableName": "water pressure_max bar",
+                                                    "@variant": "1006",
+                                                    "@variantName": "PDC",
+                                                    "$": "10"
+                                                }},
+                                                {"$": " bar)."}
+                                            ]
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "If the water pressure exceeds the maximum value specified, a pressure-reducing valve must be installed between the drinking water connection and the hose set of the appliance."
+                                        }}
+                                    ]
+                                }
+                            }}
+                        ]
+                    },
+                    "linklist":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "BSHCollectionOfElements":                         [
+                            {"link":                             {
+                                "@source-id": "9007199765323915-9",
+                                "@target-id": "9007199801658251-9",
+                                "@label": "547219340",
+                                "@use": "grab",
+                                "@target": "Safe installation",
+                                "@name": "TextModuleLink",
+                                "@id": "9007199801960332",
+                                "@source": "Safe installation",
+                                "@target-base-id": "546917259",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "9007199765323915-9",
+                                "@target-id": "9007200030261259-9",
+                                "@label": "1254432396",
+                                "@use": "grab",
+                                "@target": "Safe installation",
+                                "@name": "TextModuleLink",
+                                "@id": "9007200509173388",
+                                "@source": "Safe installation",
+                                "@target-base-id": "775520267",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "9007199765323915-9",
+                                "@target-id": "9007200030330379-9",
+                                "@label": "1254432524",
+                                "@use": "grab",
+                                "@target": "Safe installation",
+                                "@name": "TextModuleLink",
+                                "@id": "9007200509173516",
+                                "@source": "Safe installation",
+                                "@target-base-id": "775589387",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "9007199801658251-9",
+                                "@target-id": "2310419211-9",
+                                "@label": "BF0CF1D5-2C3C-41DD-B972-6EBA72734F77",
+                                "@use": "grab",
+                                "@target": "Safe installation",
+                                "@name": "TextModuleHierarchy",
+                                "@id": "2310427404",
+                                "@target-base-id": "2310419211",
+                                "@external": "0"
+                            }}
+                        ]
+                    }
+                }},
+                {"node":                 {
+                    "@locationcontext": "SafetyChapter",
+                    "@file-name": "1827680111704568971.html#!/Togglebox=1830480751704572555/scrollto=816673035/",
+                    "@class": "Safety",
+                    "@type": "TextNode",
+                    "@base-id": "816673035",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "816673035-9",
+                    "@icon-name": "operating",
+                    "@is-page": "false",
+                    "@childrencount": "0",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Safe use"
+                    },
+                    "shortdesc":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "$": "Follow the instructions when using the appliance."
+                    },
+                    "safety":                     {
+                        "@locationcontext": "SafetyChapterSingle",
+                        "@type": "custom.bsh.notice",
+                        "@severity": "notice",
+                        "@class": "TextModule2",
+                        "@base-id": "780253323",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "816678924",
+                        "@fragment-element": "safety",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "780253323",
+                        "@id": "780253323-9",
+                        "warnword": {"$": "ATTENTION!"},
+                        "BSHCollectionOfElements":                         [
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Escaping water vapour can damage fitted units."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "When the programme ends, leave the appliance to cool down for a while before opening the door."
+                                    }
+                                }
+                            }},
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Special salt can damage the tub due to corrosion."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "To make sure that any special salt that escapes is washed out of the tub, add the special salt to the dispenser for special salt immediately before the programme starts."
+                                    }
+                                }
+                            }},
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Detergent may damage the water softening system."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "safety-instruction":                                     {
+                                        "@locationcontext": "SafetyChapter",
+                                        "$": "Only fill the dispenser of the water softening system with special dishwasher salt."
+                                    }
+                                }
+                            }},
+                            {"cause":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "$": "Unsuitable cleaning agents may damage the appliance."
+                            }},
+                            {"measures":                             {
+                                "@locationcontext": "SafetyChapter",
+                                "safety-instructions":                                 {
+                                    "@locationcontext": "SafetyChapter",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "Do not use a steam cleaner."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "So as not to scratch the finish on the appliance, do not use sponges with a rough surface or abrasive cleaning agents."
+                                        }},
+                                        {"safety-instruction":                                         {
+                                            "@locationcontext": "SafetyChapter",
+                                            "$": "To prevent corrosion, do not use sponge cloths on dishwashers with a stainless steel front or rinse such cloths thoroughly several times before using them for the first time."
+                                        }}
+                                    ]
+                                }
+                            }}
+                        ]
+                    },
+                    "linklist":                     {
+                        "@locationcontext": "SafetyChapter",
+                        "BSHCollectionOfElements":                         [
+                            {"link":                             {
+                                "@source-id": "816673035-9",
+                                "@target-id": "780253323-9",
+                                "@label": "816678924",
+                                "@use": "grab",
+                                "@target": "Safe use",
+                                "@name": "TextModuleLink",
+                                "@id": "816678924",
+                                "@source": "Safe use",
+                                "@target-base-id": "780253323",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "816673035-9",
+                                "@target-id": "547225227-17",
+                                "@label": "816679052",
+                                "@use": "grab",
+                                "@target": "Safe use",
+                                "@name": "TextModuleLink",
+                                "@id": "816679052",
+                                "@source": "Safe use",
+                                "@target-base-id": "547225227",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "816673035-9",
+                                "@target-id": "548307723-17",
+                                "@label": "816679180",
+                                "@use": "grab",
+                                "@target": "Safe use",
+                                "@name": "TextModuleLink",
+                                "@id": "816679180",
+                                "@source": "Safe use",
+                                "@target-base-id": "548307723",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "816673035-9",
+                                "@target-id": "816682507-9",
+                                "@label": "830978956",
+                                "@use": "grab",
+                                "@target": "Safe use",
+                                "@name": "TextModuleLink",
+                                "@id": "830978956",
+                                "@source": "Safe use",
+                                "@target-base-id": "816682507",
+                                "@external": "0"
+                            }}
+                        ]
+                    }
+                }}
+            ]
+        }}
+    ]
+}

@@ -1,0 +1,1157 @@
+{
+    "@file-name": "3614853233580503819.html",
+    "@class": "Reference",
+    "@type": "TextNode",
+    "@reuseid": "27021601344726795",
+    "@base-reuseid": "3580503819",
+    "@base-id": "361485323",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "108086391418377227-9",
+    "@icon-name": "techdata",
+    "@is-page": "true",
+    "@childrencount": "2",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Technical specifications"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "206413451",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "602143244",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "206413451",
+        "@id": "206413451-9",
+        "$": "Facts and figures for your appliance can be found here."
+    },
+    "properties":     {
+        "@flipTable": "false",
+        "@presentation": "table",
+        "@propertie-count": "2",
+        "@hsdl-percent": "50% 50%",
+        "property":         [
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Weight"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Max.:",
+                            {"variable":                             {
+                                "@linkid": "602278284",
+                                "@name": "1002",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "60",
+                                "@variableName": "Gewicht",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "60"
+                            }},
+                            " kg"
+                        ]
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Voltage"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "9144205579",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "D4077464-C6FE-405C-B4D6-7EEB3FA7D4AD",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9144205579",
+                        "@id": "9144205579-9",
+                        "@context": "Cond",
+                        "$":                         [
+                            {"variable":                             {
+                                "@linkid": "9144207116",
+                                "@name": "1005",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "220 - 240",
+                                "@variableName": "Spannung Volt",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "220 - 240"
+                            }},
+                            " V,",
+                            {"variable":                             {
+                                "@linkid": "9144207116",
+                                "@name": "1004",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "50",
+                                "@variableName": "Spannung Hz tief",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "50"
+                            }},
+                            " Hz or",
+                            {"variable":                             {
+                                "@linkid": "9144207116",
+                                "@name": "1003",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "60",
+                                "@variableName": "Spannung Hz hoch",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "60"
+                            }},
+                            " Hz"
+                        ]
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Power rating"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            {"variable":                             {
+                                "@linkid": "602278284",
+                                "@name": "1006",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "2000 - 2400",
+                                "@variableName": "Anschlusswert tief",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "2000 - 2400"
+                            }},
+                            " W"
+                        ]
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Fuse"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            {"variable":                             {
+                                "@linkid": "602278284",
+                                "@name": "1008",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "10 - 16",
+                                "@variableName": "Absicherung",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "10 - 16"
+                            }},
+                            " A"
+                        ]
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Power consumption"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "Off mode/standby mode:",
+                                {"variable":                                 {
+                                    "@linkid": "602278284",
+                                    "@name": "1009",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0.50",
+                                    "@variableName": "Leistungsaufnahme ausgeschaltet",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "0.50"
+                                }},
+                                " W"
+                            ]
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "Left-on mode:",
+                                {"variable":                                 {
+                                    "@linkid": "602278284",
+                                    "@name": "1010",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0.50",
+                                    "@variableName": "Leistungsaufnahme unausgeschaltet",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "0.50"
+                                }},
+                                " W"
+                            ]
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "780222219",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "F6D229E5-B66F-4576-9822-58A41E5DFA2F",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "63050395563409163",
+                            "@id": "63050395563409163-9",
+                            "@context": "Cond",
+                            "$":                             [
+                                "Networked standby:",
+                                {"variable":                                 {
+                                    "@linkid": "780225036",
+                                    "@name": "1012",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "2.00",
+                                    "@variableName": "Leistungsaufnahme vernetzter Bereitschaftsbetrieb",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "2.00"
+                                }},
+                                " W"
+                            ]
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "Time in left-on mode:",
+                                {"variable":                                 {
+                                    "@linkid": "602278284",
+                                    "@name": "1011",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0",
+                                    "@variableName": "Leistungsaufnahme Dauer unausgeschalteter  Zustand",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "0"
+                                }},
+                                " min"
+                            ]
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "780223499",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "B8324E37-32A9-4377-AD9D-B0725B890003",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "72057594818151435",
+                            "@id": "72057594818151435-9",
+                            "@context": "Cond",
+                            "$":                             [
+                                "Time after which appliance is switched to networked standby mode:",
+                                {"variable":                                 {
+                                    "@linkid": "780225420",
+                                    "@name": "1013",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "10",
+                                    "@variableName": "Leistungsaufnahme Dauer vernetzter Bereitschaftsbetrieb",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "10"
+                                }},
+                                " min"
+                            ]
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "7776532235",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "34F7D52C-BFCF-40E7-992E-1091EB8C9FE5",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "7776532235",
+                            "@id": "7776532235-9",
+                            "@context": "Cond",
+                            "$": "Complies with the latest regulations (EU) for energy labels and ecodesign at the time of placing on the market."
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$": "Additional functions and settings may increase power consumption and times."
+                        }
+                    ]
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Water pressure"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "ul": {"li":                     [
+                                                {
+                            "@context": "Cond",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "Min.",
+                                    {"variable":                                     {
+                                        "@linkid": "602278284",
+                                        "@name": "1014",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "0.05",
+                                        "@variableName": "Wasserdruck min_MPa",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "0.05"
+                                    }},
+                                    " MPa (",
+                                    {"variable":                                     {
+                                        "@linkid": "602278284",
+                                        "@name": "1026",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "0.5",
+                                        "@variableName": "Wasserdruck min_bar",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "0.5"
+                                    }},
+                                    " bar)"
+                                ]
+                            }
+                        },
+                                                {
+                            "@context": "Cond",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "Max.",
+                                    {"variable":                                     {
+                                        "@linkid": "602278284",
+                                        "@name": "1015",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "1",
+                                        "@variableName": "Wasserdruck max_MPa",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "1"
+                                    }},
+                                    " MPa (",
+                                    {"variable":                                     {
+                                        "@linkid": "602278284",
+                                        "@name": "1025",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "10",
+                                        "@variableName": "Wasserdruck max_bar",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "10"
+                                    }},
+                                    " bar)"
+                                ]
+                            }
+                        }
+                    ]}
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Inlet rate"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Min.",
+                            {"variable":                             {
+                                "@linkid": "602278284",
+                                "@name": "1016",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "10",
+                                "@variableName": "Zulaufmenge",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "10"
+                            }},
+                            " l/min"
+                        ]
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Water temperature"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     [
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "812988043",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "C5858B16-A7B4-48A8-8C95-A56419E8BA8B",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "18014399322470027",
+                            "@id": "18014399322470027-9",
+                            "@context": "Cond",
+                            "$": "Cold water."
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "812989835",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "5A3267C7-4ABD-4EA2-BD1B-60842CB24B3E",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "63050395596176779",
+                            "@id": "63050395596176779-9",
+                            "@context": "Cond",
+                            "$":                             [
+                                "Hot water max.:",
+                                {"variable":                                 {
+                                    "@linkid": "812991628",
+                                    "@name": "1019",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "60",
+                                    "@variableName": "Wassertemperatur max.",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "60"
+                                }},
+                                " °C"
+                            ]
+                        }
+                    ]
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Capacity"
+                    }
+                },
+                "propvalue":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "811528587",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "36745A45-03AF-4FE6-9C8F-0EC40C6A640A",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "811528587",
+                        "@id": "811528587-9",
+                        "@context": "Cond",
+                        "$": "14 place settings"
+                    }
+                }
+            }
+        ]
+    },
+    "BSHCollectionOfElements":     [
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "4728268683",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "8B81D944-2E64-4C51-9461-09ACD90A68C1",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "9007203983009675",
+            "@id": "9007203983009675-9",
+            "$": "This product contains light sources from energy efficiency class G. These light sources are available as a spare part and should only be replaced by trained specialist staff."
+        }},
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "1727951627",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "D8465C44-26F6-4D4B-8BD9-E3FE6D8CA16F",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "18014400237433611",
+            "@id": "18014400237433611-9",
+            "BSHCollectionOfElements":             [
+                {"$": "More information about your model can be found online at"},
+                {"A":                 {
+                    "@HREF": "https://www.bsh-group.com/energylabel",
+                    "$": "https://energylabel.bsh-group.com"
+                }},
+                {"footnote":                 {
+                    "@BSH-Linktype": "Langlink",
+                    "@source-id": "18014400237433611-9",
+                    "@target-id": "1734900363-9",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "18014400244559628",
+                    "@target-base-id": "1734900363",
+                    "@external": "0",
+                    "@linkid": "1735077644",
+                    "@dynamic": "true",
+                    "@arrow": "before",
+                    "tooltip": {"$": "Only applies to countries in the European Economic Area"}
+                }},
+                {"$": ". This web address is linked to the official EU EPREL product database. At the time of printing its web address had not yet been published. Please then follow the instructions on searching for models. The model identifier is made up of the characters before the slash in the product number (E-Nr.) on the rating plate. Alternatively you can also find the model identifier in the first line of the EU energy label."}
+            ]
+        }},
+        {"linklist": {"BSHCollectionOfElements":         [
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "9007202773255179-9",
+                "@label": "3580504332",
+                "@use": "grab",
+                "@target": "Information regarding Free and Open Source Software",
+                "@name": "InformationLink",
+                "@id": "27021601344727308",
+                "@source": "Technical specifications",
+                "@target-base-id": "3518514187",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "9007208034105355-9",
+                "@label": "9373851404",
+                "@use": "grab",
+                "@target": "Declaration of Conformity",
+                "@name": "InformationLink",
+                "@id": "9373851404",
+                "@source": "Technical specifications",
+                "@target-base-id": "8779364363",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "9144205579-9",
+                "@label": "D4077464-C6FE-405C-B4D6-7EEB3FA7D4AD",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "9144525580",
+                "@source": "Technical specifications",
+                "@target-base-id": "9144205579",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "7776532235-9",
+                "@label": "34F7D52C-BFCF-40E7-992E-1091EB8C9FE5",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "27021605540759436",
+                "@source": "Technical specifications",
+                "@target-base-id": "7776532235",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "72057594818151435-9",
+                "@label": "B8324E37-32A9-4377-AD9D-B0725B890003",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "36028804707652620",
+                "@source": "Technical specifications",
+                "@target-base-id": "780223499",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "9007203983009675-9",
+                "@label": "8B81D944-2E64-4C51-9461-09ACD90A68C1",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleLink",
+                "@id": "72057598766200716",
+                "@source": "Technical specifications",
+                "@target-base-id": "4728268683",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "18014400237433611-9",
+                "@label": "D8465C44-26F6-4D4B-8BD9-E3FE6D8CA16F",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleLink",
+                "@id": "99079193530107020",
+                "@source": "Technical specifications",
+                "@target-base-id": "1727951627",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "206413451-9",
+                "@label": "602143244",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleLink",
+                "@id": "108086391659035148",
+                "@source": "Technical specifications",
+                "@target-base-id": "206413451",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "811528587-9",
+                "@label": "36745A45-03AF-4FE6-9C8F-0EC40C6A640A",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "108086391659173772",
+                "@source": "Technical specifications",
+                "@target-base-id": "811528587",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "63050395563409163-9",
+                "@label": "F6D229E5-B66F-4576-9822-58A41E5DFA2F",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "108086391837114252",
+                "@source": "Technical specifications",
+                "@target-base-id": "780222219",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "18014399322470027-9",
+                "@label": "C5858B16-A7B4-48A8-8C95-A56419E8BA8B",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "108086391869880076",
+                "@source": "Technical specifications",
+                "@target-base-id": "812988043",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "108086391418377227-9",
+                "@target-id": "63050395596176779-9",
+                "@label": "5A3267C7-4ABD-4EA2-BD1B-60842CB24B3E",
+                "@use": "grab",
+                "@target": "Technical specifications",
+                "@name": "TextModuleHierarchy",
+                "@id": "108086391869881868",
+                "@source": "Technical specifications",
+                "@target-base-id": "812989835",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "18014400237433611-9",
+                "@target-id": "1734900363-9",
+                "@label": "1735077644",
+                "@use": "grab",
+                "@name": "RelatedTopic",
+                "@id": "18014400244559628",
+                "@target-base-id": "1734900363",
+                "@external": "0"
+            }}
+        ]}},
+        {"node":         {
+            "@file-name": "3614853233580503819.html#!/Togglebox=3518514187/scrollto=3518514187/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "3518514187",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "9007202773255179-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Information regarding Free and Open Source Software"},
+            "shortdesc": {"$": "This product includes software components that are licensed by the copyright holders as free software or open source software."},
+            "BSHCollectionOfElements":             [
+                {"p": {"$": "The applicable licence information is stored on your home appliance. You can also access the applicable licence information via your Home Connect App: \"Profile -> Legal information -> Licence Information\". You can download the licence information on the brand product website (search for your appliance model on the product website and check additional documents). Alternatively, you can send a request to ossrequest@bshg.com or to BSH Hausgeräte GmbH GmbH, Carl-Wery-Str. 34, D-81739 München, Germany."}},
+                {"p": {"$": "The source code will be made available to you on request."}},
+                {"p": {"$": "To file a request, please email to ossrequest@bshg.com or send a written request to BSH Hausgeräte GmbH, Carl-Wery-Str. 34, D-81739 München, Germany."}},
+                {"p": {"$": "Reference \"OSSREQUEST\""}},
+                {"p": {"$": "The cost of performing your request will be charged to you. This offer is valid three years from the date of purchase or at least as long as we offer support and spare parts for the respective appliance."}}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "3614853233580503819.html#!/Togglebox=8779364363/scrollto=8779364363/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "8779364363",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "9007208034105355-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Declaration of Conformity"},
+            "shortdesc": {"BSHCollectionOfElements":             [
+                {"variable":                 {
+                    "@linkid": "699177996",
+                    "@name": "1010",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Robert Bosch Hausgeräte GmbH",
+                    "@variableName": "company name",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Robert Bosch Hausgeräte GmbH"
+                }},
+                {"$": "hereby declares that the appliance with Home Connect functionality meets the essential requirements and other relevant provisions of the Directive"},
+                {"variable":                 {
+                    "@linkid": "699177996",
+                    "@name": "1009",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "2014/53/EU",
+                    "@variableName": "guideline",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "2014/53/EU"
+                }},
+                {"$": "."}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"p": {"BSHCollectionOfElements":                 [
+                    {"$": "A detailed"},
+                    {"variable":                     {
+                        "@linkid": "699177996",
+                        "@name": "1003",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "RED",
+                        "@variableName": "conformity declaration",
+                        "@variant": "1004",
+                        "@variantName": "Bosch",
+                        "$": "RED"
+                    }},
+                    {"$": "Declaration of Conformity can be found online at"},
+                    {"a":                     {
+                        "@href": "http://www.bosch-home.com",
+                        "$": "www.bosch-home.com"
+                    }},
+                    {"$": "among the additional documents on the product page for your appliance."}
+                ]}},
+                {"image-container":                 {
+                    "@type": "img_original",
+                    "@image-page": "true-imageInReferenceNode",
+                    "img":                     {
+                        "@src": "566912140",
+                        "@name": "OG_CE",
+                        "@type": "svg",
+                        "@href": "Images/svg/27021597916437899__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "9007208034505996",
+                        "@label": "566912140",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "0.8501944444444445",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "0.8501944444444445"
+                    }
+                }},
+                {"p": {"$": "2.4 GHz band: 100 mW max."}},
+                {"p":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "9096658827",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "9155316108",
+                    "@fragment-element": "p",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9096658827",
+                    "@id": "9096658827-9",
+                    "$": "5 GHz band: 100 mW max."
+                }},
+                {"properties":                 {
+                    "@origin": "table-container",
+                    "@presentation": "table",
+                    "@propertie-count": "9",
+                    "@type": "framed",
+                    "@class": "TextModule2",
+                    "@base-id": "9097558539",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "9155316236",
+                    "@fragment-element": "table-container",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9097558539",
+                    "@id": "9097558539-9",
+                    "@hsdl-percent": "11.11111111111111% 11.11111111111111% 11.11111111111111% 11.11111111111111% 11.11111111111111% 11.11111111111111% 11.11111111111111% 11.11111111111111% 11.11111111111111%",
+                    "table":                     {
+                        "@type": "fixed",
+                        "@hsdl-percent": "11.11 11.11 11.11 11.11 11.11 11.11 11.11 11.11 11.11",
+                        "tbody": {"tr":                         [
+                            {"td":                             [
+                                                                {
+                                    "@rowspan": "4",
+                                    "@type": "framed",
+                                    "@class": "TextModule2",
+                                    "@base-id": "9097558539",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "9155316236",
+                                    "@fragment-element": "table-container",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "9097558539",
+                                    "@id": "9097558539-9",
+                                    "image-container":                                     {
+                                        "@type": "img_original",
+                                        "@image-page": "true-imageInReferenceNode",
+                                        "img":                                         {
+                                            "@src": "568020748",
+                                            "@name": "SY_Book",
+                                            "@type": "svg",
+                                            "@href": "Images/svg/567096075__Web.svg",
+                                            "@class": "GraficResource",
+                                            "@link-id": "9097677836",
+                                            "@label": "568020748",
+                                            "@dpi": "720",
+                                            "@aspect": "en",
+                                            "@source-aspect": "All",
+                                            "@st4-width-cm": "0.5997222222222222",
+                                            "@st4-height-cm": "0.5538611111111111",
+                                            "@width-cm": "0.5997222222222222",
+                                            "@height-cm": "0.5538611111111111"
+                                        }
+                                    }
+                                },
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "BE"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "BG"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "CZ"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "DK"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "DE"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "EE"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "IE"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "EL"
+                                }}
+                            ]},
+                            {"td":                             [
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "ES"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "FR"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "HR"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "IT"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "CY"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "LV"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "LT"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "LU"
+                                }}
+                            ]},
+                            {"td":                             [
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "HU"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "MT"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "NL"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "AT"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "PL"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "PT"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "RO"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "SI"
+                                }}
+                            ]},
+                            {"td":                             [
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "SK"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "FI"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "SE"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "UK"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "NO"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "CH"
+                                }},
+                                {"p":                                 {
+                                    "@context": "Cond",
+                                    "$": "TR"
+                                }},
+                                ""
+                            ]},
+                            {"td":                             {
+                                "@colspan": "9",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "5 GHz WLAN (Wi-Fi): For indoor use only."
+                                }
+                            }}
+                        ]}
+                    }
+                }},
+                {"linklist": {"BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "9007208034105355-9",
+                        "@target-id": "8878344715-9",
+                        "@label": "9155315852",
+                        "@use": "grab",
+                        "@target": "Declaration of Conformity",
+                        "@name": "TextModuleLink",
+                        "@id": "9155315852",
+                        "@source": "Declaration of Conformity",
+                        "@target-base-id": "8878344715",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007208034105355-9",
+                        "@target-id": "9096658827-9",
+                        "@label": "9155316108",
+                        "@use": "grab",
+                        "@target": "Declaration of Conformity",
+                        "@name": "TextModuleLink",
+                        "@id": "9155316108",
+                        "@source": "Declaration of Conformity",
+                        "@target-base-id": "9096658827",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "9007208034105355-9",
+                        "@target-id": "9097558539-9",
+                        "@label": "9155316236",
+                        "@use": "grab",
+                        "@target": "Declaration of Conformity",
+                        "@name": "TextModuleLink",
+                        "@id": "9155316236",
+                        "@source": "Declaration of Conformity",
+                        "@target-base-id": "9097558539",
+                        "@external": "0"
+                    }}
+                ]}},
+                {"image":                 {
+                    "@name": "OG_CE",
+                    "@type": "svg",
+                    "@href": "Images/svg/27021597916437899__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007208034505996",
+                    "@label": "566912140",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "0.8501944444444445",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "0.8501944444444445"
+                }},
+                {"image":                 {
+                    "@name": "SY_Book",
+                    "@type": "svg",
+                    "@href": "Images/svg/567096075__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9097677836",
+                    "@label": "568020748",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5997222222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5997222222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }}
+    ]
+}

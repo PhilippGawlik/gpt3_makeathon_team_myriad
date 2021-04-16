@@ -1,0 +1,136 @@
+{
+    "@file-name": "147272203.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "147272203",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "27021597911495179-9",
+    "@icon-name": "cleaningandcare",
+    "@is-page": "true",
+    "@childrencount": "1",
+    "@is-distributor": "true",
+    "@level": "2",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Filter system"},
+    "shortdesc": {"$": "The filter system removes coarse soiling from the dishwashing cycle."},
+    "image-container":     {
+        "@type": "img_original",
+        "@image-page": "false-languageDependentImage",
+        "calloutMap": {"BSHCollectionOfElements":         [
+            {"callout":             {
+                "@legend-number": "1",
+                "@hotspot-id": "AP_si_0001"
+            }},
+            {"callout":             {
+                "@legend-number": "2",
+                "@hotspot-id": "AP_si_0002"
+            }},
+            {"callout":             {
+                "@legend-number": "3",
+                "@hotspot-id": "AP_si_0003"
+            }}
+        ]},
+        "img":         {
+            "@src": "410089612",
+            "@id": "409710859",
+            "@type": "st4-svg",
+            "@href": "Images/svg/409710859__en__Original.svg",
+            "@class": "VectorGraphics",
+            "@link-id": "27021598174312588",
+            "@label": "410089612",
+            "@width": "1616",
+            "@height": "1163",
+            "@dpi": "900",
+            "@aspect": "en",
+            "@source-aspect": "en",
+            "@width-cm": "4.560711111111111",
+            "@height-cm": "3.2822444444444447"
+        },
+        "properties":         {
+            "@flipTable": "false",
+            "@presentation": "table",
+            "@propertie-count": "2",
+            "@hsdl-percent": "1 100%",
+            "property":             [
+                                {
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_si_0001",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/1.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Micro filter"
+                    }}
+                },
+                                {
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_si_0002",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/2.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Fine filter"
+                    }}
+                },
+                                {
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "AP_si_0003",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/3.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Coarse filter"
+                    }}
+                }
+            ]
+        }
+    },
+    "linklist": {"link":     {
+        "@source-id": "27021597911495179-9",
+        "@target-id": "27021597911500683-9",
+        "@label": "315765900",
+        "@use": "grab",
+        "@target": "Cleaning filters",
+        "@name": "InformationHierarchy",
+        "@id": "27021597911500812",
+        "@source": "Filter system",
+        "@target-base-id": "147277707",
+        "@external": "0"
+    }},
+    "image":     {
+        "@id": "409710859",
+        "@type": "st4-svg",
+        "@href": "Images/svg/409710859__en__Original.svg",
+        "@class": "VectorGraphics",
+        "@link-id": "27021598174312588",
+        "@label": "410089612",
+        "@width": "1616",
+        "@height": "1163",
+        "@dpi": "900",
+        "@aspect": "en",
+        "@source-aspect": "en",
+        "@width-cm": "4.560711111111111",
+        "@height-cm": "3.2822444444444447",
+        "calloutMap": {"BSHCollectionOfElements":         [
+            {"callout":             {
+                "@legend-number": "1",
+                "@hotspot-id": "AP_si_0001"
+            }},
+            {"callout":             {
+                "@legend-number": "2",
+                "@hotspot-id": "AP_si_0002"
+            }},
+            {"callout":             {
+                "@legend-number": "3",
+                "@hotspot-id": "AP_si_0003"
+            }}
+        ]}
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "@file-name": "146986507.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "146986507",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "146986507-9",
+    "@icon-name": "productdescription",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Information for test institutes"},
+    "shortdesc": {"$": "Test institutes are provided with information for comparability tests, e.g. according to EN60436."},
+    "BSHCollectionOfElements":     [
+        {"p": {"$": "These are the conditions for conducting the tests, however they are not the results or consumption values."}},
+        {"p": {"$": "E-mail enquiries to: dishwasher@test-appliances.com"}},
+        {"p": {"$": "The product number (E-Nr.) and the production number (FD) are required here. They can be found on the rating plate on the appliance door."}}
+    ]
+}

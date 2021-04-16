@@ -1,0 +1,1957 @@
+{
+    "@file-name": "428141067.html",
+    "@class": "Reference",
+    "@type": "TextNode",
+    "@base-id": "428141067",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "315251974344075787-9",
+    "@icon-name": "controlpanel",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Controls"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "183868811",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "428689932",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "27021597948091787",
+        "@title": "shortdesc - Controls",
+        "@id": "27021597948091787-9",
+        "$": "You can use the control panel to configure all functions of your appliance and to obtain information about the operating status."
+    },
+    "p": {"$": "With some buttons you can perform different functions."},
+    "image-container":     {
+        "@type": "img_original",
+        "@image-page": "true-imageInReferenceNode",
+        "calloutMap": {"BSHCollectionOfElements":         [
+            {"callout":             {
+                "@legend-number": "1",
+                "@hotspot-id": "CP_hs"
+            }},
+            {"callout":             {
+                "@legend-number": "2",
+                "@hotspot-id": "CP_pt"
+            }},
+            {"callout":             {
+                "@legend-number": "3",
+                "@hotspot-id": "CP_if"
+            }},
+            {"callout":             {
+                "@legend-number": "4",
+                "@hotspot-id": "CP_dpo"
+            }},
+            {"callout":             {
+                "@legend-number": "5",
+                "@hotspot-id": "CP_wl"
+            }},
+            {"callout":             {
+                "@legend-number": "6",
+                "@hotspot-id": "CP_es"
+            }},
+            {"callout":             {
+                "@legend-number": "7",
+                "@hotspot-id": "CP_zv"
+            }},
+            {"callout":             {
+                "@legend-number": "8",
+                "@hotspot-id": "CP_ft"
+            }},
+            {"callout":             {
+                "@legend-number": "9",
+                "@hotspot-id": "CP_st"
+            }},
+            {"callout":             {
+                "@legend-number": "10",
+                "@hotspot-id": "CP_zf"
+            }},
+            {"callout":             {
+                "@legend-number": "11",
+                "@hotspot-id": "CP_t"
+            }},
+            {"callout":             {
+                "@legend-number": "12",
+                "@hotspot-id": "CP_dp"
+            }},
+            {"callout":             {
+                "@legend-number": "13",
+                "@hotspot-id": "CP_fa"
+            }},
+            {"callout":             {
+                "@legend-number": "14",
+                "@hotspot-id": "CP_to"
+            }},
+            {"callout":             {
+                "@legend-number": "15",
+                "@hotspot-id": "CP_sn"
+            }},
+            {"callout":             {
+                "@legend-number": "16",
+                "@hotspot-id": "CP_kn"
+            }}
+        ]},
+        "img":         {
+            "@src": "1174090636",
+            "@id": "2217757963",
+            "@name": "CP_BO_Bedienblende_P5_HC_1-16",
+            "@type": "st4-svg",
+            "@class": "VectorGraphics",
+            "@link-id": "315251975090025356",
+            "@label": "1174090636",
+            "@width": "4252",
+            "@height": "2126",
+            "@dpi": "900",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@width-cm": "12.00008888888889",
+            "@height-cm": "6.000044444444445",
+            "@href": "Images/svg/2217757963__sq__Original.svg"
+        },
+        "properties":         {
+            "@flipTable": "false",
+            "@presentation": "table",
+            "@propertie-count": "3",
+            "@relcolwidth": "10 40 50",
+            "@hsdl-percent": "10% 40% 50%",
+            "property":             [
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1396155147",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "6043F1F6-49D1-4D55-8E2E-C10E5381A90D",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "45035997669860107",
+                    "@id": "45035997669860107-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_hs",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/1.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "ON/OFF button",
+                            {"img":                             {
+                                "@src": "1396157964",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "45035997669862924",
+                                "@label": "1396157964",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            "and reset button",
+                            {"img":                             {
+                                "@src": "1406972940",
+                                "@name": "SY_Reset_4_sec",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378331147__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "45035997680677900",
+                                "@label": "1406972940",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "3.3725555555555555",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "3.3725555555555555",
+                                "@height-cm": "0.5538611111111111"
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$": {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "45035997669860107-9",
+                                "@target-id": "72057594184632587-9",
+                                "@use": "grab",
+                                "@target": "Switching on the appliance",
+                                "@name": "RelatedTopic",
+                                "@id": "45035997669863180",
+                                "@target-base-id": "146704651",
+                                "@external": "0",
+                                "@linkid": "1396158220",
+                                "@arrow": "after",
+                                "$": "Switching on the appliance"
+                            }}
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$": {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "45035997669860107-9",
+                                "@target-id": "18014398656242571-9",
+                                "@use": "grab",
+                                "@target": "Switching off appliance",
+                                "@name": "RelatedTopic",
+                                "@id": "45035997669863564",
+                                "@target-base-id": "146760587",
+                                "@external": "0",
+                                "@linkid": "1396158604",
+                                "@arrow": "after",
+                                "$": "Switching off the appliance"
+                            }}
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$": {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "45035997669860107-9",
+                                "@target-id": "90071992694165003-9",
+                                "@use": "grab",
+                                "@target": "Terminate programme",
+                                "@name": "RelatedTopic",
+                                "@id": "45035997669863948",
+                                "@target-base-id": "146755083",
+                                "@external": "0",
+                                "@linkid": "1396158988",
+                                "@arrow": "after",
+                                "$": "Terminating the programme"
+                            }}
+                        }
+                    ]}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "431062283",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "AD6C0C05-E09F-4459-AB42-7329DB842C5F",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028797450026251",
+                    "@id": "36028797450026251-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_pt",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/2.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "4177859467",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "C5309EDC-F784-472E-9B8E-25AB7EB183D2",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "4177859467",
+                        "@id": "4177859467-9",
+                        "@context": "Cond",
+                        "$": "Programme buttons"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2115620491",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3A775C9B-0235-4781-A96B-A96EF163E367",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2115620491",
+                        "@id": "2115620491-9",
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "2115620491-9",
+                            "@target-id": "135107988968018187-9",
+                            "@use": "grab",
+                            "@target": "Programmes",
+                            "@name": "RelatedTopic",
+                            "@id": "2119169548",
+                            "@target-base-id": "146903307",
+                            "@external": "0",
+                            "@linkid": "2119169548",
+                            "@arrow": "after",
+                            "$": "Programmes"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "442025355",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "ED9BDAA4-E91C-4329-BBEC-B3D567763CAC",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "45035996715730315",
+                    "@id": "45035996715730315-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_if",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/3.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Info button",
+                            {"img":                             {
+                                "@src": "779025420",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "45035997052730380",
+                                "@label": "779025420",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "If you press",
+                                {"img":                                 {
+                                    "@src": "779025420",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "45035997052730380",
+                                    "@label": "779025420",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                ", the display shows information about selected programmes, basic settings and additional functions."
+                            ]
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$":                             [
+                                "If you press",
+                                {"img":                                 {
+                                    "@src": "779025420",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "45035997052730380",
+                                    "@label": "779025420",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                "for approx. 3 seconds, you can open the menu.",
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Langlink in Properties",
+                                    "@source-id": "45035996715730315-9",
+                                    "@target-id": "90071992694610187-9",
+                                    "@use": "grab",
+                                    "@target": "Changing basic settings",
+                                    "@name": "RelatedTopic",
+                                    "@id": "45035996715819020",
+                                    "@target-base-id": "147200267",
+                                    "@external": "0",
+                                    "@linkid": "442114060",
+                                    "@dynamic": "true",
+                                    "@arrow": "before",
+                                    "$": "Changing basic settings"
+                                }}
+                            ]
+                        }
+                    ]}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1179216523",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "4992118B-9DAF-44D7-A16B-210731CC46DC",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021598943439499",
+                    "@id": "27021598943439499-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_dpo",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/4.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Display"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "The display shows information about programmes, basic settings or additional functions. You can change the basic settings via the display and the setting buttons.",
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "27021598943439499-9",
+                                "@target-id": "90071992694610187-9",
+                                "@use": "grab",
+                                "@target": "Changing basic settings",
+                                "@name": "RelatedTopic",
+                                "@id": "27021598943441292",
+                                "@target-base-id": "147200267",
+                                "@external": "0",
+                                "@linkid": "1179218316",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Changing basic settings"
+                            }}
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "442058123",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "0DB22399-CF78-40CB-AB82-AA740FEDD219",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021598206281099",
+                    "@id": "27021598206281099-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_wl",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/5.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "WLAN display"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "27021598206281099-9",
+                            "@target-id": "198158383951333643-9",
+                            "@use": "grab",
+                            "@target": "Home Connect",
+                            "@name": "RelatedTopic",
+                            "@id": "27021598544489100",
+                            "@target-base-id": "347031819",
+                            "@external": "0",
+                            "@linkid": "780266124",
+                            "@arrow": "after",
+                            "$": "Home Connect"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "773057547",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2FCFBD6F-48CD-4E40-8BEE-75215CC45A4D",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021598537280523",
+                    "@id": "27021598537280523-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_es",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/6.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Setting buttons"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "27021598537280523-9",
+                            "@target-id": "90071992694610187-9",
+                            "@use": "grab",
+                            "@target": "Changing basic settings",
+                            "@name": "RelatedTopic",
+                            "@id": "27021599387316364",
+                            "@target-base-id": "147200267",
+                            "@external": "0",
+                            "@linkid": "1623093388",
+                            "@arrow": "after",
+                            "$": "Changing basic settings"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1209088139",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "DCD99EA2-F41A-4F5C-8721-2539666BE392",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021598973311115",
+                    "@id": "27021598973311115-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_zv",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/7.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Timer programming"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "27021598973311115-9",
+                            "@target-id": "99079191948889483-9",
+                            "@use": "grab",
+                            "@target": "Setting timer programming",
+                            "@name": "RelatedTopic",
+                            "@id": "18014400173663628",
+                            "@target-base-id": "146738571",
+                            "@external": "0",
+                            "@linkid": "1664181644",
+                            "@arrow": "after",
+                            "$": "Setting timer programming"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "5308591883",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "B2FE4392-1701-4B05-B89C-E402A494DA38",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028802327555851",
+                    "@id": "36028802327555851-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_ft",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/8.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "5308696075",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3919C21B-9432-4747-9527-02E289072B39",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "36028802327660043",
+                        "@id": "36028802327660043-9",
+                        "@context": "Cond",
+                        "$":                         [
+                            {"variable":                             {
+                                "@linkid": "5308697612",
+                                "@name": "2820",
+                                "@detailed-topic-type": "Non-specific",
+                                "@variableType": "Standard",
+                                "@variable": "Remote Start",
+                                "@variableName": "Remote start 0",
+                                "@variant": "1001",
+                                "@variantName": "Index",
+                                "$": "Remote Start"
+                            }},
+                            {"img":                             {
+                                "@src": "5308697740",
+                                "@name": "SY_642_650_BO_Remote_Start_I0",
+                                "@type": "svg",
+                                "@href": "Images/svg/9007204487197323__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028802327661708",
+                                "@label": "5308697740",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.4268611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.4268611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Langlink in Properties",
+                            "@source-id": "36028802327555851-9",
+                            "@target-id": "81064798598592907-9",
+                            "@use": "grab",
+                            "@target": "Remote start",
+                            "@name": "RelatedTopic",
+                            "@id": "36028802327659916",
+                            "@target-base-id": "5305923979",
+                            "@external": "0",
+                            "@linkid": "5308695948",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": {"variable":                             {
+                                "@linkid": "5306976140",
+                                "@name": "2820",
+                                "@detailed-topic-type": "Non-specific",
+                                "@variableType": "Standard",
+                                "@variable": "Remote Start",
+                                "@variableName": "Remote start 0",
+                                "@variant": "1001",
+                                "@variantName": "Index",
+                                "@context": "",
+                                "$": "Remote Start"
+                            }},
+                            "img":                             {
+                                "@src": "5306976268",
+                                "@name": "SY_642_650_BO_Remote_Start_I0",
+                                "@type": "svg",
+                                "@href": "Images/svg/9007204487197323__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028802325940236",
+                                "@label": "5306976268",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.4268611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.4268611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1396156427",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "E2FE7332-CCDC-4044-97D1-67F3CBFACE40",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "45035997669861387",
+                    "@id": "45035997669861387-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_st",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/9.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Start button",
+                            {"img":                             {
+                                "@src": "7758684940",
+                                "@name": "SY_allgmein_Start",
+                                "@type": "svg",
+                                "@href": "Images/svg/1057667339__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007207013425932",
+                                "@label": "7758684940",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "1.27",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "1.27",
+                                "@height-cm": "0.5538611111111111"
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "45035997669861387-9",
+                            "@target-id": "81064793439413003-9",
+                            "@use": "grab",
+                            "@target": "Starting the programme",
+                            "@name": "RelatedTopic",
+                            "@id": "45035997669864716",
+                            "@target-base-id": "146744075",
+                            "@external": "0",
+                            "@linkid": "1396159756",
+                            "@arrow": "after",
+                            "$": "Starting the programme"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "442054539",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "AB0B1384-D7AC-422A-8055-56E673D5BC0F",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014398951536523",
+                    "@id": "18014398951536523-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_zf",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/10.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Programme buttons and additional functions"
+                    }},
+                    "propdesc": {"p":                     [
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "1689452939",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "9E166675-DE5E-41CD-9DE7-F549DA88055F",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "9007200944193931",
+                            "@id": "9007200944193931-9",
+                            "@context": "Cond",
+                            "$": {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "9007200944193931-9",
+                                "@target-id": "135107988968018187-9",
+                                "@use": "grab",
+                                "@target": "Programmes",
+                                "@name": "RelatedTopic",
+                                "@id": "9007200944197900",
+                                "@target-base-id": "146903307",
+                                "@external": "0",
+                                "@linkid": "1689456908",
+                                "@arrow": "after",
+                                "$": "Programmes"
+                            }}
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "1689394187",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "56A0A65C-1415-4F7F-B3DE-4D1C049F7BD4",
+                            "@fragment-element": "p",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "9007200944135179",
+                            "@id": "9007200944135179-9",
+                            "@context": "Cond",
+                            "$": {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "9007200944135179-9",
+                                "@target-id": "99079191949142923-9",
+                                "@use": "grab",
+                                "@target": "Additional functions",
+                                "@name": "RelatedTopic",
+                                "@id": "9007200944190348",
+                                "@target-base-id": "146992011",
+                                "@external": "0",
+                                "@linkid": "1689449356",
+                                "@arrow": "after",
+                                "$": "Additional functions"
+                            }}
+                        }
+                    ]}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1221341707",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "ECCE2A66-85E6-4995-95E8-C89BF9734580",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021598985564683",
+                    "@id": "27021598985564683-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_t",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/11.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            {"img":                             {
+                                "@src": "1221343244",
+                                "@name": "SY_Blättern_zurück",
+                                "@type": "svg",
+                                "@href": "Images/svg/632248331__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "27021598985566220",
+                                "@label": "1221343244",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            " ",
+                            {"img":                             {
+                                "@src": "1221343372",
+                                "@name": "SY_Blättern_vorwärts",
+                                "@type": "svg",
+                                "@href": "Images/svg/632245515__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "27021598985566348",
+                                "@label": "1221343372",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            "buttons"
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "You can use these buttons to scroll between the basic settings.",
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "27021598985564683-9",
+                                "@target-id": "90071992694610187-9",
+                                "@use": "grab",
+                                "@target": "Changing basic settings",
+                                "@name": "RelatedTopic",
+                                "@id": "27021599020935948",
+                                "@target-base-id": "147200267",
+                                "@external": "0",
+                                "@linkid": "1256712972",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Changing basic settings"
+                            }}
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1282524811",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "E7955FF5-7B7E-4E0A-8F3B-59907F958DB7",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "27021599046747787",
+                    "@id": "27021599046747787-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_dp",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/12.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Display",
+                            {"footnote":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "27021599046747787-9",
+                                "@target-id": "9007199438288139-9",
+                                "@use": "grab",
+                                "@name": "RelatedTopic",
+                                "@id": "27021599046865292",
+                                "@target-base-id": "183547147",
+                                "@external": "0",
+                                "@linkid": "1282642316",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "tooltip": {"$": "Depending on the appliance specifications"}
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "The display shows information about programmes, basic settings or additional functions. You can change the basic settings via the display and the setting buttons.",
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "27021599046747787-9",
+                                "@target-id": "90071992694610187-9",
+                                "@use": "grab",
+                                "@target": "Changing basic settings",
+                                "@name": "RelatedTopic",
+                                "@id": "27021599046865676",
+                                "@target-base-id": "147200267",
+                                "@external": "0",
+                                "@linkid": "1282642700",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Changing basic settings"
+                            }}
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "1219583883",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "784E4FDF-7FBE-49F4-AA3E-0EDD12DC6A73",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "72057595257511819",
+                    "@id": "72057595257511819-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_fa",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/13.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "5310837259",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "53A90CAA-FD21-45FB-A48C-39C261366F69",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007204565578251",
+                        "@id": "9007204565578251-9",
+                        "@context": "Cond",
+                        "$":                         [
+                            "Display",
+                            {"variable":                             {
+                                "@linkid": "5310838796",
+                                "@name": "2820",
+                                "@detailed-topic-type": "Non-specific",
+                                "@variableType": "Standard",
+                                "@variable": "Remote Start",
+                                "@variableName": "Remote start 0",
+                                "@variant": "1001",
+                                "@variantName": "Index",
+                                "$": "Remote Start"
+                            }},
+                            {"footnote":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "9007204565578251-9",
+                                "@target-id": "9007199438288139-9",
+                                "@use": "grab",
+                                "@name": "RelatedTopic",
+                                "@id": "9007204565579916",
+                                "@target-base-id": "183547147",
+                                "@external": "0",
+                                "@linkid": "5310838924",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "tooltip": {"$": "Depending on the appliance specifications"}
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "If you have activated the function and are controlling the appliance via the",
+                            {"variable":                             {
+                                "@linkid": "1236843916",
+                                "@name": "1011",
+                                "@detailed-topic-type": "Non-specific",
+                                "@variableType": "Standard",
+                                "@variable": "Home Connect",
+                                "@variableName": "name Home Connect",
+                                "@variant": "1004",
+                                "@variantName": "Bosch",
+                                "$": "Home Connect"
+                            }},
+                            "app, the display lights up on the appliance."
+                        ]
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "700601227",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "D2D546D2-9D94-4E23-8018-BFDB28B45A20",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028797719565195",
+                    "@id": "36028797719565195-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_to",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/14.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$":                         [
+                            "Door opener",
+                            {"footnote":                             {
+                                "@BSH-Linktype": "Langlink in Properties",
+                                "@source-id": "36028797719565195-9",
+                                "@target-id": "9007199438288139-9",
+                                "@use": "grab",
+                                "@name": "RelatedTopic",
+                                "@id": "36028798273574284",
+                                "@target-base-id": "183547147",
+                                "@external": "0",
+                                "@linkid": "1254610316",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "tooltip": {"$": "Depending on the appliance specifications"}
+                            }}
+                        ]
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "36028797719565195-9",
+                            "@target-id": "780783627-9",
+                            "@use": "grab",
+                            "@target": "Opening appliance door",
+                            "@name": "RelatedTopic",
+                            "@id": "36028797855800844",
+                            "@target-base-id": "780783627",
+                            "@external": "0",
+                            "@linkid": "836836876",
+                            "@arrow": "after",
+                            "$": "Opening the appliance door"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "2038756107",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "4EDB7381-C5BD-4337-B303-D81EEFF1BB0E",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007201293497099",
+                    "@id": "9007201293497099-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_sn",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/15.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Special salt refill indicator"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "9007201293497099-9",
+                            "@target-id": "135107990378074379-9",
+                            "@use": "grab",
+                            "@target": "Water softening system",
+                            "@name": "RelatedTopic",
+                            "@id": "9007201293498636",
+                            "@target-base-id": "1556959499",
+                            "@external": "0",
+                            "@linkid": "2038757644",
+                            "@arrow": "after",
+                            "$": "Water softening system"
+                        }}
+                    }}
+                },
+                                {
+                    "@class": "TextModule2",
+                    "@base-id": "2038760331",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2CFD4719-9061-4EEF-81CB-6AD2C0EA1BA1",
+                    "@fragment-element": "property",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007201293501323",
+                    "@id": "9007201293501323-9",
+                    "proptype": {"p":                     {
+                        "@hotspot-id": "CP_kn",
+                        "@context": "Cond",
+                        "$": {"img": {"@href": "assets/img/hotspot/16.svg"}}
+                    }},
+                    "propvalue": {"p":                     {
+                        "@context": "Cond",
+                        "$": "Rinse aid refill indicator"
+                    }},
+                    "propdesc": {"p":                     {
+                        "@context": "Cond",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "9007201293501323-9",
+                            "@target-id": "108086392614998795-9",
+                            "@use": "grab",
+                            "@target": "Rinse aid system",
+                            "@name": "RelatedTopic",
+                            "@id": "9007201293502860",
+                            "@target-base-id": "1558106891",
+                            "@external": "0",
+                            "@linkid": "2038761868",
+                            "@arrow": "after",
+                            "$": "Rinse aid system"
+                        }}
+                    }}
+                }
+            ]
+        }
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "36028797719565195-9",
+            "@label": "D2D546D2-9D94-4E23-8018-BFDB28B45A20",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079201267217292",
+            "@source": "Controls",
+            "@target-base-id": "700601227",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "36028802327555851-9",
+            "@label": "B2FE4392-1701-4B05-B89C-E402A494DA38",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "225179986676751244",
+            "@source": "Controls",
+            "@target-base-id": "5308591883",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "18014398951536523-9",
+            "@label": "AB0B1384-D7AC-422A-8055-56E673D5BC0F",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "288230379432293132",
+            "@source": "Controls",
+            "@target-base-id": "442054539",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "135107990378074379-9",
+            "@label": "2038647692",
+            "@use": "copy",
+            "@target": "Water softening system",
+            "@name": "RelatedTopic",
+            "@id": "297237577445100428",
+            "@source": "Controls",
+            "@target-base-id": "1556959499",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "108086392614998795-9",
+            "@label": "2038647820",
+            "@use": "copy",
+            "@target": "Rinse aid system",
+            "@name": "RelatedTopic",
+            "@id": "297237577445100556",
+            "@source": "Controls",
+            "@target-base-id": "1558106891",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "9007201293497099-9",
+            "@label": "4EDB7381-C5BD-4337-B303-D81EEFF1BB0E",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "297237577445208972",
+            "@source": "Controls",
+            "@target-base-id": "2038756107",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "9007201293501323-9",
+            "@label": "2CFD4719-9061-4EEF-81CB-6AD2C0EA1BA1",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "297237577445213196",
+            "@source": "Controls",
+            "@target-base-id": "2038760331",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021597948091787-9",
+            "@label": "428689932",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleLink",
+            "@id": "315251974344624652",
+            "@source": "Controls",
+            "@target-base-id": "183868811",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "36028797450026251-9",
+            "@label": "AD6C0C05-E09F-4459-AB42-7329DB842C5F",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251974346997132",
+            "@source": "Controls",
+            "@target-base-id": "431062283",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021598206281099-9",
+            "@label": "0DB22399-CF78-40CB-AB82-AA740FEDD219",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251974357992972",
+            "@source": "Controls",
+            "@target-base-id": "442058123",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021598537280523-9",
+            "@label": "2FCFBD6F-48CD-4E40-8BEE-75215CC45A4D",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251974688992396",
+            "@source": "Controls",
+            "@target-base-id": "773057547",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021598943439499-9",
+            "@label": "4992118B-9DAF-44D7-A16B-210731CC46DC",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975095151372",
+            "@source": "Controls",
+            "@target-base-id": "1179216523",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021598973311115-9",
+            "@label": "DCD99EA2-F41A-4F5C-8721-2539666BE392",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975125022988",
+            "@source": "Controls",
+            "@target-base-id": "1209088139",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021598985564683-9",
+            "@label": "ECCE2A66-85E6-4995-95E8-C89BF9734580",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975137276556",
+            "@source": "Controls",
+            "@target-base-id": "1221341707",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021599046747787-9",
+            "@label": "E7955FF5-7B7E-4E0A-8F3B-59907F958DB7",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975198459660",
+            "@source": "Controls",
+            "@target-base-id": "1282524811",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "1316327180",
+            "@use": "copy",
+            "@target": "Changing basic settings",
+            "@name": "RelatedTopic",
+            "@id": "315251975232261900",
+            "@source": "Controls",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "45035997669860107-9",
+            "@label": "6043F1F6-49D1-4D55-8E2E-C10E5381A90D",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975312089996",
+            "@source": "Controls",
+            "@target-base-id": "1396155147",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "45035997669861387-9",
+            "@label": "E2FE7332-CCDC-4044-97D1-67F3CBFACE40",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975312091276",
+            "@source": "Controls",
+            "@target-base-id": "1396156427",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "27021599388241675-9",
+            "@label": "A6F7DF99-F8F8-48E9-A527-95748A207F6A",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "315251975539953548",
+            "@source": "Controls",
+            "@target-base-id": "1624018699",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "45035996715730315-9",
+            "@label": "ED9BDAA4-E91C-4329-BBEC-B3D567763CAC",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "324259173612701196",
+            "@source": "Controls",
+            "@target-base-id": "442025355",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "315251974344075787-9",
+            "@target-id": "72057595257511819-9",
+            "@label": "784E4FDF-7FBE-49F4-AA3E-0EDD12DC6A73",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "324259174390259724",
+            "@source": "Controls",
+            "@target-base-id": "1219583883",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797450026251-9",
+            "@target-id": "4177859467-9",
+            "@label": "C5309EDC-F784-472E-9B8E-25AB7EB183D2",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "4177864076",
+            "@target-base-id": "4177859467",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797450026251-9",
+            "@target-id": "2115620491-9",
+            "@label": "3A775C9B-0235-4781-A96B-A96EF163E367",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400625100428",
+            "@target-base-id": "2115620491",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797450026251-9",
+            "@target-id": "135107988968018187-9",
+            "@label": "1454173324",
+            "@use": "copy",
+            "@target": "Programmes",
+            "@name": "RelatedTopic",
+            "@id": "36028798473137292",
+            "@target-base-id": "146903307",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "2115620491-9",
+            "@target-id": "135107988968018187-9",
+            "@label": "2119169548",
+            "@use": "grab",
+            "@target": "Programmes",
+            "@name": "RelatedTopic",
+            "@id": "2119169548",
+            "@target-base-id": "146903307",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "45035996715730315-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "442114060",
+            "@use": "grab",
+            "@target": "Changing basic settings",
+            "@name": "RelatedTopic",
+            "@id": "45035996715819020",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021598206281099-9",
+            "@target-id": "198158383951333643-9",
+            "@label": "780266124",
+            "@use": "grab",
+            "@target": "Home Connect",
+            "@name": "RelatedTopic",
+            "@id": "27021598544489100",
+            "@target-base-id": "347031819",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021598537280523-9",
+            "@target-id": "27021597910933899-9",
+            "@label": "1714471308",
+            "@use": "copy",
+            "@target": "Setting a programme",
+            "@name": "RelatedTopic",
+            "@id": "18014400223953292",
+            "@target-base-id": "146710923",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021598537280523-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "1623093388",
+            "@use": "grab",
+            "@target": "Changing basic settings",
+            "@name": "RelatedTopic",
+            "@id": "27021599387316364",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021598943439499-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "1179218316",
+            "@use": "grab",
+            "@target": "Changing basic settings",
+            "@name": "RelatedTopic",
+            "@id": "27021598943441292",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021598973311115-9",
+            "@target-id": "99079191948889483-9",
+            "@label": "1664181644",
+            "@use": "grab",
+            "@target": "Setting timer programming",
+            "@name": "RelatedTopic",
+            "@id": "18014400173663628",
+            "@target-base-id": "146738571",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057595257511819-9",
+            "@target-id": "9007204565578251-9",
+            "@label": "53A90CAA-FD21-45FB-A48C-39C261366F69",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleLink",
+            "@id": "9007205653782924",
+            "@target-base-id": "5310837259",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057595257511819-9",
+            "@target-id": "9007199438288139-9",
+            "@label": "1282524556",
+            "@use": "copy",
+            "@name": "RelatedTopic",
+            "@id": "72057595320452492",
+            "@target-base-id": "183547147",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007204565578251-9",
+            "@target-id": "9007199438288139-9",
+            "@label": "5310838924",
+            "@use": "grab",
+            "@name": "RelatedTopic",
+            "@id": "9007204565579916",
+            "@target-base-id": "183547147",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021598985564683-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "1256712972",
+            "@use": "grab",
+            "@target": "Changing basic settings",
+            "@name": "RelatedTopic",
+            "@id": "27021599020935948",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021599046747787-9",
+            "@target-id": "9007199438288139-9",
+            "@label": "1282642316",
+            "@use": "grab",
+            "@name": "RelatedTopic",
+            "@id": "27021599046865292",
+            "@target-base-id": "183547147",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021599046747787-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "1282642700",
+            "@use": "grab",
+            "@target": "Changing basic settings",
+            "@name": "RelatedTopic",
+            "@id": "27021599046865676",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "45035997669860107-9",
+            "@target-id": "72057594184632587-9",
+            "@label": "1396158220",
+            "@use": "grab",
+            "@target": "Switching on the appliance",
+            "@name": "RelatedTopic",
+            "@id": "45035997669863180",
+            "@target-base-id": "146704651",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "45035997669860107-9",
+            "@target-id": "18014398656242571-9",
+            "@label": "1396158604",
+            "@use": "grab",
+            "@target": "Switching off appliance",
+            "@name": "RelatedTopic",
+            "@id": "45035997669863564",
+            "@target-base-id": "146760587",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "45035997669860107-9",
+            "@target-id": "90071992694165003-9",
+            "@label": "1396158988",
+            "@use": "grab",
+            "@target": "Terminate programme",
+            "@name": "RelatedTopic",
+            "@id": "45035997669863948",
+            "@target-base-id": "146755083",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "45035997669861387-9",
+            "@target-id": "81064793439413003-9",
+            "@label": "1396159756",
+            "@use": "grab",
+            "@target": "Starting the programme",
+            "@name": "RelatedTopic",
+            "@id": "45035997669864716",
+            "@target-base-id": "146744075",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021599388241675-9",
+            "@target-id": "1689469963-9",
+            "@label": "CCB32401-484C-45EC-B11A-2428F1071408",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400198947852",
+            "@target-base-id": "1689469963",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021599388241675-9",
+            "@target-id": "135107988968018187-9",
+            "@label": "1624033420",
+            "@use": "copy",
+            "@target": "Programmes",
+            "@name": "RelatedTopic",
+            "@id": "27021599388256396",
+            "@target-base-id": "146903307",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "1689469963-9",
+            "@target-id": "135107988968018187-9",
+            "@label": "1689473420",
+            "@use": "grab",
+            "@target": "Programmes",
+            "@name": "RelatedTopic",
+            "@id": "1689473420",
+            "@target-base-id": "146903307",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007201293497099-9",
+            "@target-id": "135107990378074379-9",
+            "@label": "2038757644",
+            "@use": "grab",
+            "@target": "Water softening system",
+            "@name": "RelatedTopic",
+            "@id": "9007201293498636",
+            "@target-base-id": "1556959499",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007201293501323-9",
+            "@target-id": "108086392614998795-9",
+            "@label": "2038761868",
+            "@use": "grab",
+            "@target": "Rinse aid system",
+            "@name": "RelatedTopic",
+            "@id": "9007201293502860",
+            "@target-base-id": "1558106891",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398951536523-9",
+            "@target-id": "9007200944135179-9",
+            "@label": "56A0A65C-1415-4F7F-B3DE-4D1C049F7BD4",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "9007200944133132",
+            "@target-base-id": "1689394187",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398951536523-9",
+            "@target-id": "9007200944193931-9",
+            "@label": "9E166675-DE5E-41CD-9DE7-F549DA88055F",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleHierarchy",
+            "@id": "9007200944191884",
+            "@target-base-id": "1689452939",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398951536523-9",
+            "@target-id": "135107988968018187-9",
+            "@label": "442137740",
+            "@use": "copy",
+            "@target": "Programmes",
+            "@name": "RelatedTopic",
+            "@id": "18014398951619724",
+            "@target-base-id": "146903307",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "18014398951536523-9",
+            "@target-id": "99079191949142923-9",
+            "@label": "442137868",
+            "@use": "copy",
+            "@target": "Additional functions",
+            "@name": "RelatedTopic",
+            "@id": "18014398951619852",
+            "@target-base-id": "146992011",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007200944135179-9",
+            "@target-id": "99079191949142923-9",
+            "@label": "1689449356",
+            "@use": "grab",
+            "@target": "Additional functions",
+            "@name": "RelatedTopic",
+            "@id": "9007200944190348",
+            "@target-base-id": "146992011",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "9007200944193931-9",
+            "@target-id": "135107988968018187-9",
+            "@label": "1689456908",
+            "@use": "grab",
+            "@target": "Programmes",
+            "@name": "RelatedTopic",
+            "@id": "9007200944197900",
+            "@target-base-id": "146903307",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028802327555851-9",
+            "@target-id": "36028802327660043-9",
+            "@label": "3919C21B-9432-4747-9527-02E289072B39",
+            "@use": "grab",
+            "@target": "Controls",
+            "@name": "TextModuleLink",
+            "@id": "27021604163380492",
+            "@target-base-id": "5308696075",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028802327555851-9",
+            "@target-id": "81064798598592907-9",
+            "@label": "5308695948",
+            "@use": "grab",
+            "@target": "Remote start",
+            "@name": "RelatedTopic",
+            "@id": "36028802327659916",
+            "@target-base-id": "5305923979",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797719565195-9",
+            "@target-id": "780783627-9",
+            "@label": "836836876",
+            "@use": "grab",
+            "@target": "Opening appliance door",
+            "@name": "RelatedTopic",
+            "@id": "36028797855800844",
+            "@target-base-id": "780783627",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797719565195-9",
+            "@target-id": "9007199438288139-9",
+            "@label": "1254610316",
+            "@use": "grab",
+            "@name": "RelatedTopic",
+            "@id": "36028798273574284",
+            "@target-base-id": "183547147",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"image":         {
+            "@id": "2217757963",
+            "@name": "CP_BO_Bedienblende_P5_HC_1-16",
+            "@type": "st4-svg",
+            "@href": "Images/svg/2217757963__en__Original.svg",
+            "@class": "VectorGraphics",
+            "@link-id": "315251975090025356",
+            "@label": "1174090636",
+            "@width": "4252",
+            "@height": "2126",
+            "@dpi": "900",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@width-cm": "12.00008888888889",
+            "@height-cm": "6.000044444444445",
+            "calloutMap": {"BSHCollectionOfElements":             [
+                {"callout":                 {
+                    "@legend-number": "1",
+                    "@hotspot-id": "CP_hs"
+                }},
+                {"callout":                 {
+                    "@legend-number": "2",
+                    "@hotspot-id": "CP_pt"
+                }},
+                {"callout":                 {
+                    "@legend-number": "3",
+                    "@hotspot-id": "CP_if"
+                }},
+                {"callout":                 {
+                    "@legend-number": "4",
+                    "@hotspot-id": "CP_dpo"
+                }},
+                {"callout":                 {
+                    "@legend-number": "5",
+                    "@hotspot-id": "CP_wl"
+                }},
+                {"callout":                 {
+                    "@legend-number": "6",
+                    "@hotspot-id": "CP_es"
+                }},
+                {"callout":                 {
+                    "@legend-number": "7",
+                    "@hotspot-id": "CP_zv"
+                }},
+                {"callout":                 {
+                    "@legend-number": "8",
+                    "@hotspot-id": "CP_ft"
+                }},
+                {"callout":                 {
+                    "@legend-number": "9",
+                    "@hotspot-id": "CP_st"
+                }},
+                {"callout":                 {
+                    "@legend-number": "10",
+                    "@hotspot-id": "CP_zf"
+                }},
+                {"callout":                 {
+                    "@legend-number": "11",
+                    "@hotspot-id": "CP_t"
+                }},
+                {"callout":                 {
+                    "@legend-number": "12",
+                    "@hotspot-id": "CP_dp"
+                }},
+                {"callout":                 {
+                    "@legend-number": "13",
+                    "@hotspot-id": "CP_fa"
+                }},
+                {"callout":                 {
+                    "@legend-number": "14",
+                    "@hotspot-id": "CP_to"
+                }},
+                {"callout":                 {
+                    "@legend-number": "15",
+                    "@hotspot-id": "CP_sn"
+                }},
+                {"callout":                 {
+                    "@legend-number": "16",
+                    "@hotspot-id": "CP_kn"
+                }}
+            ]}
+        }},
+        {"image":         {
+            "@name": "SY_Infotaste",
+            "@type": "svg",
+            "@href": "Images/svg/632558347__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "45035997052730380",
+            "@label": "779025420",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.79375",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.79375",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_Blättern_zurück",
+            "@type": "svg",
+            "@href": "Images/svg/632248331__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598985566220",
+            "@label": "1221343244",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.35630555555555554",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.35630555555555554",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_Blättern_vorwärts",
+            "@type": "svg",
+            "@href": "Images/svg/632245515__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598985566348",
+            "@label": "1221343372",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.35630555555555554",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.35630555555555554",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_Hauptschalter_Standby",
+            "@type": "svg",
+            "@href": "Images/svg/1378070027__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "45035997669862924",
+            "@label": "1396157964",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5044722222222222",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5044722222222222",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_Reset_4_sec",
+            "@type": "svg",
+            "@href": "Images/svg/1378331147__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "45035997680677900",
+            "@label": "1406972940",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "3.3725555555555555",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "3.3725555555555555",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_allgmein_Start",
+            "@type": "svg",
+            "@href": "Images/svg/1057667339__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "9007207013425932",
+            "@label": "7758684940",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "1.27",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "1.27",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_642_650_BO_Remote_Start_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007204487197323__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "36028802327661708",
+            "@label": "5308697740",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.4268611111111111",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.4268611111111111",
+            "@height-cm": "0.5538611111111111"
+        }}
+    ]
+}

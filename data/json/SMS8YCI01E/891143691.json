@@ -1,0 +1,410 @@
+{
+    "@file-name": "891143691.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "891143691",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "99079192693294603-9",
+    "@icon-name": "cleaningandcare",
+    "@is-page": "true",
+    "@childrencount": "1",
+    "@is-distributor": "true",
+    "@level": "2",
+    "@timestamp": "20210303102313000454",
+    "title":     {
+        "@class": "TextModule2",
+        "@base-id": "2523311243",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "42AE35EC-0C2B-490F-BBC7-B3ED11790CCB",
+        "@fragment-element": "caption",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "27021600287534219",
+        "@id": "27021600287534219-9",
+        "variable":         {
+            "@linkid": "4651799692",
+            "@name": "3325",
+            "@detailed-topic-type": "Non-specific",
+            "@variableType": "Standard",
+            "@variable": "Machine Care",
+            "@variableName": "Machine Care 0",
+            "@variant": "1001",
+            "@variantName": "Index",
+            "$": "Machine Care"
+        },
+        "img":         {
+            "@src": "2523312908",
+            "@name": "SY_642_650_BO_MachineCare_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007200729511563__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021600287535884",
+            "@label": "2523312908",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5185833333333333",
+            "@st4-height-cm": "0.5503333333333333",
+            "@width-cm": "0.5185833333333333",
+            "@height-cm": "0.5503333333333333"
+        }
+    },
+    "shortdesc": {"$": "Deposits, e.g. from remnants of food and limescale, can cause your appliance to malfunction. To avoid such faults and reduce odours, we recommend cleaning your appliance at regular intervals."},
+    "BSHCollectionOfElements":     [
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "2522363915",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "1139E1D5-54CA-41FD-A9A5-62237E1C42C4",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "36028799541327883",
+            "@id": "36028799541327883-9",
+            "variable":             {
+                "@linkid": "4716938252",
+                "@name": "3325",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Machine Care",
+                "@variableName": "Machine Care 0",
+                "@variant": "1001",
+                "@variantName": "Index",
+                "$": "Machine Care"
+            },
+            "$": "combined with machine care products and machine cleaners is the right programme for the care of your appliance."
+        }},
+        {"hint":         {
+            "@hint-type": "single",
+            "@type": "user-oriented",
+            "@class": "TextModule2",
+            "@base-id": "3637561483",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "3755961996",
+            "@fragment-element": "hint",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "3637561483",
+            "@id": "3637561483-9",
+            "b": {"$": "Tip:"},
+            "p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "You can get our tested and approved Dishwasher Care and Machine Cleaner for Dishwashers online at"},
+                    {"A":                     {
+                        "@HREF": "https://www.bosch-home.com/store",
+                        "$": "https://www.bosch-home.com/store"
+                    }},
+                    {"$": "or from customer service."}
+                ]
+            }
+        }},
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "2522365195",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "02163CBE-7205-4A15-9181-8BA74D15B904",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "27021600286588171",
+            "@id": "27021600286588171-9",
+            "variable":             {
+                "@linkid": "4717405708",
+                "@name": "3325",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Machine Care",
+                "@variableName": "Machine Care 0",
+                "@variant": "1001",
+                "@variantName": "Index",
+                "$": "Machine Care"
+            },
+            "$": "is a programme which removes various deposits in one washing cycle. Cleaning takes place in two phases:"
+        }},
+        {"properties":         {
+            "@flipTable": "false",
+            "@presentation": "table",
+            "@propertie-count": "4",
+            "@relcolwidth": "13 27 30 30",
+            "@hsdl-percent": "13% 27% 30% 30%",
+            "prophead":             {
+                "proptypehd":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Phase"
+                    }
+                },
+                "propvaluehd":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Removal of"
+                    }
+                },
+                "propdeschd":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "3",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Detergent"
+                    }
+                },
+                "addpropdeschd":                 {
+                    "@valign": "top",
+                    "@align": "left",
+                    "@col-index": "4",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Placement"
+                    }
+                }
+            },
+            "property":             [
+                                {
+                    "proptype":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "1"
+                        }
+                    },
+                    "propvalue":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "2",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Grease and limescale"
+                        }
+                    },
+                    "propdesc":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "3",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Liquid machine care product or machine descaler in powder form."
+                        }
+                    },
+                    "addpropdesc":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "4",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Appliance interior, e.g. bottle hung in the cutlery basket or powder in the interior."
+                        }
+                    }
+                },
+                                {
+                    "proptype":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "2"
+                        }
+                    },
+                    "propvalue":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "2",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Food remnants and deposits"
+                        }
+                    },
+                    "propdesc":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "3",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Machine cleaner"
+                        }
+                    },
+                    "addpropdesc":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "4",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Detergent dispenser"
+                        }
+                    }
+                }
+            ]
+        }},
+        {"p": {"$": "To ensure optimum cleaning performance, the programme doses the detergents independently of each another during the relevant cleaning phase. Correct placement of the detergents is necessary here."}},
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "2125519755",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "AEA8012A-C6FB-44C6-8265-D1FA4A3DD025",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "27021599889742731",
+            "@id": "27021599889742731-9",
+            "BSHCollectionOfElements":             [
+                {"$": "Run"},
+                {"variable":                 {
+                    "@linkid": "4717402380",
+                    "@name": "3325",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Machine Care",
+                    "@variableName": "Machine Care 0",
+                    "@variant": "1001",
+                    "@variantName": "Index",
+                    "$": "Machine Care"
+                }},
+                {"$": "without tableware if the indicator for"},
+                {"variable":                 {
+                    "@linkid": "4717402380",
+                    "@name": "3325",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Machine Care",
+                    "@variableName": "Machine Care 0",
+                    "@variant": "1001",
+                    "@variantName": "Index",
+                    "$": "Machine Care"
+                }},
+                {"$": "lights up on the control panel or if advised to do so by the display. The indicator will go out after you have run"},
+                {"variable":                 {
+                    "@linkid": "4717402380",
+                    "@name": "3325",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Machine Care",
+                    "@variableName": "Machine Care 0",
+                    "@variant": "1001",
+                    "@variantName": "Index",
+                    "$": "Machine Care"
+                }},
+                {"$": ". If your appliance does not have a reminder function, we recommend performing Machine Care every 2 months."}
+            ]
+        }}
+    ],
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "72057594929100171-9",
+            "@label": "315732620",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "InformationHierarchy",
+            "@id": "99079192693323276",
+            "@source": "Machine Care",
+            "@target-base-id": "891172235",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "72057594929100171-9",
+            "@label": "315776140",
+            "@use": "copy",
+            "@target": "Performing machine care",
+            "@name": "RelatedTopic",
+            "@id": "99079192693349004",
+            "@source": "Machine Care",
+            "@target-base-id": "891172235",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "27021599889742731-9",
+            "@label": "AEA8012A-C6FB-44C6-8265-D1FA4A3DD025",
+            "@use": "grab",
+            "@target": "Machine Care",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079193927675660",
+            "@source": "Machine Care",
+            "@target-base-id": "2125519755",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "36028799541327883-9",
+            "@label": "1139E1D5-54CA-41FD-A9A5-62237E1C42C4",
+            "@use": "grab",
+            "@target": "Machine Care",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079194324523148",
+            "@source": "Machine Care",
+            "@target-base-id": "2522363915",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "27021600286588171-9",
+            "@label": "02163CBE-7205-4A15-9181-8BA74D15B904",
+            "@use": "grab",
+            "@target": "Machine Care",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079194325363084",
+            "@source": "Machine Care",
+            "@target-base-id": "2522365195",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "27021600287534219-9",
+            "@label": "42AE35EC-0C2B-490F-BBC7-B3ED11790CCB",
+            "@use": "grab",
+            "@target": "Machine Care",
+            "@name": "TextModuleHierarchy",
+            "@id": "99079194325467020",
+            "@source": "Machine Care",
+            "@target-base-id": "2523311243",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "99079192693294603-9",
+            "@target-id": "3637561483-9",
+            "@label": "3755961996",
+            "@use": "grab",
+            "@target": "Machine Care",
+            "@name": "TextModuleLink",
+            "@id": "99079195558112908",
+            "@source": "Machine Care",
+            "@target-base-id": "3637561483",
+            "@external": "0"
+        }}
+    ]},
+    "image":     {
+        "@name": "SY_642_650_BO_MachineCare_I0",
+        "@type": "svg",
+        "@href": "Images/svg/9007200729511563__Web.svg",
+        "@class": "GraficResource",
+        "@link-id": "27021600287535884",
+        "@label": "2523312908",
+        "@dpi": "720",
+        "@aspect": "en",
+        "@source-aspect": "All",
+        "@st4-width-cm": "0.5185833333333333",
+        "@st4-height-cm": "0.5503333333333333",
+        "@width-cm": "0.5185833333333333",
+        "@height-cm": "0.5503333333333333"
+    }
+}

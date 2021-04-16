@@ -1,0 +1,3223 @@
+{
+    "@file-name": "2085446511705141899.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@reuseid": "63050396488328843",
+    "@base-reuseid": "1705141899",
+    "@base-id": "208544651",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "27021597972767627-9",
+    "@icon-name": "basicsettings",
+    "@is-page": "true",
+    "@childrencount": "3",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Basic settings"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "183135371",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "208549644",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "18014398692617355",
+        "@title": "shortdesc - Basic settings",
+        "@id": "18014398692617355-9",
+        "$": "You can configure the appliance to meet your needs."
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "27021597972767627-9",
+            "@target-id": "117093590458818571-9",
+            "@label": "1705142412",
+            "@use": "grab",
+            "@target": "Overview of basic settings",
+            "@name": "InformationLink",
+            "@id": "63050396488329356",
+            "@source": "Basic settings",
+            "@target-base-id": "147185675",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021597972767627-9",
+            "@target-id": "90071992694610187-9",
+            "@label": "1705142796",
+            "@use": "grab",
+            "@target": "Changing basic settings",
+            "@name": "InformationLink",
+            "@id": "63050396488329740",
+            "@source": "Basic settings",
+            "@target-base-id": "147200267",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021597972767627-9",
+            "@target-id": "99079192273170955-9",
+            "@label": "1705143180",
+            "@use": "grab",
+            "@target": "Setting the time",
+            "@name": "InformationLink",
+            "@id": "63050396488330124",
+            "@source": "Basic settings",
+            "@target-base-id": "471020043",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021597972767627-9",
+            "@target-id": "18014398692617355-9",
+            "@label": "208549644",
+            "@use": "grab",
+            "@target": "Basic settings",
+            "@name": "TextModuleLink",
+            "@id": "27021597972772620",
+            "@source": "Basic settings",
+            "@target-base-id": "183135371",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "2085446511705141899.html#!/Togglebox=147185675/scrollto=147185675/",
+            "@class": "Reference",
+            "@type": "TextNode",
+            "@base-id": "147185675",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "117093590458818571-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Overview of basic settings"},
+            "shortdesc": {"$": "The basic settings depend on the features of your appliance."},
+            "properties":             {
+                "@flipTable": "false",
+                "@presentation": "table",
+                "@propertie-count": "3",
+                "@relcolwidth": "25 25 50",
+                "@hsdl-percent": "25% 25% 50%",
+                "prophead":                 {
+                    "proptypehd": {"@col-index": "1"},
+                    "propvaluehd":                     {
+                        "@col-index": "2",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Selection"
+                        }
+                    },
+                    "propdeschd":                     {
+                        "@col-index": "3",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Description"
+                        }
+                    }
+                },
+                "property":                 [
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388238987",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "0E256CAF-58B4-4A45-BC02-6176CE87ECEE",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916684939",
+                        "@id": "54043195916684939-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271293452",
+                                    "@name": "1039",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Time setting",
+                                    "@variableName": "Basic Settings - Uhrzeiteinstellung",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Time setting\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271293452",
+                                    "@name": "1040",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "00:00 - 24:00",
+                                    "@variableName": "Basic Settings - Uhrzeiteinstellung: 00:00 - 24:00",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"00:00 - 24:00\""
+                                }}
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set the current time."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "The setting depends on the time format selected."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388240779",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "555DD9AD-8D0B-436D-B0FB-339B5F7815A2",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916686731",
+                        "@id": "54043195916686731-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271290892",
+                                    "@name": "1041",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Time format",
+                                    "@variableName": "Basic Settings - Uhrzeitformat",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Time format\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271290892",
+                                        "@name": "1042",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "12 h",
+                                        "@variableName": "Basic Settings - Uhrzeitformat: 12 h",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"12 h\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271290892",
+                                            "@name": "1043",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "24 h",
+                                            "@variableName": "Basic Settings - Uhrzeitformat: 24 h",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"24 h\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916686731-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916793996",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388348044",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Set the time format."
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388242059",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "CF3D15B2-9986-46F7-A63D-64BE3BE5C427",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916688011",
+                        "@id": "54043195916688011-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271209740",
+                                    "@name": "1051",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Time display",
+                                    "@variableName": "Basic Settings - Zeitanzeige",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Time display\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271209740",
+                                        "@name": "1054",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "In hours",
+                                        "@variableName": "Basic Settings - Zeitanzeige: In Stunden",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"In hours\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271209740",
+                                            "@name": "1055",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Time",
+                                            "@variableName": "Basic Settings - Zeitanzeige: Uhrzeit",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Time\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916688011-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916794636",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388348684",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set the time display for the end of the programme."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271209740",
+                                            "@name": "1052",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Finish in",
+                                            "@variableName": "Basic Settings - Zeitanzeige: Fertig in",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Finish in\""
+                                        }},
+                                        "shows the remaining time the programme has to run, e.g. 3h 25min."
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271209740",
+                                            "@name": "1053",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Finish at",
+                                            "@variableName": "Basic Settings - Zeitanzeige: Fertig um",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Finish at\""
+                                        }},
+                                        "shows the time when the programme will end, e.g. 15:20 hours."
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388243339",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "222C7FC5-3B23-4C48-B4D1-BB31D012355C",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916689291",
+                        "@id": "54043195916689291-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271269772",
+                                    "@name": "1033",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Sprache/Language",
+                                    "@variableName": "Basic Settings - Sprache",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Sprache/Language\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "See selection on the appliance."
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Select the menu language."
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388245131",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "9D524F29-AF5A-4DF6-B68C-8C6521E2A794",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916691083",
+                        "@id": "54043195916691083-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271299212",
+                                    "@name": "1047",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Water hardness",
+                                    "@variableName": "Basic Settings - Wasserhärte",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Water hardness\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1410712076",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "0 - 62",
+                                        "@variableName": "Enthärtung Auswahl am GV",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "0 - 62"
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1410712076",
+                                            "@name": "1011",
+                                            "@detailed-topic-type": "Technical value",
+                                            "@variableType": "Standard",
+                                            "@variable": "16 - 20",
+                                            "@variableName": "Stufe 5 Wasserhärte",
+                                            "@variant": "1018",
+                                            "@variantName": "GV6xx TFT Premium/Added Value",
+                                            "$": "16 - 20"
+                                        }},
+                                        "medium",
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916691083-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043196939151884",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "1410705932",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set the water hardness."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"link":                                     {
+                                        "@BSH-Linktype": "Langlink in Properties",
+                                        "@source-id": "54043195916691083-9",
+                                        "@target-id": "36028798575970827-9",
+                                        "@use": "grab",
+                                        "@target": "Overview of water hardness settings",
+                                        "@name": "RelatedTopic",
+                                        "@id": "36028799365887372",
+                                        "@target-base-id": "1557006859",
+                                        "@external": "0",
+                                        "@linkid": "2346923404",
+                                        "@dynamic": "true",
+                                        "@arrow": "before",
+                                        "$": "Overview of water hardness settings"
+                                    }}
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388246411",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3CFCEF36-E26F-4EE5-9F6F-F65E5F30E902",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "81064793680915339",
+                        "@id": "81064793680915339-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271273100",
+                                    "@name": "1021",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Rinse aid dispenser",
+                                    "@variableName": "Basic Settings - Klarspülerzugabe",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Rinse aid dispenser\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1444782348",
+                                        "@name": "1028",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "0 - 6",
+                                        "@variableName": "Klarspüler Auswahl am GV",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "0 - 6"
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1444782348",
+                                            "@name": "1029",
+                                            "@detailed-topic-type": "Technical value",
+                                            "@variableType": "Standard",
+                                            "@variable": "5",
+                                            "@variableName": "Klarspüler Werkseinstellung",
+                                            "@variant": "1051",
+                                            "@variantName": "GV6xx P5_A3 EU",
+                                            "$": "5"
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "81064793680915339-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "81064794703376780",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "1410707852",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set or switch off the amount of rinse aid to be dispensed."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"link":                                     {
+                                        "@BSH-Linktype": "Langlink in Properties",
+                                        "@source-id": "81064793680915339-9",
+                                        "@target-id": "90071994105719563-9",
+                                        "@use": "grab",
+                                        "@target": "Setting the amount of rinse aid",
+                                        "@name": "RelatedTopic",
+                                        "@id": "63050397130112268",
+                                        "@target-base-id": "1558309643",
+                                        "@external": "0",
+                                        "@linkid": "2346925324",
+                                        "@dynamic": "true",
+                                        "@arrow": "before",
+                                        "$": "Setting the amount of rinse aid"
+                                    }}
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388247691",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "6F1D3F82-9180-4A93-8A43-D368DA638798",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916693643",
+                        "@id": "54043195916693643-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271287564",
+                                    "@name": "1027",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Sensor setting",
+                                    "@variableName": "Basic Settings - Sensoreinstellung",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Sensor setting\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271287564",
+                                            "@name": "1030",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Standard",
+                                            "@variableName": "Basic Settings - Sensoreinstellung: Standard",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Standard\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916693643-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916796812",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388350860",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271287564",
+                                        "@name": "1028",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "Sensitive",
+                                        "@variableName": "Basic Settings - Sensoreinstellung: Empfindlich",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"Sensitive\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271287564",
+                                        "@name": "1029",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "Very sensitive",
+                                        "@variableName": "Basic Settings - Sensoreinstellung: Sehr empfindlich",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"Very sensitive\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set the water sensor for identifying soiling."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"link":                                     {
+                                        "@BSH-Linktype": "Langlink in Properties",
+                                        "@source-id": "54043195916693643-9",
+                                        "@target-id": "63050394930605963-9",
+                                        "@use": "grab",
+                                        "@target": "Sensors",
+                                        "@name": "RelatedTopic",
+                                        "@id": "54043195916797196",
+                                        "@target-base-id": "147419019",
+                                        "@external": "0",
+                                        "@linkid": "388351244",
+                                        "@dynamic": "true",
+                                        "@arrow": "before",
+                                        "$": "Sensors"
+                                    }}
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388248971",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "70CC46DD-2C8C-4A68-A83F-0DBE8F96871C",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916694923",
+                        "@id": "54043195916694923-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "3853398156",
+                                    "@name": "1017",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Extra Dry",
+                                    "@variableName": "Basic Settings - Extratrocknen",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Extra Dry\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3853398156",
+                                        "@name": "1003",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "on",
+                                        "@variableName": "Auswahl: Ein",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"on\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "3853398156",
+                                            "@name": "1002",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "off",
+                                            "@variableName": "Auswahl: Aus",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"off\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916694923-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916797836",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388351884",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        "Switch",
+                                        {"variable":                                         {
+                                            "@linkid": "3853398156",
+                                            "@name": "1017",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Extra Dry",
+                                            "@variableName": "Basic Settings - Extratrocknen",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Extra Dry\""
+                                        }},
+                                        "on or off for each operation."
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "The temperature is increased during the final rinse for a better drying result. This may increase the running time slightly."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Please take care with delicate tableware."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388250251",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "DB63ACBE-A680-42AD-8D89-2609214443A7",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916696203",
+                        "@id": "54043195916696203-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271295884",
+                                    "@name": "1044",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Water connection",
+                                    "@variableName": "Basic Settings - Wasseranschluss",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Water connection\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271295884",
+                                            "@name": "1045",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Cold water",
+                                            "@variableName": "Basic Settings - Wasseranschluss: Kaltwasser",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Cold water\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916696203-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916798860",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388352908",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271295884",
+                                        "@name": "1046",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "Hot water",
+                                        "@variableName": "Basic Settings - Wasseranschluss: Warmwasser",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"Hot water\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set cold water or hot water connection."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Only set the appliance to hot water if this can be prepared with little energy and a suitable installation is available, e.g. solar heating system with circulation line. The water temperature should be at least 40 °C and max. 60 °C."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388328331",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "8A14574F-2028-4793-8A21-9A05C3A4AD14",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916774283",
+                        "@id": "54043195916774283-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271218060",
+                                    "@name": "1010",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Eco forecast",
+                                    "@variableName": "Basic Settings - Ecoprognose",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Eco forecast\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271218060",
+                                        "@name": "1003",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "on",
+                                        "@variableName": "Auswahl: Ein",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"on\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271218060",
+                                            "@name": "1002",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "off",
+                                            "@variableName": "Auswahl: Aus",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"off\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916774283-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916799500",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388353548",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Switch EcoCheck on or off."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "When selecting the programme, the average water consumption and energy consumption is briefly shown on the display."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388330891",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "B619DF46-6374-45A1-A77A-1E617C455784",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "81064793680999819",
+                        "@id": "81064793680999819-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271219724",
+                                    "@name": "1011",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Emotion Light",
+                                    "@variableName": "Basic Settings - emotionLight",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Emotion Light\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271219724",
+                                        "@name": "1002",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "off",
+                                        "@variableName": "Auswahl: Aus",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"off\""
+                                    }}
+                                },
+                                                                {
+                                    "@class": "TextModule2",
+                                    "@base-id": "3819734027",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "5E5D7298-BA79-4FFE-BD7C-7F561EEFFC50",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028800838697995",
+                                    "@id": "36028800838697995-9",
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "3853351948",
+                                            "@name": "1080",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "On via main switch",
+                                            "@variableName": "Basic Settings - emotionLight: Über Hauptschalter aktivieren",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"On via main switch\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "36028800838697995-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "18014403892017420",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "5382535436",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@class": "TextModule2",
+                                    "@base-id": "3819686283",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "FEC1C508-DDC3-47CA-9A10-C2733A8D26A8",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028800838650251",
+                                    "@id": "36028800838650251-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3853350284",
+                                        "@name": "1081",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "On on opening door",
+                                        "@variableName": "Basic Settings - emotionLight: Ein bei Türöffnung",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"On on opening door\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Switch the interior lighting of the appliance on or off."
+                                },
+                                                                {
+                                    "@class": "TextModule2",
+                                    "@base-id": "2097672331",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "84AB654C-9565-4055-B2C8-AB1956999C01",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "2097672331",
+                                    "@id": "2097672331-9",
+                                    "@context": "Cond",
+                                    "$": "When the appliance door is opened, the interior lighting switches off automatically after 10 minutes."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "473231115",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "919D673A-3244-4309-87E8-3A12D24A30BB",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043196001677067",
+                        "@id": "54043196001677067-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271264780",
+                                    "@name": "1018",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Front display",
+                                    "@variableName": "Basic Settings - Frontdisplayanzeige",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Front display\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271264780",
+                                            "@name": "1003",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "on",
+                                            "@variableName": "Auswahl: Ein",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"on\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043196001677067-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043196001709964",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "473264012",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271264780",
+                                        "@name": "1002",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "off",
+                                        "@variableName": "Auswahl: Aus",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"off\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Switch the front display on or off."
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388332171",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "D3BB478F-3561-4459-AA54-C8050658A992",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916778123",
+                        "@id": "54043195916778123-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271289228",
+                                    "@name": "1034",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Start programme",
+                                    "@variableName": "Basic Settings - Startprogramm",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Start programme\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271289228",
+                                            "@name": "1035",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Eco 50°C",
+                                            "@variableName": "Basic Settings - Startprogramm: Eco 50",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Eco 50°C\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916778123-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043196419049612",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "890603660",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271289228",
+                                        "@name": "1036",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "Last programme",
+                                        "@variableName": "Basic Settings - Startprogramm: Letzte Programmwahl",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"Last programme\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "Set a default programme for when the appliance is switched on.",
+                                    {"link":                                     {
+                                        "@BSH-Linktype": "Langlink in Properties",
+                                        "@source-id": "54043195916778123-9",
+                                        "@target-id": "135107988968018187-9",
+                                        "@use": "grab",
+                                        "@target": "Programmes",
+                                        "@name": "RelatedTopic",
+                                        "@id": "54043195916801804",
+                                        "@target-base-id": "146903307",
+                                        "@external": "0",
+                                        "@linkid": "388355852",
+                                        "@dynamic": "true",
+                                        "@arrow": "before",
+                                        "$": "Programmes"
+                                    }}
+                                ]
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388333451",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "38DA1B8C-DF95-4786-B398-791956AE05B2",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916779403",
+                        "@id": "54043195916779403-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271297548",
+                                    "@name": "1031",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Tone volume",
+                                    "@variableName": "Basic Settings - Signallautstärke",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Tone volume\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Scale with multiple levels."
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set the signal volume at the end of the programme."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Level 0 switches the signal tones off."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388334731",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "41FA0044-AC21-44C4-A608-6AD1781F4E70",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916780683",
+                        "@id": "54043195916780683-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271211404",
+                                    "@name": "1037",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Button volume",
+                                    "@variableName": "Basic Settings - Tastenlautstärke",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Button volume\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Scale with multiple levels"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Set the button volume during operation."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Level 0 switches the button tones off."
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "2346748171",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "A99C0BC7-D59D-49DF-99BA-FBA3B14A23D4",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "27021600110971147",
+                        "@id": "27021600110971147-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "3853346572",
+                                    "@name": "1077",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Efficient Dry",
+                                    "@variableName": "Baisc Settings - Türöffnung in allen Programmen",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Efficient Dry\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3853346572",
+                                        "@name": "1002",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "off",
+                                        "@variableName": "Auswahl: Aus",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"off\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3853346572",
+                                        "@name": "1078",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "On in all programmes",
+                                        "@variableName": "Baisc Settings - Türöffnung in allen Programmen: Ein in allen Programmen",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"On in all programmes\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "3853346572",
+                                            "@name": "1079",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "On with Eco 50°",
+                                            "@variableName": "Basic Settings - Türöffnung in allen Programmen: Ein im Programm Eco 50°",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"On with Eco 50°\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "27021600110971147-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "27021600110972684",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "2346749708",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Activate or deactivate automatic opening of the appliance door during the drying phase."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"link":                                     {
+                                        "@BSH-Linktype": "Langlink in Properties",
+                                        "@source-id": "27021600110971147-9",
+                                        "@target-id": "45035997595347851-9",
+                                        "@use": "grab",
+                                        "@target": "Automatic door opening",
+                                        "@name": "RelatedTopic",
+                                        "@id": "27021600110973068",
+                                        "@target-base-id": "1321642891",
+                                        "@external": "0",
+                                        "@linkid": "2346750092",
+                                        "@dynamic": "true",
+                                        "@arrow": "before",
+                                        "$": {"variable":                                         {
+                                            "@linkid": "9464419084",
+                                            "@name": "1077",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Efficient Dry",
+                                            "@variableName": "Baisc Settings - Türöffnung in allen Programmen",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "@context": "",
+                                            "$": "\"Efficient Dry\""
+                                        }}
+                                    }}
+                                }
+                            ]
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388337803",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "A84F531C-8752-428C-B431-ED6692A1A4CF",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916783755",
+                        "@id": "54043195916783755-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271339276",
+                                    "@name": "1050",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Wi-Fi",
+                                    "@variableName": "Basic Settings - Wi-Fi",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Wi-Fi\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271339276",
+                                        "@name": "1003",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "on",
+                                        "@variableName": "Auswahl: Ein",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"on\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271339276",
+                                            "@name": "1002",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "off",
+                                            "@variableName": "Auswahl: Aus",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"off\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916783755-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "36028799365891212",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "2346927244",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Switch the wireless network connection on or off."
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "3820019211",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "BCA96189-9FF6-4800-8126-EF3823573B6F",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "45036000093724171",
+                        "@id": "45036000093724171-9",
+                        "proptype":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "1",
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "5310202507",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "F509CADE-9D00-4657-9A67-A001EF15F162",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "9007204564943499",
+                                "@id": "9007204564943499-9",
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "5310204044",
+                                    "@name": "2820",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "Remote Start",
+                                    "@variableName": "Remote start 0",
+                                    "@variant": "1001",
+                                    "@variantName": "Index",
+                                    "$": "Remote Start"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3820020748",
+                                        "@name": "1002",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "off",
+                                        "@variableName": "Auswahl: Aus",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"off\""
+                                    }}
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "3820020748",
+                                            "@name": "1084",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "Manual",
+                                            "@variableName": "Basic Settings - Remote Control Level: Manuell",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"Manual\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "45036000093724171-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "45036000127109260",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "3853404300",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3820020748",
+                                        "@name": "1085",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "Permanent",
+                                        "@variableName": "Basic Settings - Remote Control Level: Dauerhaft",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"Permanent\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "Activate or deactivate",
+                                    {"link":                                     {
+                                        "@BSH-Linktype": "Langlink in Properties",
+                                        "@source-id": "45036000093724171-9",
+                                        "@target-id": "81064798598592907-9",
+                                        "@use": "grab",
+                                        "@target": "Remote start",
+                                        "@name": "RelatedTopic",
+                                        "@id": "27021603074425356",
+                                        "@target-base-id": "5305923979",
+                                        "@external": "0",
+                                        "@linkid": "5310202380",
+                                        "@dynamic": "true",
+                                        "@arrow": "before",
+                                        "$": {"variable":                                         {
+                                            "@linkid": "5306976140",
+                                            "@name": "2820",
+                                            "@detailed-topic-type": "Non-specific",
+                                            "@variableType": "Standard",
+                                            "@variable": "Remote Start",
+                                            "@variableName": "Remote start 0",
+                                            "@variant": "1001",
+                                            "@variantName": "Index",
+                                            "@context": "",
+                                            "$": "Remote Start"
+                                        }},
+                                        "img":                                         {
+                                            "@src": "5306976268",
+                                            "@name": "SY_642_650_BO_Remote_Start_I0",
+                                            "@type": "svg",
+                                            "@href": "Images/svg/9007204487197323__Web.svg",
+                                            "@class": "GraficResource",
+                                            "@link-id": "36028802325940236",
+                                            "@label": "5306976268",
+                                            "@dpi": "720",
+                                            "@aspect": "en",
+                                            "@source-aspect": "All",
+                                            "@st4-width-cm": "0.4268611111111111",
+                                            "@st4-height-cm": "0.5538611111111111",
+                                            "@width-cm": "0.4268611111111111",
+                                            "@height-cm": "0.5538611111111111"
+                                        }
+                                    }},
+                                    "."
+                                ]
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388344459",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "BE1EDA91-8BE3-4659-93BB-A43E212B5BE9",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916790411",
+                        "@id": "54043195916790411-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271266444",
+                                    "@name": "1008",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Greeting",
+                                    "@variableName": "Basic Settings - Begrüßung",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Greeting\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "1271266444",
+                                            "@name": "1003",
+                                            "@detailed-topic-type": "Display text",
+                                            "@variableType": "Standard",
+                                            "@variable": "on",
+                                            "@variableName": "Auswahl: Ein",
+                                            "@variant": "1001",
+                                            "@variantName": "Bosch - TFT Display",
+                                            "$": "\"on\""
+                                        }},
+                                        {"footnote":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195916790411-9",
+                                            "@target-id": "9007199438290059-9",
+                                            "@use": "grab",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195916805772",
+                                            "@target-base-id": "183549067",
+                                            "@external": "0",
+                                            "@linkid": "388359820",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "tooltip": {"$": "Factory setting (may vary according to model)"}
+                                        }}
+                                    ]
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "1271266444",
+                                        "@name": "1002",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "off",
+                                        "@variableName": "Auswahl: Aus",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"off\""
+                                    }}
+                                }
+                            ]
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Switch display of the brand name logo on or off when the appliance is switched on."
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "388345739",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "5D886F16-FBDC-4998-855E-8246A0019274",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195916791691",
+                        "@id": "54043195916791691-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271263116",
+                                    "@name": "1048",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Factory setting",
+                                    "@variableName": "Basic Settings - Werkseinstellung",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Factory setting\""
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1271263116",
+                                    "@name": "1049",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Reset",
+                                    "@variableName": "Basic Settings - Werkseinstellung: Zurücksetzen",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Reset\""
+                                }}
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "Restore changed settings to the factory settings."
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "$": "The settings for initial start-up must be configured."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "45036000093724171-9",
+                    "@label": "BCA96189-9FF6-4800-8126-EF3823573B6F",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "90071996367429260",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "3820019211",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "45035997595347851-9",
+                    "@label": "2346658700",
+                    "@use": "copy",
+                    "@target": "Automatic door opening",
+                    "@name": "RelatedTopic",
+                    "@id": "99079194148809612",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "1321642891",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "27021600110971147-9",
+                    "@label": "A99C0BC7-D59D-49DF-99BA-FBA3B14A23D4",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "99079194148899212",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "2346748171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916684939-9",
+                    "@label": "0E256CAF-58B4-4A45-BC02-6176CE87ECEE",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699872012",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388238987",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916686731-9",
+                    "@label": "555DD9AD-8D0B-436D-B0FB-339B5F7815A2",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699873804",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388240779",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916688011-9",
+                    "@label": "CF3D15B2-9986-46F7-A63D-64BE3BE5C427",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699875084",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388242059",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916689291-9",
+                    "@label": "222C7FC5-3B23-4C48-B4D1-BB31D012355C",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699876364",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388243339",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916691083-9",
+                    "@label": "9D524F29-AF5A-4DF6-B68C-8C6521E2A794",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699878156",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388245131",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "81064793680915339-9",
+                    "@label": "3CFCEF36-E26F-4EE5-9F6F-F65E5F30E902",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699879436",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388246411",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916693643-9",
+                    "@label": "6F1D3F82-9180-4A93-8A43-D368DA638798",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699880716",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388247691",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916694923-9",
+                    "@label": "70CC46DD-2C8C-4A68-A83F-0DBE8F96871C",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699881996",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388248971",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916696203-9",
+                    "@label": "DB63ACBE-A680-42AD-8D89-2609214443A7",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699883276",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388250251",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916774283-9",
+                    "@label": "8A14574F-2028-4793-8A21-9A05C3A4AD14",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699961356",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388328331",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916778123-9",
+                    "@label": "D3BB478F-3561-4459-AA54-C8050658A992",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699965196",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388332171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916779403-9",
+                    "@label": "38DA1B8C-DF95-4786-B398-791956AE05B2",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699966476",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388333451",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916780683-9",
+                    "@label": "41FA0044-AC21-44C4-A608-6AD1781F4E70",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699967756",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388334731",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916783755-9",
+                    "@label": "A84F531C-8752-428C-B431-ED6692A1A4CF",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699970828",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388337803",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916790411-9",
+                    "@label": "BE1EDA91-8BE3-4659-93BB-A43E212B5BE9",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699977484",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388344459",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043195916791691-9",
+                    "@label": "5D886F16-FBDC-4998-855E-8246A0019274",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590699978764",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388345739",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "54043196001677067-9",
+                    "@label": "919D673A-3244-4309-87E8-3A12D24A30BB",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "117093590784864140",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "473231115",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "9007199438288139-9",
+                    "@label": "935840524",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "117093591247473420",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "183547147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "935847948",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "117093591247480844",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "117093590458818571-9",
+                    "@target-id": "81064793680999819-9",
+                    "@label": "B619DF46-6374-45A1-A77A-1E617C455784",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "126100789954704908",
+                    "@source": "Overview of basic settings",
+                    "@target-base-id": "388330891",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916686731-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388348044",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916793996",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916688011-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388348684",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916794636",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916691083-9",
+                    "@target-id": "36028798575970827-9",
+                    "@label": "2346923404",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "RelatedTopic",
+                    "@id": "36028799365887372",
+                    "@target-base-id": "1557006859",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916691083-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "1410705932",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043196939151884",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793680915339-9",
+                    "@target-id": "90071994105719563-9",
+                    "@label": "2346925324",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "RelatedTopic",
+                    "@id": "63050397130112268",
+                    "@target-base-id": "1558309643",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793680915339-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "1410707852",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "81064794703376780",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916693643-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388350860",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916796812",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916693643-9",
+                    "@target-id": "63050394930605963-9",
+                    "@label": "388351244",
+                    "@use": "grab",
+                    "@target": "Sensors",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916797196",
+                    "@target-base-id": "147419019",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916694923-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388351884",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916797836",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916696203-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388352908",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916798860",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916774283-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388353548",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916799500",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793680999819-9",
+                    "@target-id": "36028800838650251-9",
+                    "@label": "FEC1C508-DDC3-47CA-9A10-C2733A8D26A8",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "54043199348124940",
+                    "@target-base-id": "3819686283",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793680999819-9",
+                    "@target-id": "36028800838697995-9",
+                    "@label": "5E5D7298-BA79-4FFE-BD7C-7F561EEFFC50",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "54043199348134284",
+                    "@target-base-id": "3819734027",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793680999819-9",
+                    "@target-id": "2097672331-9",
+                    "@label": "84AB654C-9565-4055-B2C8-AB1956999C01",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "63050396880856716",
+                    "@target-base-id": "2097672331",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793680999819-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388355212",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "81064793681024140",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028800838697995-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "5382535436",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "18014403892017420",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916778123-9",
+                    "@target-id": "135107988968018187-9",
+                    "@label": "388355852",
+                    "@use": "grab",
+                    "@target": "Programmes",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916801804",
+                    "@target-base-id": "146903307",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916778123-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "890603660",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043196419049612",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916783755-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "2346927244",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "36028799365891212",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195916790411-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "388359820",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195916805772",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043196001677067-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "473264012",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "54043196001709964",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "27021600110971147-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "2346749708",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "27021600110972684",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "27021600110971147-9",
+                    "@target-id": "45035997595347851-9",
+                    "@label": "2346750092",
+                    "@use": "grab",
+                    "@target": "Automatic door opening",
+                    "@name": "RelatedTopic",
+                    "@id": "27021600110973068",
+                    "@target-base-id": "1321642891",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "45036000093724171-9",
+                    "@target-id": "81064798598592907-9",
+                    "@label": "5310202380",
+                    "@use": "grab",
+                    "@target": "Remote start",
+                    "@name": "RelatedTopic",
+                    "@id": "27021603074425356",
+                    "@target-base-id": "5305923979",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "45036000093724171-9",
+                    "@target-id": "9007204564943499-9",
+                    "@label": "F509CADE-9D00-4657-9A67-A001EF15F162",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "TextModuleLink",
+                    "@id": "27021603075052940",
+                    "@target-base-id": "5310202507",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "45036000093724171-9",
+                    "@target-id": "9007199438290059-9",
+                    "@label": "3853404300",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "45036000127109260",
+                    "@target-base-id": "183549067",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "2085446511705141899.html#!/Togglebox=147200267/scrollto=147200267/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "147200267",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "90071992694610187-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Changing basic settings"},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1316875403",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "C715D370-FC8A-43AF-80FC-99950B1CD324",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200571616395",
+                    "@id": "9007200571616395-54",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1316876940",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007200571617932",
+                                "@label": "1316876940",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "156685067",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "310497548",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199411426059",
+                    "@id": "9007199411426059-53",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To open the basic settings, press"},
+                            {"img":                             {
+                                "@src": "640278924",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895019916",
+                                "@label": "640278924",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1487585547",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1559997324",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200742326539",
+                    "@id": "9007200742326539-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1487589004",
+                                "@name": "SY_Blättern_vorwärts",
+                                "@type": "svg",
+                                "@href": "Images/svg/632245515__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007200742329996",
+                                "@label": "1487589004",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows the required setting."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "147211019",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1377445644",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "147211019",
+                    "@id": "147211019-26",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "632449548",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "632449548",
+                                "@label": "632449548",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "or"},
+                            {"img":                             {
+                                "@src": "632449676",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "632449676",
+                                "@label": "632449676",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows the right value."}
+                        ]
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "$": "You can change several settings."
+                    }}
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146812171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "310497676",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199401553163",
+                    "@id": "9007199401553163-70",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To save the settings, press"},
+                            {"img":                             {
+                                "@src": "640275980",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895016972",
+                                "@label": "640275980",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }}
+            ]},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "90071992694610187-9",
+                    "@target-id": "9007199411426059-53",
+                    "@label": "310497548",
+                    "@use": "grab",
+                    "@target": "Changing basic settings",
+                    "@name": "TextModuleLink",
+                    "@id": "90071992707412876",
+                    "@source": "Changing basic settings",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694610187-9",
+                    "@target-id": "9007199401553163-70",
+                    "@label": "310497676",
+                    "@use": "grab",
+                    "@target": "Changing basic settings",
+                    "@name": "TextModuleLink",
+                    "@id": "90071992707413644",
+                    "@source": "Changing basic settings",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694610187-9",
+                    "@target-id": "9007200571616395-54",
+                    "@label": "C715D370-FC8A-43AF-80FC-99950B1CD324",
+                    "@use": "grab",
+                    "@target": "Changing basic settings",
+                    "@name": "TextModuleLink",
+                    "@id": "90071993864495756",
+                    "@source": "Changing basic settings",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694610187-9",
+                    "@target-id": "147211019-26",
+                    "@label": "1377445644",
+                    "@use": "grab",
+                    "@target": "Changing basic settings",
+                    "@name": "TextModuleLink",
+                    "@id": "90071993924855564",
+                    "@source": "Changing basic settings",
+                    "@target-base-id": "147211019",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694610187-9",
+                    "@target-id": "9007200742326539-9",
+                    "@label": "1559997324",
+                    "@use": "grab",
+                    "@target": "Changing basic settings",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994107407244",
+                    "@source": "Changing basic settings",
+                    "@target-base-id": "1487585547",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "632449548",
+                    "@label": "632449548",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "632449676",
+                    "@label": "632449676",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200742329996",
+                    "@label": "1487589004",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "2085446511705141899.html#!/Togglebox=471020043/scrollto=471020043/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "471020043",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079192273170955-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Setting the time"},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "156685067",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "471027468",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199411426059",
+                    "@id": "9007199411426059-54",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To open the basic settings, press"},
+                            {"img":                             {
+                                "@src": "640278924",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895019916",
+                                "@label": "640278924",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "780350860",
+                            "@name": "SY_Blättern_vorwärts",
+                            "@type": "svg",
+                            "@href": "Images/svg/632245515__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "99079192582501772",
+                            "@label": "780350860",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.35630555555555554",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.35630555555555554",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "repeatedly until the display shows"},
+                        {"variable":                         {
+                            "@linkid": "1271198732",
+                            "@name": "1039",
+                            "@detailed-topic-type": "Display text",
+                            "@variableType": "Standard",
+                            "@variable": "Time setting",
+                            "@variableName": "Basic Settings - Uhrzeiteinstellung",
+                            "@variant": "1001",
+                            "@variantName": "Bosch - TFT Display",
+                            "$": "\"Time setting\""
+                        }},
+                        {"$": "."}
+                    ]
+                }}},
+                {"instruction":                 {
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "780034188",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192582185100",
+                                "@label": "780034188",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "or"},
+                            {"img":                             {
+                                "@src": "780034316",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192582185228",
+                                "@label": "780034316",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows the required time."}
+                        ]
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Holding down"},
+                            {"img":                             {
+                                "@src": "780034188",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192582185100",
+                                "@label": "780034188",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "and"},
+                            {"img":                             {
+                                "@src": "780034316",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192582185228",
+                                "@label": "780034316",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "will change the set values in 10-minute steps."}
+                        ]
+                    }}
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146812171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "471027596",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199401553163",
+                    "@id": "9007199401553163-71",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To save the settings, press"},
+                            {"img":                             {
+                                "@src": "640275980",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895016972",
+                                "@label": "640275980",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }}
+            ]},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "99079192273170955-9",
+                    "@target-id": "9007199411426059-54",
+                    "@label": "471027468",
+                    "@use": "grab",
+                    "@target": "Setting the time",
+                    "@name": "TextModuleLink",
+                    "@id": "99079192273178380",
+                    "@source": "Setting the time",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079192273170955-9",
+                    "@target-id": "9007199401553163-71",
+                    "@label": "471027596",
+                    "@use": "grab",
+                    "@target": "Setting the time",
+                    "@name": "TextModuleLink",
+                    "@id": "99079192273178508",
+                    "@source": "Setting the time",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192582185100",
+                    "@label": "780034188",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192582185228",
+                    "@label": "780034316",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192582501772",
+                    "@label": "780350860",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }}
+    ]
+}

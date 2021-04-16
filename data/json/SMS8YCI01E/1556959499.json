@@ -1,0 +1,2485 @@
+{
+    "@file-name": "1556959499.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "1556959499",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "135107990378074379-9",
+    "@is-page": "true",
+    "@childrencount": "5",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Water softening system"},
+    "shortdesc": {"$": "Hard water leaves limescale on the tableware as well as the washing tank and parts of the appliance may become blocked."},
+    "p": {"BSHCollectionOfElements":     [
+        {"$": "To ensure good dishwashing results, you can treat the water with special salt and the water softening system. To avoid damage to the appliance, water with a hardness above"},
+        {"variable":         {
+            "@linkid": "2383681804",
+            "@name": "1029",
+            "@detailed-topic-type": "Technical value",
+            "@variableType": "Standard",
+            "@variable": "9",
+            "@variableName": "Enthärtung einschalten _ab 7°dH",
+            "@variant": "1018",
+            "@variantName": "GV6xx TFT Premium/Added Value",
+            "$": "9"
+        }},
+        {"variable":         {
+            "@linkid": "2383683852",
+            "@name": "1024",
+            "@detailed-topic-type": "Technical value",
+            "@variableType": "Standard",
+            "@variable": "°E",
+            "@variableName": "Wasserhärte",
+            "@variant": "1051",
+            "@variantName": "GV6xx P5_A3 EU",
+            "$": "°E"
+        }},
+        {"$": "must be softened."}
+    ]},
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "135107990378074379-9",
+            "@target-id": "36028798575970827-9",
+            "@label": "9596685964",
+            "@use": "grab",
+            "@target": "Overview of water hardness settings",
+            "@name": "InformationLink",
+            "@id": "9007208851426956",
+            "@source": "Water softening system",
+            "@target-base-id": "1557006859",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "135107990378074379-9",
+            "@target-id": "99079193359972875-9",
+            "@label": "1557819660",
+            "@use": "grab",
+            "@target": "Setting the water softening system",
+            "@name": "InformationLink",
+            "@id": "9007208851427596",
+            "@source": "Water softening system",
+            "@target-base-id": "1557821963",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "135107990378074379-9",
+            "@target-id": "18014398656269963-9",
+            "@label": "1566090252",
+            "@use": "grab",
+            "@target": "Special salt",
+            "@name": "InformationLink",
+            "@id": "135107990387205132",
+            "@source": "Water softening system",
+            "@target-base-id": "146787979",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "135107990378074379-9",
+            "@target-id": "99079193360194955-9",
+            "@label": "1558041100",
+            "@use": "grab",
+            "@target": "Switching off the water softening system",
+            "@name": "InformationLink",
+            "@id": "9007208851428236",
+            "@source": "Water softening system",
+            "@target-base-id": "1558044043",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "135107990378074379-9",
+            "@target-id": "27021598549003915-9",
+            "@label": "784781068",
+            "@use": "grab",
+            "@target": "Regeneration of the water softening system",
+            "@name": "InformationLink",
+            "@id": "9007208851428876",
+            "@source": "Water softening system",
+            "@target-base-id": "784780939",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "1556959499.html#!/Togglebox=1557006859/scrollto=1557006859/",
+            "@class": "Reference",
+            "@type": "TextNode",
+            "@base-id": "1557006859",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "36028798575970827-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Overview of water hardness settings"},
+            "shortdesc": {"$": "You can find an overview of the water hardness values that can be selected here."},
+            "p": {"$": "You can find out how hard your water is from your local water company or by using a water hardness tester."},
+            "properties":             {
+                "@flipTable": "false",
+                "@presentation": "table",
+                "@propertie-count": "4",
+                "@hsdl-percent": "25% 25% 25% 25%",
+                "prophead":                 {
+                    "proptypehd":                     {
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$":                             [
+                                "Water hardness",
+                                {"variable":                                 {
+                                    "@linkid": "1557779468",
+                                    "@name": "1024",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "°E",
+                                    "@variableName": "Wasserhärte",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "°E"
+                                }}
+                            ]
+                        }
+                    },
+                    "propvaluehd":                     {
+                        "@col-index": "2",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Hardness range"
+                        }
+                    },
+                    "propdeschd":                     {
+                        "@col-index": "3",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "mmol/l"
+                        }
+                    },
+                    "addpropdeschd":                     {
+                        "@col-index": "4",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Setting value"
+                        }
+                    }
+                },
+                "property":                 [
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "399610379",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557779596",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398909092363",
+                        "@id": "18014398909092363-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384079244",
+                                    "@name": "1003",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0 - 8",
+                                    "@variableName": "Stufe 1 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "0 - 8"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Soft"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "0 - 1.1"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384079244",
+                                    "@name": "1002",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0 - 8",
+                                    "@variableName": "Stufe 1 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "0 - 8"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156630539",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557779724",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666112523",
+                        "@id": "18014398666112523-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384093324",
+                                    "@name": "1005",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "9 - 10",
+                                    "@variableName": "Stufe 2 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "9 - 10"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Soft"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "1.2 - 1.4"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384093324",
+                                    "@name": "1004",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "9 - 10",
+                                    "@variableName": "Stufe 2 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "9 - 10"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156635659",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557779852",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666117643",
+                        "@id": "18014398666117643-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384094988",
+                                    "@name": "1007",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "11 - 12",
+                                    "@variableName": "Stufe 3 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "11 - 12"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Medium"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "1.5 - 1.8"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384094988",
+                                    "@name": "1006",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "11 - 12",
+                                    "@variableName": "Stufe 3 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "11 - 12"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156640395",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557779980",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666122379",
+                        "@id": "18014398666122379-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384083468",
+                                    "@name": "1009",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "13 - 15",
+                                    "@variableName": "Stufe 4 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "13 - 15"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Medium"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "1.9 - 2.1"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384083468",
+                                    "@name": "1008",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "13 - 15",
+                                    "@variableName": "Stufe 4 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "13 - 15"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156645131",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557780108",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666127115",
+                        "@id": "18014398666127115-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384085132",
+                                    "@name": "1011",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "16 - 20",
+                                    "@variableName": "Stufe 5 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "16 - 20"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Medium"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "2.2 - 2.9"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384085132",
+                                    "@name": "1010",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "16 - 20",
+                                    "@variableName": "Stufe 5 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "16 - 20"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156649867",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557780236",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666131851",
+                        "@id": "18014398666131851-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384086796",
+                                    "@name": "1013",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "21 - 26",
+                                    "@variableName": "Stufe 6 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "21 - 26"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Hard"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "3.0 - 3.7"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384086796",
+                                    "@name": "1012",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "21 - 26",
+                                    "@variableName": "Stufe 6 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "21 - 26"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156654603",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557780364",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666136587",
+                        "@id": "18014398666136587-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384088460",
+                                    "@name": "1015",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "27 - 38",
+                                    "@variableName": "Stufe 7 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "27 - 38"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Hard"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "3.8 - 5.4"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384088460",
+                                    "@name": "1014",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "27 - 38",
+                                    "@variableName": "Stufe 7 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "27 - 38"
+                                }}
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "156659339",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1557818892",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "18014398666141323",
+                        "@id": "18014398666141323-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384091660",
+                                    "@name": "1017",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "39 - 62",
+                                    "@variableName": "Stufe 8 Wasserhärte",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "39 - 62"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Hard"
+                            }
+                        },
+                        "propdesc":                         {
+                            "@col-index": "3",
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "1384102667",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "3B43D65C-EA0B-4E51-B7E2-DE49E6F0FFE5",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "9007200638843659",
+                                "@id": "9007200638843659-9",
+                                "@context": "Cond",
+                                "$": "5.5 - 8.9"
+                            }
+                        },
+                        "addpropdesc":                         {
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "1384091660",
+                                    "@name": "1016",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "39 - 62",
+                                    "@variableName": "Stufe 8 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "39 - 62"
+                                }}
+                            }
+                        }
+                    }
+                ]
+            },
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "@class": "TextModule2",
+                "@base-id": "700343691",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1557819020",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "54043196228789643",
+                "@id": "54043196228789643-9",
+                "BSHCollectionOfElements":                 [
+                    {"b": {"$": "Note:"}},
+                    {"p":                     {
+                        "@context": "hint",
+                        "$": "Set the water hardness determined on your appliance.",
+                        "link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "54043196228789643-9",
+                            "@target-id": "99079193359972875-9",
+                            "@use": "grab",
+                            "@target": "Setting the water softening system",
+                            "@name": "RelatedTopic",
+                            "@id": "54043197153433356",
+                            "@target-base-id": "1557821963",
+                            "@external": "0",
+                            "@linkid": "1624987404",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Setting the water softening system"
+                        }
+                    }},
+                    {"p":                     {
+                        "@context": "hint",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "With a water hardness of"},
+                            {"variable":                             {
+                                "@linkid": "1443100300",
+                                "@name": "1003",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "0 - 8",
+                                "@variableName": "Stufe 1 Wasserhärte",
+                                "@variant": "1018",
+                                "@variantName": "GV6xx TFT Premium/Added Value",
+                                "$": "0 - 8"
+                            }},
+                            {"$": " "},
+                            {"variable":                             {
+                                "@linkid": "1795383436",
+                                "@name": "1024",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "°E",
+                                "@variableName": "Wasserhärte",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "°E"
+                            }},
+                            {"$": "you can dispense with special salt and switch off the water softening system."},
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink",
+                                "@source-id": "54043196228789643-9",
+                                "@target-id": "99079193360194955-9",
+                                "@use": "grab",
+                                "@target": "Switching off the water softening system",
+                                "@name": "RelatedTopic",
+                                "@id": "54043197153433484",
+                                "@target-base-id": "1558044043",
+                                "@external": "0",
+                                "@linkid": "1624987532",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Switching off the water softening system"
+                            }}
+                        ]
+                    }},
+                    {"b": {"$": "Notes:"}},
+                    {"p":                     {
+                        "@context": "hint",
+                        "$": "Set the water hardness determined on your appliance.",
+                        "link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "54043196228789643-9",
+                            "@target-id": "99079193359972875-9",
+                            "@use": "grab",
+                            "@target": "Setting the water softening system",
+                            "@name": "RelatedTopic",
+                            "@id": "54043197153433356",
+                            "@target-base-id": "1557821963",
+                            "@external": "0",
+                            "@linkid": "1624987404",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Setting the water softening system"
+                        }
+                    }},
+                    {"p":                     {
+                        "@context": "hint",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "With a water hardness of"},
+                            {"variable":                             {
+                                "@linkid": "1443100300",
+                                "@name": "1003",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "0 - 8",
+                                "@variableName": "Stufe 1 Wasserhärte",
+                                "@variant": "1018",
+                                "@variantName": "GV6xx TFT Premium/Added Value",
+                                "$": "0 - 8"
+                            }},
+                            {"$": " "},
+                            {"variable":                             {
+                                "@linkid": "1795383436",
+                                "@name": "1024",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "°E",
+                                "@variableName": "Wasserhärte",
+                                "@variant": "1051",
+                                "@variantName": "GV6xx P5_A3 EU",
+                                "$": "°E"
+                            }},
+                            {"$": "you can dispense with special salt and switch off the water softening system."},
+                            {"link":                             {
+                                "@BSH-Linktype": "Langlink",
+                                "@source-id": "54043196228789643-9",
+                                "@target-id": "99079193360194955-9",
+                                "@use": "grab",
+                                "@target": "Switching off the water softening system",
+                                "@name": "RelatedTopic",
+                                "@id": "54043197153433484",
+                                "@target-base-id": "1558044043",
+                                "@external": "0",
+                                "@linkid": "1624987532",
+                                "@dynamic": "true",
+                                "@arrow": "before",
+                                "$": "Switching off the water softening system"
+                            }}
+                        ]
+                    }}
+                ]
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398909092363-9",
+                    "@label": "1557779596",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576743564",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "399610379",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666112523-9",
+                    "@label": "1557779724",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576743692",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156630539",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666117643-9",
+                    "@label": "1557779852",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576743820",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156635659",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666122379-9",
+                    "@label": "1557779980",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576743948",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156640395",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666127115-9",
+                    "@label": "1557780108",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576744076",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156645131",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666131851-9",
+                    "@label": "1557780236",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576744204",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156649867",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666136587-9",
+                    "@label": "1557780364",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576744332",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156654603",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "18014398666141323-9",
+                    "@label": "1557818892",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576782860",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "156659339",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798575970827-9",
+                    "@target-id": "54043196228789643-9",
+                    "@label": "1557819020",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798576782988",
+                    "@source": "Overview of water hardness settings",
+                    "@target-base-id": "700343691",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "18014398666141323-9",
+                    "@target-id": "9007200638843659-9",
+                    "@label": "3B43D65C-EA0B-4E51-B7E2-DE49E6F0FFE5",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "9007201050119820",
+                    "@target-base-id": "1384102667",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043196228789643-9",
+                    "@target-id": "99079193359972875-9",
+                    "@label": "1624987404",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "RelatedTopic",
+                    "@id": "54043197153433356",
+                    "@target-base-id": "1557821963",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043196228789643-9",
+                    "@target-id": "99079193360194955-9",
+                    "@label": "1624987532",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "RelatedTopic",
+                    "@id": "54043197153433484",
+                    "@target-base-id": "1558044043",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "1556959499.html#!/Togglebox=1557821963/scrollto=1557821963/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "1557821963",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079193359972875-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Setting the water softening system"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "1324497163",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1557883404",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "1324497163",
+                "@id": "1324497163-9",
+                "$": "Set the water hardness on your appliance."
+            },
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Determine the water hardness and the appropriate setting value.",
+                    "link":                     {
+                        "@BSH-Linktype": "Langlink",
+                        "@source-id": "99079193359972875-9",
+                        "@target-id": "36028798575970827-9",
+                        "@use": "grab",
+                        "@target": "Overview of water hardness settings",
+                        "@name": "RelatedTopic",
+                        "@id": "99079193359981196",
+                        "@source": "Setting the water softening system",
+                        "@target-base-id": "1557006859",
+                        "@external": "0",
+                        "@linkid": "1557830284",
+                        "@dynamic": "true",
+                        "@arrow": "before",
+                        "$": "Overview of water hardness settings"
+                    }
+                }}},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1316875403",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2039295116",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200571616395",
+                    "@id": "9007200571616395-50",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1316876940",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007200571617932",
+                                "@label": "1316876940",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "156685067",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1557883788",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199411426059",
+                    "@id": "9007199411426059-49",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To open the basic settings, press"},
+                            {"img":                             {
+                                "@src": "640278924",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895019916",
+                                "@label": "640278924",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146820875",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1557891724",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "45035996420525835",
+                    "@id": "45035996420525835-17",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "640277004",
+                                "@name": "SY_Blättern_vorwärts",
+                                "@type": "svg",
+                                "@href": "Images/svg/632245515__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "45035996913981964",
+                                "@label": "640277004",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows"},
+                            {"variable":                             {
+                                "@linkid": "1270899468",
+                                "@name": "1047",
+                                "@detailed-topic-type": "Display text",
+                                "@variableType": "Standard",
+                                "@variable": "Water hardness",
+                                "@variableName": "Basic Settings - Wasserhärte",
+                                "@variant": "1001",
+                                "@variantName": "Bosch - TFT Display",
+                                "$": "\"Water hardness\""
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1654549643",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1695824012",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014400164031627",
+                    "@id": "18014400164031627-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1654605708",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "18014400164087692",
+                                "@label": "1654605708",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "or"},
+                            {"img":                             {
+                                "@src": "1654605836",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "18014400164087820",
+                                "@label": "1654605836",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the right water hardness has been set."}
+                        ]
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "The value"},
+                            {"variable":                             {
+                                "@linkid": "1654605964",
+                                "@name": "1010",
+                                "@detailed-topic-type": "Technical value",
+                                "@variableType": "Standard",
+                                "@variable": "16 - 20",
+                                "@variableName": "Stufe 5 Auswahl am GV",
+                                "@variant": "1018",
+                                "@variantName": "GV6xx TFT Premium/Added Value",
+                                "$": "16 - 20"
+                            }},
+                            {"$": "is set at the factory."}
+                        ]
+                    }}
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146812171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1557884684",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199401553163",
+                    "@id": "9007199401553163-66",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To save the settings, press"},
+                            {"img":                             {
+                                "@src": "640275980",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895016972",
+                                "@label": "640275980",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }}
+            ]},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "36028798575970827-9",
+                    "@label": "1557830284",
+                    "@use": "grab",
+                    "@target": "Overview of water hardness settings",
+                    "@name": "RelatedTopic",
+                    "@id": "99079193359981196",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "1557006859",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "1324497163-9",
+                    "@label": "1557883404",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360034316",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "1324497163",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "9007199411426059-49",
+                    "@label": "1557883788",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360034700",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "9007199401553163-66",
+                    "@label": "1557884684",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360035596",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "45035996420525835-17",
+                    "@label": "1557891724",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360042636",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "146820875",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "18014400164031627-9",
+                    "@label": "1695824012",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193497974924",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "1654549643",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193359972875-9",
+                    "@target-id": "9007200571616395-50",
+                    "@label": "2039295116",
+                    "@use": "grab",
+                    "@target": "Setting the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193841446028",
+                    "@source": "Setting the water softening system",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "45035996913981964",
+                    "@label": "640277004",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "18014400164087692",
+                    "@label": "1654605708",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "18014400164087820",
+                    "@label": "1654605836",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1556959499.html#!/Togglebox=146787979/scrollto=146787979/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "146787979",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "18014398656269963-9",
+            "@is-page": "false",
+            "@childrencount": "1",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Special salt"},
+            "shortdesc": {"$": "You can use special salt to soften water."},
+            "linklist": {"link":             {
+                "@source-id": "18014398656269963-9",
+                "@target-id": "18014398656277003-9",
+                "@label": "254344588",
+                "@use": "grab",
+                "@target": "Adding special salt",
+                "@name": "InformationHierarchy",
+                "@id": "18014398656277132",
+                "@source": "Special salt",
+                "@target-base-id": "146795019",
+                "@external": "0"
+            }},
+            "node":             {
+                "@file-name": "1556959499.html#!/Togglebox=146787979/scrollto=146795019/",
+                "@class": "UMTask",
+                "@type": "TextNode",
+                "@base-id": "146795019",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@format": "standard",
+                "@id": "18014398656277003-9",
+                "@is-page": "false",
+                "@childrencount": "0",
+                "@is-distributor": "false",
+                "@level": "5",
+                "title": {"$": "Adding special salt"},
+                "shortdesc": {"$": "If the special salt refill indicator lights up, add special salt to the dispenser for special salt just before the programme starts. The amount of special salt required depends on the water hardness: the higher the water hardness, the greater the amount of special salt required."},
+                "safety":                 {
+                    "@type": "custom.bsh.notice",
+                    "@severity": "notice",
+                    "@class": "TextModule2",
+                    "@base-id": "548307723",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "548316812",
+                    "@fragment-element": "safety",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "548307723",
+                    "@id": "548307723-18",
+                    "warnword": {"$": "ATTENTION!"},
+                    "BSHCollectionOfElements":                     [
+                        {"cause": {"$": "Detergent may damage the water softening system."}},
+                        {"measures": {"safety-instructions": {"safety-instruction": {"$": "Only fill the dispenser of the water softening system with special dishwasher salt."}}}},
+                        {"cause": {"$": "Special salt can damage the tub due to corrosion."}},
+                        {"measures": {"safety-instructions": {"safety-instruction": {"$": "To make sure that any special salt that escapes is washed out of the tub, add the special salt to the dispenser for special salt immediately before the programme starts."}}}}
+                    ]
+                },
+                "instructions": {"BSHCollectionOfElements":                 [
+                    {"instruction": {"p":                     {
+                        "@context": "instructions",
+                        "$": "Unscrew the lid of the dispenser for special salt and remove."
+                    }}},
+                    {"instruction":                     {
+                        "@type": "condition",
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "On initial start-up: Fill the dispenser right up with water."
+                        }
+                    }},
+                    {"instruction":                     {
+                        "hint":                         {
+                            "@hint-type": "single",
+                            "@type": "device-oriented",
+                            "@context": "instruction",
+                            "BSHCollectionOfElements":                             [
+                                {"b": {"$": "Note:"}},
+                                {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Only use special salt for dishwashers."
+                                }},
+                                {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Do not use salt tablets."
+                                }},
+                                {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Do not use table salt."
+                                }},
+                                {"b": {"$": "Notes:"}},
+                                {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Only use special salt for dishwashers."
+                                }},
+                                {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Do not use salt tablets."
+                                }},
+                                {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Do not use table salt."
+                                }}
+                            ]
+                        },
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "Add the special salt to the dispenser."
+                        },
+                        "image-container":                         {
+                            "@type": "img_original",
+                            "@image-page": "true-imageInUMTaskNode",
+                            "img":                             {
+                                "@src": "411394828",
+                                "@name": "OP_R_1003_Salz_einfuellen",
+                                "@type": "svg",
+                                "@href": "Images/svg/410264971__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "18014398920876812",
+                                "@label": "411394828",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "6.078361111111111",
+                                "@st4-height-cm": "4.370916666666666",
+                                "@width-cm": "6.078361111111111",
+                                "@height-cm": "4.370916666666666"
+                            },
+                            "image-title":                             {
+                                "$": "Funnel",
+                                "img":                                 {
+                                    "@src": "548317068",
+                                    "@name": "SY_Object symbol a",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/18014398782024075__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "18014399057799052",
+                                    "@label": "548317068",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5503333333333333",
+                                    "@st4-height-cm": "0.5503333333333333",
+                                    "@width-cm": "0.5503333333333333",
+                                    "@height-cm": "0.5503333333333333"
+                                },
+                                "footnote":                                 {
+                                    "@BSH-Linktype": "Langlink",
+                                    "@source-id": "18014398656277003-9",
+                                    "@target-id": "9007199438288139-9",
+                                    "@use": "grab",
+                                    "@name": "RelatedTopic",
+                                    "@id": "18014398818343564",
+                                    "@source": "Adding special salt",
+                                    "@target-base-id": "183547147",
+                                    "@external": "0",
+                                    "@linkid": "308861580",
+                                    "@dynamic": "true",
+                                    "@arrow": "before",
+                                    "tooltip": {"$": "Depending on the appliance specifications"}
+                                }
+                            }
+                        },
+                        "instruction-info": {"p":                         {
+                            "@context": "instructions",
+                            "$": "Fill the dispenser right up with special salt. The water in the dispenser is displaced and forced out."
+                        }}
+                    }},
+                    {"instruction": {"p":                     {
+                        "@context": "instructions",
+                        "$": "Place the lid back on the dispenser and turn to close."
+                    }}}
+                ]},
+                "linklist": {"BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "18014398656277003-9",
+                        "@target-id": "9007199438288139-9",
+                        "@label": "308861580",
+                        "@use": "grab",
+                        "@name": "RelatedTopic",
+                        "@id": "18014398818343564",
+                        "@source": "Adding special salt",
+                        "@target-base-id": "183547147",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014398656277003-9",
+                        "@target-id": "548307723-18",
+                        "@label": "548316812",
+                        "@use": "grab",
+                        "@target": "Adding special salt",
+                        "@name": "TextModuleLink",
+                        "@id": "18014399057798796",
+                        "@source": "Adding special salt",
+                        "@target-base-id": "548307723",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014398656277003-9",
+                        "@target-id": "547225227-18",
+                        "@label": "548316940",
+                        "@use": "grab",
+                        "@target": "Adding special salt",
+                        "@name": "TextModuleLink",
+                        "@id": "18014399057798924",
+                        "@source": "Adding special salt",
+                        "@target-base-id": "547225227",
+                        "@external": "0"
+                    }}
+                ]},
+                "BSHCollectionOfElements":                 [
+                    {"image":                     {
+                        "@name": "OP_R_1003_Salz_einfuellen",
+                        "@type": "svg",
+                        "@href": "Images/svg/410264971__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "18014398920876812",
+                        "@label": "411394828",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "4.370916666666666",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "4.370916666666666"
+                    }},
+                    {"image":                     {
+                        "@name": "SY_Object symbol a",
+                        "@type": "svg",
+                        "@href": "Images/svg/18014398782024075__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "18014399057799052",
+                        "@label": "548317068",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5503333333333333",
+                        "@st4-height-cm": "0.5503333333333333",
+                        "@width-cm": "0.5503333333333333",
+                        "@height-cm": "0.5503333333333333"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@file-name": "1556959499.html#!/Togglebox=1558044043/scrollto=1558044043/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "1558044043",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079193360194955-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Switching off the water softening system"},
+            "shortdesc": {"$": "If you find the special salt refill indicator irritating, e.g. when using combined detergents with salt replacement substances, you can switch the salt refill indicator off."},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "@class": "TextModule2",
+                "@base-id": "1386847627",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558047756",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "54043196915293579",
+                "@id": "54043196915293579-9",
+                "BSHCollectionOfElements":                 [
+                    {"b": {"$": "Note:"}},
+                    {"ul":                     {
+                        "intro": {"p":                         {
+                            "@context": "intro",
+                            "$": "To avoid damage to the appliance, only switch off the water softening system in the following cases:"
+                        }},
+                        "BSHCollectionOfElements":                         [
+                            {"li": {"p":                             {
+                                "@context": "hint",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "The water hardness is max."},
+                                    {"variable":                                     {
+                                        "@linkid": "1443096588",
+                                        "@name": "1027",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "26",
+                                        "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "26"
+                                    }},
+                                    {"$": " "},
+                                    {"variable":                                     {
+                                        "@linkid": "2389112460",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "°E",
+                                        "@variableName": "Wasserhärte",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "°E"
+                                    }},
+                                    {"$": "and you are using combined detergents with salt replacement substances. According to manufacturers, combined detergents with salt replacement substances can generally only be used up to a water hardness of"},
+                                    {"variable":                                     {
+                                        "@linkid": "1443096588",
+                                        "@name": "1027",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "26",
+                                        "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "26"
+                                    }},
+                                    {"$": " "},
+                                    {"variable":                                     {
+                                        "@linkid": "2389112460",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "°E",
+                                        "@variableName": "Wasserhärte",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "°E"
+                                    }},
+                                    {"$": "without adding special salt."}
+                                ]
+                            }}},
+                            {"li": {"p":                             {
+                                "@context": "hint",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "The water hardness is"},
+                                    {"variable":                                     {
+                                        "@linkid": "1443096588",
+                                        "@name": "1003",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "0 - 8",
+                                        "@variableName": "Stufe 1 Wasserhärte",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "0 - 8"
+                                    }},
+                                    {"$": " "},
+                                    {"variable":                                     {
+                                        "@linkid": "2389112460",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "°E",
+                                        "@variableName": "Wasserhärte",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "°E"
+                                    }},
+                                    {"$": ". You do not need to use special salt."}
+                                ]
+                            }}}
+                        ]
+                    }},
+                    {"b": {"$": "Notes:"}},
+                    {"ul":                     {
+                        "intro": {"p":                         {
+                            "@context": "intro",
+                            "$": "To avoid damage to the appliance, only switch off the water softening system in the following cases:"
+                        }},
+                        "BSHCollectionOfElements":                         [
+                            {"li": {"p":                             {
+                                "@context": "hint",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "The water hardness is max."},
+                                    {"variable":                                     {
+                                        "@linkid": "1443096588",
+                                        "@name": "1027",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "26",
+                                        "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "26"
+                                    }},
+                                    {"$": " "},
+                                    {"variable":                                     {
+                                        "@linkid": "2389112460",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "°E",
+                                        "@variableName": "Wasserhärte",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "°E"
+                                    }},
+                                    {"$": "and you are using combined detergents with salt replacement substances. According to manufacturers, combined detergents with salt replacement substances can generally only be used up to a water hardness of"},
+                                    {"variable":                                     {
+                                        "@linkid": "1443096588",
+                                        "@name": "1027",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "26",
+                                        "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "26"
+                                    }},
+                                    {"$": " "},
+                                    {"variable":                                     {
+                                        "@linkid": "2389112460",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "°E",
+                                        "@variableName": "Wasserhärte",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "°E"
+                                    }},
+                                    {"$": "without adding special salt."}
+                                ]
+                            }}},
+                            {"li": {"p":                             {
+                                "@context": "hint",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "The water hardness is"},
+                                    {"variable":                                     {
+                                        "@linkid": "1443096588",
+                                        "@name": "1003",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "0 - 8",
+                                        "@variableName": "Stufe 1 Wasserhärte",
+                                        "@variant": "1018",
+                                        "@variantName": "GV6xx TFT Premium/Added Value",
+                                        "$": "0 - 8"
+                                    }},
+                                    {"$": " "},
+                                    {"variable":                                     {
+                                        "@linkid": "2389112460",
+                                        "@name": "1024",
+                                        "@detailed-topic-type": "Technical value",
+                                        "@variableType": "Standard",
+                                        "@variable": "°E",
+                                        "@variableName": "Wasserhärte",
+                                        "@variant": "1051",
+                                        "@variantName": "GV6xx P5_A3 EU",
+                                        "$": "°E"
+                                    }},
+                                    {"$": ". You do not need to use special salt."}
+                                ]
+                            }}}
+                        ]
+                    }}
+                ]
+            },
+            "instructions":             {
+                "BSHCollectionOfElements":                 [
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1316875403",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "2055622540",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007200571616395",
+                        "@id": "9007200571616395-51",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "1316876940",
+                                    "@name": "SY_Hauptschalter_Standby",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/1378070027__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007200571617932",
+                                    "@label": "1316876940",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5044722222222222",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5044722222222222",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "156685067",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558047884",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007199411426059",
+                        "@id": "9007199411426059-50",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "To open the basic settings, press"},
+                                {"img":                                 {
+                                    "@src": "640278924",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007199895019916",
+                                    "@label": "640278924",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "for approx. 3 seconds."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "146820875",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558048012",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "45035996420525835",
+                        "@id": "45035996420525835-18",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "640277004",
+                                    "@name": "SY_Blättern_vorwärts",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632245515__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "45035996913981964",
+                                    "@label": "640277004",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.35630555555555554",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.35630555555555554",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "repeatedly until the display shows"},
+                                {"variable":                                 {
+                                    "@linkid": "1270899468",
+                                    "@name": "1047",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Water hardness",
+                                    "@variableName": "Basic Settings - Wasserhärte",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Water hardness\""
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1654617739",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1695868556",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007200909358731",
+                        "@id": "9007200909358731-9",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "1654660492",
+                                    "@name": "SY_Minus",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632257547__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007200909401484",
+                                    "@label": "1654660492",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5326944444444445",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5326944444444445",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "or"},
+                                {"img":                                 {
+                                    "@src": "1654660620",
+                                    "@name": "SY_Plus",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632260363__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007200909401612",
+                                    "@label": "1654660620",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "repeatedly until the display shows"},
+                                {"variable":                                 {
+                                    "@linkid": "1654660748",
+                                    "@name": "1002",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0 - 8",
+                                    "@variableName": "Stufe 1 Auswahl am GV",
+                                    "@variant": "1018",
+                                    "@variantName": "GV6xx TFT Premium/Added Value",
+                                    "$": "0 - 8"
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "146812171",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558048396",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007199401553163",
+                        "@id": "9007199401553163-67",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "To save the settings, press"},
+                                {"img":                                 {
+                                    "@src": "640275980",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007199895016972",
+                                    "@label": "640275980",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "for approx. 3 seconds."}
+                            ]
+                        }
+                    }}
+                ],
+                "results": {"result":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146834315",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558048524",
+                    "@fragment-element": "result",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "146834315",
+                    "@id": "146834315-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "The water softening system is switched off and the salt refill indicator is deactivated."
+                    }
+                }}
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "54043196915293579-9",
+                    "@label": "1558047756",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360198668",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "1386847627",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "9007199411426059-50",
+                    "@label": "1558047884",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360198796",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "45035996420525835-18",
+                    "@label": "1558048012",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360198924",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "146820875",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "9007199401553163-67",
+                    "@label": "1558048396",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360199308",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "146834315-9",
+                    "@label": "1558048524",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193360199436",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "146834315",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "9007200909358731-9",
+                    "@label": "1695868556",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193498019468",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "1654617739",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079193360194955-9",
+                    "@target-id": "9007200571616395-51",
+                    "@label": "2055622540",
+                    "@use": "grab",
+                    "@target": "Switching off the water softening system",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193857773452",
+                    "@source": "Switching off the water softening system",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "45035996913981964",
+                    "@label": "640277004",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200909401484",
+                    "@label": "1654660492",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200909401612",
+                    "@label": "1654660620",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1556959499.html#!/Togglebox=784780939/scrollto=784780939/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "784780939",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "27021598549003915-9",
+            "@is-page": "false",
+            "@childrencount": "1",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Regeneration of the water softening system"},
+            "shortdesc": {"$": "In order to obtain fault-free function of the water softening system, the appliance performs regeneration of the water softening system at regular intervals."},
+            "p": {"$": "Regeneration of the water softening system takes place before the end of the main rinse cycle in all programmes. It will increase the run time and consumption values, e.g. water and electricity."},
+            "linklist": {"link":             {
+                "@source-id": "27021598549003915-9",
+                "@target-id": "27021598549008523-9",
+                "@label": "784785676",
+                "@use": "grab",
+                "@target": "Overview of consumption values with regeneration the water softening system",
+                "@name": "InformationHierarchy",
+                "@id": "27021598549008652",
+                "@source": "Regeneration of the water softening system",
+                "@target-base-id": "784785547",
+                "@external": "0"
+            }},
+            "node":             {
+                "@file-name": "1556959499.html#!/Togglebox=784780939/scrollto=784785547/",
+                "@class": "Reference",
+                "@type": "TextNode",
+                "@base-id": "784785547",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@format": "standard",
+                "@id": "27021598549008523-9",
+                "@is-page": "false",
+                "@childrencount": "0",
+                "@is-distributor": "false",
+                "@level": "5",
+                "title": {"$": "Overview of consumption values with regeneration the water softening system"},
+                "shortdesc": {"$": "Here you can find an overview of the maximum additional run time and consumption values during regeneration of the water softening system."},
+                "properties":                 {
+                    "@flipTable": "false",
+                    "@presentation": "table",
+                    "@propertie-count": "2",
+                    "@relcolwidth": "78 22",
+                    "@hsdl-percent": "78% 22%",
+                    "property":                     [
+                                                {
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Regeneration of the water softening system after x rinse cycles"
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "784803212",
+                                        "@name": "1034",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "6",
+                                        "@variableName": "Zyklus in Spülgängen",
+                                        "@variant": "1015",
+                                        "@variantName": "6xx / 9,5l",
+                                        "$": "6"
+                                    }}
+                                }
+                            }
+                        },
+                                                {
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Additional run time in minutes"
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "784803212",
+                                        "@name": "1035",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "7",
+                                        "@variableName": "Laufzeit in Minuten",
+                                        "@variant": "1015",
+                                        "@variantName": "6xx / 9,5l",
+                                        "$": "7"
+                                    }}
+                                }
+                            }
+                        },
+                                                {
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Additional water consumption in litres"
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "784803212",
+                                        "@name": "1036",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "5",
+                                        "@variableName": "Wasserverbrauch in Liter",
+                                        "@variant": "1015",
+                                        "@variantName": "6xx / 9,5l",
+                                        "$": "5"
+                                    }}
+                                }
+                            }
+                        },
+                                                {
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Additional power consumption in kWh"
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "784803212",
+                                        "@name": "1037",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "0.05",
+                                        "@variableName": "Stromverbrauch in kWh",
+                                        "@variant": "1015",
+                                        "@variantName": "6xx / 9,5l",
+                                        "$": "0.05"
+                                    }}
+                                }
+                            }
+                        }
+                    ]
+                },
+                "p": {"BSHCollectionOfElements":                 [
+                    {"$": "The consumption values specified are laboratory measurements determined in accordance with the currently applicable standard and using the Eco 50° programme and the factory value of the water hardness is set to"},
+                    {"variable":                     {
+                        "@linkid": "2055738636",
+                        "@name": "1011",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "16 - 20",
+                        "@variableName": "Stufe 5 Wasserhärte",
+                        "@variant": "1018",
+                        "@variantName": "GV6xx TFT Premium/Added Value",
+                        "$": "16 - 20"
+                    }},
+                    {"variable":                     {
+                        "@linkid": "1495309068",
+                        "@name": "1024",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "°E",
+                        "@variableName": "Wasserhärte",
+                        "@variant": "1051",
+                        "@variantName": "GV6xx P5_A3 EU",
+                        "$": "°E"
+                    }},
+                    {"$": "."}
+                ]},
+                "linklist": ""
+            }
+        }}
+    ]
+}

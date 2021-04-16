@@ -1,0 +1,285 @@
+{
+    "@file-name": "147284363.html",
+    "@class": "UMTask",
+    "@type": "TextNode",
+    "@base-id": "147284363",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "27021597911507339-9",
+    "@icon-name": "cleaningandcare",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "true",
+    "@level": "2",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Cleaning spray arms"},
+    "shortdesc": {"$": "Limescale and soiling in the dishwashing water may block the nozzles and bearings on the spray arms. Clean the spray arms regularly."},
+    "instructions": {"BSHCollectionOfElements":     [
+        {"instruction":         {
+            "@class": "TextModule2",
+            "@base-id": "1794685579",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "815474FF-B27F-445D-BAC2-A52B74F20FD8",
+            "@fragment-element": "instruction",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "9007201049426571",
+            "@id": "9007201049426571-9",
+            "p":             {
+                "@context": "instructions",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Unscrew the upper spray arm"},
+                    {"img":                     {
+                        "@src": "1795508108",
+                        "@name": "SY_step 1",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461243915__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "9007201050249100",
+                        "@label": "1795508108",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "and pull down to remove"},
+                    {"img":                     {
+                        "@src": "1795508236",
+                        "@name": "SY_step 2",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461246731__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "9007201050249228",
+                        "@label": "1795508236",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "."}
+                ]
+            },
+            "image-container":             {
+                "@type": "img_original",
+                "@image-page": "true-imageInUMTaskNode",
+                "img":                 {
+                    "@src": "1795508364",
+                    "@name": "OP_R_1017_Sprueharm_oben_entfernen",
+                    "@type": "svg",
+                    "@href": "Images/svg/410282251__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007201050249356",
+                    "@label": "1795508364",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "4.370916666666666"
+                }
+            }
+        }},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "$": "Pull up the lower spray arm to remove."
+            },
+            "image-container":             {
+                "@type": "img_original",
+                "@image-page": "true-imageInUMTaskNode",
+                "img":                 {
+                    "@src": "411116300",
+                    "@name": "OP_R_1017_Sprueharm_unten_entfernen",
+                    "@type": "svg",
+                    "@href": "Images/svg/410284171__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021598175339276",
+                    "@label": "411116300",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "4.370916666666666"
+                }
+            }
+        }},
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "$": "Check the outlet nozzles on the spray arms for blockages under running water and remove any foreign bodies."
+        }}},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "$": "Insert the lower spray arm."
+            },
+            "results": {"result": {"p":             {
+                "@context": "instructions",
+                "$": "The spray arm clicks into position."
+            }}}
+        }},
+        {"instruction":         {
+            "@class": "TextModule2",
+            "@base-id": "1795506059",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "300A300B-73D3-40D8-85AD-A6F067948CC2",
+            "@fragment-element": "instruction",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "9007201050247051",
+            "@id": "9007201050247051-9",
+            "p":             {
+                "@context": "instructions",
+                "$": "Insert the upper spray arm and screw it firmly in place."
+            }
+        }}
+    ]},
+    "image-container":     {
+        "@type": "img_original",
+        "@image-page": "false-imageIsVideo",
+        "img":         {
+            "@src": "7736684684",
+            "@id": "7427768843",
+            "@name": "15428609_9001563238_Sprüharme_reinigen",
+            "@type": "png",
+            "@href": "Images/png/7427768843__Web.png",
+            "@class": "VideoProxy",
+            "@link-id": "7736684684",
+            "@label": "7736684684",
+            "@width": "100",
+            "@height": "100",
+            "@dpi": "96",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@url": "https://mycliplister.com/dlc/81514/14aca5de7f407596776a2efa43f47f7d515a4605ae000fecd58c5b7be6d5c45964cbabb9d82565eaa2141921cf8ef65cb_x3ebd6aa42a7724bc3cabc9d9b532d28c0098e73e278de3f9fbd23c43d6e5434e?v=1f9e85603504a409c864c1498b6337a18a256a17c2d3398158ba74f7541b738c1c084fdb17d71c32effb1bd2e10c978e0dad4b69d3af27a30bd5e9cee246b7edb",
+            "@ID": "15428609",
+            "@is-video-proxy": "true",
+            "@res-type": "video",
+            "@video-filled": "true",
+            "@width-cm": "2.6458333333333335",
+            "@height-cm": "2.6458333333333335"
+        }
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "27021597911507339-9",
+            "@target-id": "9007201049426571-9",
+            "@label": "815474FF-B27F-445D-BAC2-A52B74F20FD8",
+            "@use": "grab",
+            "@target": "Cleaning spray arms",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400304994956",
+            "@source": "Cleaning spray arms",
+            "@target-base-id": "1794685579",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "27021597911507339-9",
+            "@target-id": "9007201050247051-9",
+            "@label": "300A300B-73D3-40D8-85AD-A6F067948CC2",
+            "@use": "grab",
+            "@target": "Cleaning spray arms",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400305015820",
+            "@source": "Cleaning spray arms",
+            "@target-base-id": "1795506059",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"image":         {
+            "@id": "7427768843",
+            "@name": "15428609_9001563238_Sprüharme_reinigen",
+            "@type": "png",
+            "@href": "Images/png/7427768843__Web.png",
+            "@class": "VideoProxy",
+            "@link-id": "7736684684",
+            "@label": "7736684684",
+            "@width": "100",
+            "@height": "100",
+            "@dpi": "96",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@url": "https://mycliplister.com/dlc/81514/14aca5de7f407596776a2efa43f47f7d515a4605ae000fecd58c5b7be6d5c45964cbabb9d82565eaa2141921cf8ef65cb_x3ebd6aa42a7724bc3cabc9d9b532d28c0098e73e278de3f9fbd23c43d6e5434e?v=1f9e85603504a409c864c1498b6337a18a256a17c2d3398158ba74f7541b738c1c084fdb17d71c32effb1bd2e10c978e0dad4b69d3af27a30bd5e9cee246b7edb",
+            "@ID": "15428609",
+            "@is-video-proxy": "true",
+            "@res-type": "video",
+            "@video-filled": "true",
+            "@width-cm": "2.6458333333333335",
+            "@height-cm": "2.6458333333333335"
+        }},
+        {"image":         {
+            "@name": "OP_R_1017_Sprueharm_unten_entfernen",
+            "@type": "svg",
+            "@href": "Images/svg/410284171__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598175339276",
+            "@label": "411116300",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }},
+        {"image":         {
+            "@name": "SY_step 1",
+            "@type": "svg",
+            "@href": "Images/svg/9007199461243915__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "9007201050249100",
+            "@label": "1795508108",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5538611111111111",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5538611111111111",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_step 2",
+            "@type": "svg",
+            "@href": "Images/svg/9007199461246731__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "9007201050249228",
+            "@label": "1795508236",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5538611111111111",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5538611111111111",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "OP_R_1017_Sprueharm_oben_entfernen",
+            "@type": "svg",
+            "@href": "Images/svg/410282251__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "9007201050249356",
+            "@label": "1795508364",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }}
+    ]
+}

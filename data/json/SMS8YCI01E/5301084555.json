@@ -1,0 +1,630 @@
+{
+    "@file-name": "530108455510840884747.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@reuseid": "10840884747",
+    "@base-reuseid": "10840884747",
+    "@base-id": "5301084555",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "72057599339012491-9",
+    "@icon-name": "productdescription",
+    "@is-page": "true",
+    "@childrencount": "1",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title":     {
+        "@class": "TextModule2",
+        "@base-id": "5301652747",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "688D3B00-CBFD-4D8C-8F83-A003AE5511B8",
+        "@fragment-element": "caption",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "27021603065875723",
+        "@id": "27021603065875723-9",
+        "variable":         {
+            "@linkid": "5301654284",
+            "@name": "3830",
+            "@detailed-topic-type": "Non-specific",
+            "@variableType": "Standard",
+            "@variable": "Favourite",
+            "@variableName": "Custom Program 0",
+            "@variant": "1001",
+            "@variantName": "Index",
+            "$": "Favourite"
+        },
+        "img":         {
+            "@src": "5301654412",
+            "@name": "SY_642_650_BO_Favourite_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007201982172427__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021603065877388",
+            "@label": "5301654412",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5785555555555555",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5785555555555555",
+            "@height-cm": "0.5538611111111111"
+        }
+    },
+    "shortdesc": {"BSHCollectionOfElements":     [
+        {"$": "You can save a combination of a programme and an additional function to the"},
+        {"img":         {
+            "@src": "3664197132",
+            "@name": "SY_642_650_BO_Favourite_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007201982172427__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "72057599339542284",
+            "@label": "3664197132",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5785555555555555",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5785555555555555",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"$": "button."}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "5301265931",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "2ABE27A9-B871-4A17-ACE0-7A4799CD1725",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "5301265931",
+            "@id": "5301265931-9",
+            "$": "You can save the program via the Home Connect app or on the appliance."
+        }},
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "5301419531",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "19BA0F21-5CBC-4B0D-ACEA-170C0367262B",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "5301419531",
+            "@id": "5301419531-9",
+            "$": "The pre-rinse program is saved to this button at the factory. Pre-rinse is suitable for all types of tableware. The tableware undergoes intermediate cleaning via cold rinsing."
+        }},
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "8416180107",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "9143570060",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "8416180107",
+            "@id": "8416180107-9",
+            "BSHCollectionOfElements":             [
+                {"$": "When programmes have been downloaded and on delivery of the appliance, the name of the programme will be displayed in the app. The display alternately shows"},
+                {"variable":                 {
+                    "@linkid": "8440156812",
+                    "@name": "1086",
+                    "@detailed-topic-type": "Display text",
+                    "@variableType": "Standard",
+                    "@variable": "App-Program",
+                    "@variableName": "Custom Program",
+                    "@variant": "1001",
+                    "@variantName": "Bosch - TFT Display",
+                    "$": "\"App-Program\""
+                }},
+                {"$": "and the remaining running time."}
+            ]
+        }},
+        {"hint":         {
+            "@hint-type": "single",
+            "@type": "user-oriented",
+            "b": {"$": "Tip:"},
+            "p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "You can use the Home Connect app to download additional programmes and save them to the"},
+                    {"img":                     {
+                        "@src": "3664197132",
+                        "@name": "SY_642_650_BO_Favourite_I0",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007201982172427__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "72057599339542284",
+                        "@label": "3664197132",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5785555555555555",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5785555555555555",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "button."},
+                    {"footnote":                     {
+                        "@BSH-Linktype": "Langlink",
+                        "@source-id": "72057599339012491-9",
+                        "@target-id": "9007199438288139-9",
+                        "@use": "grab",
+                        "@name": "RelatedTopic",
+                        "@id": "72057599339541260",
+                        "@source": "Favourite",
+                        "@target-base-id": "183547147",
+                        "@external": "0",
+                        "@linkid": "2821273100",
+                        "@dynamic": "true",
+                        "@arrow": "before",
+                        "tooltip": {"$": "Depending on the appliance specifications"}
+                    }}
+                ]
+            }
+        }},
+        {"linklist": {"BSHCollectionOfElements":         [
+            {"link":             {
+                "@source-id": "72057599339012491-9",
+                "@target-id": "45036001575196043-9",
+                "@label": "10840885260",
+                "@use": "grab",
+                "@target": "Save favourite on the appliance",
+                "@name": "InformationLink",
+                "@id": "10840885260",
+                "@source": "Favourite",
+                "@target-base-id": "5301491083",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "72057599339012491-9",
+                "@target-id": "27021603065875723-9",
+                "@label": "688D3B00-CBFD-4D8C-8F83-A003AE5511B8",
+                "@use": "grab",
+                "@target": "Favourite",
+                "@name": "TextModuleLink",
+                "@id": "9007210004329612",
+                "@source": "Favourite",
+                "@target-base-id": "5301652747",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "72057599339012491-9",
+                "@target-id": "8416180107-9",
+                "@label": "9143570060",
+                "@use": "grab",
+                "@target": "Favourite",
+                "@name": "TextModuleLink",
+                "@id": "36028806162534028",
+                "@source": "Favourite",
+                "@target-base-id": "8416180107",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "72057599339012491-9",
+                "@target-id": "5301265931-9",
+                "@label": "2ABE27A9-B871-4A17-ACE0-7A4799CD1725",
+                "@use": "grab",
+                "@target": "Favourite",
+                "@name": "TextModuleHierarchy",
+                "@id": "72057599339183116",
+                "@source": "Favourite",
+                "@target-base-id": "5301265931",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "72057599339012491-9",
+                "@target-id": "5301419531-9",
+                "@label": "19BA0F21-5CBC-4B0D-ACEA-170C0367262B",
+                "@use": "grab",
+                "@target": "Favourite",
+                "@name": "TextModuleHierarchy",
+                "@id": "72057599339337868",
+                "@source": "Favourite",
+                "@target-base-id": "5301419531",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "72057599339012491-9",
+                "@target-id": "9007199438288139-9",
+                "@label": "2821273100",
+                "@use": "grab",
+                "@name": "RelatedTopic",
+                "@id": "72057599339541260",
+                "@source": "Favourite",
+                "@target-base-id": "183547147",
+                "@external": "0"
+            }}
+        ]}},
+        {"image":         {
+            "@name": "SY_642_650_BO_Favourite_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007201982172427__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "72057599339542284",
+            "@label": "3664197132",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5785555555555555",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5785555555555555",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_642_650_BO_Favourite_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007201982172427__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021603065877388",
+            "@label": "5301654412",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5785555555555555",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5785555555555555",
+            "@height-cm": "0.5538611111111111"
+        }}
+    ],
+    "node":     {
+        "@file-name": "530108455510840884747.html#!/Togglebox=5301491083/scrollto=5301491083/",
+        "@class": "UMTask",
+        "@type": "TextNode",
+        "@base-id": "5301491083",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@format": "standard",
+        "@id": "45036001575196043-9",
+        "@icon-name": "productdescription",
+        "@is-page": "false",
+        "@childrencount": "0",
+        "@is-distributor": "false",
+        "@level": "4",
+        "title":         {
+            "@class": "TextModule2",
+            "@base-id": "5303767051",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "B5D2022D-C041-4F14-B7DF-8A4FAE52F454",
+            "@fragment-element": "caption",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "27021603067990027",
+            "@id": "27021603067990027-9",
+            "BSHCollectionOfElements":             [
+                {"$": "Save"},
+                {"variable":                 {
+                    "@linkid": "5303768588",
+                    "@name": "3830",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Favourite",
+                    "@variableName": "Custom Program 0",
+                    "@variant": "1001",
+                    "@variantName": "Index",
+                    "$": "Favourite"
+                }},
+                {"img":                 {
+                    "@src": "5303768716",
+                    "@name": "SY_642_650_BO_Favourite_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007201982172427__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021603067991692",
+                    "@label": "5303768716",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5785555555555555",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5785555555555555",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"$": "on the appliance."}
+            ]
+        },
+        "instructions":         {
+            "BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1316875403",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2696423564",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200571616395",
+                    "@id": "9007200571616395-49",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1316876940",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007200571617932",
+                                "@label": "1316876940",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1390976395",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2696423692",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200645717387",
+                    "@id": "9007200645717387-17",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "Press the right programme button.",
+                        "link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "9007200645717387-17",
+                            "@target-id": "135107988968018187-9",
+                            "@use": "grab",
+                            "@target": "Programmes",
+                            "@name": "RelatedTopic",
+                            "@id": "9007200645719180",
+                            "@target-base-id": "146903307",
+                            "@external": "0",
+                            "@linkid": "1390978188",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Programmes"
+                        }
+                    }
+                }},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Press the button for the relevant additional function.",
+                    "link":                     {
+                        "@BSH-Linktype": "Langlink",
+                        "@source-id": "45036001575196043-9",
+                        "@target-id": "99079191949142923-9",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "45036001575325324",
+                        "@source": "Save favourite on the appliance",
+                        "@target-base-id": "146992011",
+                        "@external": "0",
+                        "@linkid": "2696423308",
+                        "@dynamic": "true",
+                        "@arrow": "before",
+                        "$": "Additional functions"
+                    }
+                }}},
+                {"instruction":                 {
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "2727434508",
+                                "@name": "SY_642_650_BO_Favourite_I0",
+                                "@type": "svg",
+                                "@href": "Images/svg/9007201982172427__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "45036001575343884",
+                                "@label": "2727434508",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5785555555555555",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5785555555555555",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    },
+                    "results": {"BSHCollectionOfElements":                     [
+                        {"result": {"p":                         {
+                            "@context": "instructions",
+                            "$": "The selected programme and the additional function will flash."
+                        }}},
+                        {"result": {"p":                         {
+                            "@context": "instructions",
+                            "img":                             {
+                                "@src": "2727434508",
+                                "@name": "SY_642_650_BO_Favourite_I0",
+                                "@type": "svg",
+                                "@href": "Images/svg/9007201982172427__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "45036001575343884",
+                                "@label": "2727434508",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5785555555555555",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5785555555555555",
+                                "@height-cm": "0.5538611111111111"
+                            },
+                            "$": "flashes."
+                        }}}
+                    ]}
+                }}
+            ],
+            "results": {"result": {"p":             {
+                "@context": "instructions",
+                "$": "The programme and the additional function are saved."
+            }}}
+        },
+        "hint":         {
+            "@hint-type": "single",
+            "@type": "user-oriented",
+            "b": {"$": "Tip:"},
+            "p":             {
+                "@context": "hint",
+                "$": "To reset the programme, either use the Home Connect app or reset your appliance back to the factory settings.",
+                "link":                 {
+                    "@BSH-Linktype": "Langlink",
+                    "@source-id": "45036001575196043-9",
+                    "@target-id": "117093590458818571-9",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "45036001575343244",
+                    "@source": "Save favourite on the appliance",
+                    "@target-base-id": "147185675",
+                    "@external": "0",
+                    "@linkid": "2697246220",
+                    "@dynamic": "true",
+                    "@arrow": "before",
+                    "$": "Overview of basic settings"
+                }
+            }
+        },
+        "linklist": {"BSHCollectionOfElements":         [
+            {"link":             {
+                "@source-id": "45036001575196043-9",
+                "@target-id": "99079191949142923-9",
+                "@label": "2696423308",
+                "@use": "grab",
+                "@target": "Additional functions",
+                "@name": "RelatedTopic",
+                "@id": "45036001575325324",
+                "@source": "Save favourite on the appliance",
+                "@target-base-id": "146992011",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "45036001575196043-9",
+                "@target-id": "9007200571616395-49",
+                "@label": "2696423564",
+                "@use": "grab",
+                "@target": "Save favourite on the appliance",
+                "@name": "TextModuleLink",
+                "@id": "45036001575331724",
+                "@source": "Save favourite on the appliance",
+                "@target-base-id": "1316875403",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "45036001575196043-9",
+                "@target-id": "9007200645717387-17",
+                "@label": "2696423692",
+                "@use": "grab",
+                "@target": "Save favourite on the appliance",
+                "@name": "TextModuleLink",
+                "@id": "45036001575337484",
+                "@source": "Save favourite on the appliance",
+                "@target-base-id": "1390976395",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "45036001575196043-9",
+                "@target-id": "117093590458818571-9",
+                "@label": "2697246220",
+                "@use": "grab",
+                "@target": "Overview of basic settings",
+                "@name": "RelatedTopic",
+                "@id": "45036001575343244",
+                "@source": "Save favourite on the appliance",
+                "@target-base-id": "147185675",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "45036001575196043-9",
+                "@target-id": "27021603067990027-9",
+                "@label": "B5D2022D-C041-4F14-B7DF-8A4FAE52F454",
+                "@use": "grab",
+                "@target": "Save favourite on the appliance",
+                "@name": "TextModuleHierarchy",
+                "@id": "45036001577476492",
+                "@source": "Save favourite on the appliance",
+                "@target-base-id": "5303767051",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "9007200645717387-17",
+                "@target-id": "135107988968018187-9",
+                "@label": "1390978188",
+                "@use": "grab",
+                "@target": "Programmes",
+                "@name": "RelatedTopic",
+                "@id": "9007200645719180",
+                "@target-base-id": "146903307",
+                "@external": "0"
+            }}
+        ]},
+        "BSHCollectionOfElements":         [
+            {"image":             {
+                "@name": "SY_642_650_BO_Favourite_I0",
+                "@type": "svg",
+                "@href": "Images/svg/9007201982172427__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "45036001575343884",
+                "@label": "2727434508",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.5785555555555555",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.5785555555555555",
+                "@height-cm": "0.5538611111111111"
+            }},
+            {"image":             {
+                "@name": "SY_642_650_BO_Favourite_I0",
+                "@type": "svg",
+                "@href": "Images/svg/9007201982172427__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "27021603067991692",
+                "@label": "5303768716",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.5785555555555555",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.5785555555555555",
+                "@height-cm": "0.5538611111111111"
+            }},
+            {"image":             {
+                "@name": "SY_Hauptschalter_Standby",
+                "@type": "svg",
+                "@href": "Images/svg/1378070027__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "9007200571617932",
+                "@label": "1316876940",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.5044722222222222",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.5044722222222222",
+                "@height-cm": "0.5538611111111111"
+            }}
+        ]
+    }
+}

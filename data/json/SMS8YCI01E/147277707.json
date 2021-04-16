@@ -1,0 +1,332 @@
+{
+    "@file-name": "147277707.html",
+    "@class": "UMTask",
+    "@type": "TextNode",
+    "@base-id": "147277707",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "27021597911500683-9",
+    "@icon-name": "cleaningandcare",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "true",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Cleaning filters"},
+    "shortdesc": {"$": "Soiling in the dishwashing water may block the filters."},
+    "instructions": {"BSHCollectionOfElements":     [
+        {"instruction": {"p":         {
+            "@context": "instructions",
+            "$": "After each wash check the filters for residue."
+        }}},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Turn the coarse filter anticlockwise"},
+                    {"img":                     {
+                        "@src": "413791116",
+                        "@name": "SY_step 1",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461243915__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "27021598178014092",
+                        "@label": "413791116",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "and remove the filter system"},
+                    {"img":                     {
+                        "@src": "413791244",
+                        "@name": "SY_step 2",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461246731__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "27021598178014220",
+                        "@label": "413791244",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "."}
+                ]
+            },
+            "sub-instructions": {"sub-instruction": {"$": "Check that no foreign objects fall into the sump."}},
+            "image-container":             {
+                "@type": "img_original",
+                "@image-page": "true-imageInUMTaskNode",
+                "img":                 {
+                    "@src": "413791372",
+                    "@name": "OP_R_1173_Sieb_entfernen",
+                    "@type": "svg",
+                    "@href": "Images/svg/410318091__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021598178014348",
+                    "@label": "413791372",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "4.370916666666666"
+                }
+            }
+        }},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "$": "Pull down the micro filter to remove."
+            },
+            "image-container":             {
+                "@type": "img_original",
+                "@image-page": "true-imageInUMTaskNode",
+                "img":                 {
+                    "@src": "1110706828",
+                    "@name": "OP_R_1174_Mikrosieb_abziehen",
+                    "@type": "svg",
+                    "@href": "Images/svg/1110700555__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021598874929804",
+                    "@label": "1110706828",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "4.370916666666666"
+                }
+            }
+        }},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Press the locking catches"},
+                    {"img":                     {
+                        "@src": "413791116",
+                        "@name": "SY_step 1",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461243915__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "27021598178014092",
+                        "@label": "413791116",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "together and lift the coarse filter out"},
+                    {"img":                     {
+                        "@src": "413791244",
+                        "@name": "SY_step 2",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461246731__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "27021598178014220",
+                        "@label": "413791244",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "."}
+                ]
+            },
+            "image-container":             {
+                "@type": "img_original",
+                "@image-page": "true-imageInUMTaskNode",
+                "img":                 {
+                    "@src": "1110706956",
+                    "@name": "OP_R_1174_Grobsieb_Feinsieb_zerlegen",
+                    "@type": "svg",
+                    "@href": "Images/svg/1110703371__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "27021598874929932",
+                    "@label": "1110706956",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "6.078361111111111",
+                    "@st4-height-cm": "4.370916666666666",
+                    "@width-cm": "6.078361111111111",
+                    "@height-cm": "4.370916666666666"
+                }
+            }
+        }},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "$": "Clean the filter elements under running water."
+            },
+            "instruction-info": {"p":             {
+                "@context": "instructions",
+                "$": "Carefully clean the rim of dirt between the coarse and the fine filter."
+            }}
+        }},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "$": "Re-assemble the filter system."
+            },
+            "instruction-info": {"p":             {
+                "@context": "instructions",
+                "$": "Make sure that the locking catches on the coarse filter click into position."
+            }}
+        }},
+        {"instruction":         {
+            "p":             {
+                "@context": "instructions",
+                "$": "Insert the filter system into the appliance and turn the coarse filter clockwise."
+            },
+            "instruction-info": {"p":             {
+                "@context": "instructions",
+                "$": "Make sure that the arrow markings match up."
+            }}
+        }}
+    ]},
+    "image-container":     {
+        "@type": "img_original",
+        "@image-page": "false-imageIsVideo",
+        "img":         {
+            "@src": "7729533068",
+            "@id": "7427753483",
+            "@name": "15428608_9001563237_Sieb_reinigen",
+            "@type": "png",
+            "@href": "Images/png/7427753483__Web.png",
+            "@class": "VideoProxy",
+            "@link-id": "7729533068",
+            "@label": "7729533068",
+            "@width": "100",
+            "@height": "100",
+            "@dpi": "96",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@url": "https://mycliplister.com/dlc/81514/1b95a53c4e2446355d24ec521718beb2ddd0995f234a03b3c0eecd21dc945ea4bb1874c1c9af12a2037532a1cf0c8c0f7_x3ebd6aa42a7724bc3cabc9d9b532d28c0098e73e278de3f9fbd23c43d6e5434e?v=1ab2bcf8680e56dcb098e8d5d3910ef1a9764c44c4db9025c09b12859ff0062203e69964ebb283e5d6a56adf3fae96444",
+            "@ID": "15428608",
+            "@is-video-proxy": "true",
+            "@res-type": "video",
+            "@video-filled": "true",
+            "@width-cm": "2.6458333333333335",
+            "@height-cm": "2.6458333333333335"
+        }
+    },
+    "linklist": "",
+    "BSHCollectionOfElements":     [
+        {"image":         {
+            "@name": "SY_step 1",
+            "@type": "svg",
+            "@href": "Images/svg/9007199461243915__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598178014092",
+            "@label": "413791116",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5538611111111111",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5538611111111111",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_step 2",
+            "@type": "svg",
+            "@href": "Images/svg/9007199461246731__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598178014220",
+            "@label": "413791244",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5538611111111111",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "0.5538611111111111",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@id": "7427753483",
+            "@name": "15428608_9001563237_Sieb_reinigen",
+            "@type": "png",
+            "@href": "Images/png/7427753483__Web.png",
+            "@class": "VideoProxy",
+            "@link-id": "7729533068",
+            "@label": "7729533068",
+            "@width": "100",
+            "@height": "100",
+            "@dpi": "96",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@url": "https://mycliplister.com/dlc/81514/1b95a53c4e2446355d24ec521718beb2ddd0995f234a03b3c0eecd21dc945ea4bb1874c1c9af12a2037532a1cf0c8c0f7_x3ebd6aa42a7724bc3cabc9d9b532d28c0098e73e278de3f9fbd23c43d6e5434e?v=1ab2bcf8680e56dcb098e8d5d3910ef1a9764c44c4db9025c09b12859ff0062203e69964ebb283e5d6a56adf3fae96444",
+            "@ID": "15428608",
+            "@is-video-proxy": "true",
+            "@res-type": "video",
+            "@video-filled": "true",
+            "@width-cm": "2.6458333333333335",
+            "@height-cm": "2.6458333333333335"
+        }},
+        {"image":         {
+            "@name": "OP_R_1173_Sieb_entfernen",
+            "@type": "svg",
+            "@href": "Images/svg/410318091__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598178014348",
+            "@label": "413791372",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }},
+        {"image":         {
+            "@name": "OP_R_1174_Mikrosieb_abziehen",
+            "@type": "svg",
+            "@href": "Images/svg/1110700555__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598874929804",
+            "@label": "1110706828",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }},
+        {"image":         {
+            "@name": "OP_R_1174_Grobsieb_Feinsieb_zerlegen",
+            "@type": "svg",
+            "@href": "Images/svg/1110703371__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "27021598874929932",
+            "@label": "1110706956",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }}
+    ]
+}

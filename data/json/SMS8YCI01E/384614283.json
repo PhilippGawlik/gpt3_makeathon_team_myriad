@@ -1,0 +1,175 @@
+{
+    "@file-name": "384614283.html",
+    "@class": "Reference",
+    "@type": "TextNode",
+    "@base-id": "384614283",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "384614283-9",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Damage to glass and tableware"},
+    "shortdesc": {"$": "Avoid damage to glass and tableware."},
+    "properties":     {
+        "@flipTable": "false",
+        "@presentation": "table",
+        "@propertie-count": "2",
+        "@hsdl-percent": "50% 50%",
+        "prophead":         {
+            "proptypehd":             {
+                "@col-index": "1",
+                "p":                 {
+                    "@context": "Cond",
+                    "$": "Cause"
+                }
+            },
+            "propvaluehd":             {
+                "@col-index": "2",
+                "p":                 {
+                    "@context": "Cond",
+                    "$": "Recommendation"
+                }
+            }
+        },
+        "property":         [
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "ul":                     {
+                        "intro": {"p":                         {
+                            "@context": "Cond",
+                            "$": "The following tableware is not dishwasher-safe:"
+                        }},
+                        "li":                         [
+                                                        {
+                                "@context": "Cond",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Items of cutlery and tableware made from wood"
+                                }
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Decorated glassware, antique and hand-crafted tableware"
+                                }
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Plastic parts not resistant to heat"
+                                }
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Tableware made from copper or tin"
+                                }
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Tableware soiled with ash, wax, lubricating grease or paint"
+                                }
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Very small items of tableware"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Only put tableware in the dishwasher if it is marked as dishwasher-safe by the manufacturer."
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Glass and tableware was not dishwasher-safe."
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Only put glasses and china in the dishwasher if it is marked as dishwasher-safe by the manufacturer."
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "The chemical composition of the detergent causes damage."
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Use a detergent marked as gentle on tableware by the manufacturer."
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Highly caustic alkaline or highly acidic cleaning agents, in particular commercial or industrial cleaning agents, are not suitable for dishwashers in conjunction with aluminium."
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "If you are using highly caustic alkaline or highly acidic cleaning agents, in particular commercial or industrial cleaning agents, do not put aluminium parts in the dishwasher interior."
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "The water temperature of the programme is too high."
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     [
+                                                {
+                            "@context": "Cond",
+                            "$": "Select a programme with lower temperatures."
+                        },
+                                                {
+                            "@context": "Cond",
+                            "$": "After the programme has ended, take glassware and cutlery out of the appliance without delay."
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

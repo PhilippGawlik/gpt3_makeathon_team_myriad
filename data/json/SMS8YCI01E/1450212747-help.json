@@ -1,0 +1,17 @@
+{
+    "@file-name": "1450212747-help1450212747-help.html",
+    "@class": "Concept-help",
+    "@type": "TextNode",
+    "@id": "108086392507104651-9-help",
+    "@base-id": "1450212747-help",
+    "@base-reuseid": "1450212747-help",
+    "@icon-name": "help",
+    "@is-page": "true",
+    "@is-top-theme": "false",
+    "@childrencount": "2",
+    "@is-distributor": "true",
+    "@level": "1",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Help with faults"},
+    "shortdesc": {"$": "Find out how to proceed in the event of appliance faults here"}
+}

@@ -1,0 +1,2508 @@
+{
+    "@file-name": "2216908911705369611.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@reuseid": "27021599469592587",
+    "@base-reuseid": "1705369611",
+    "@base-id": "221690891",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "36028797240654859-9",
+    "@icon-name": "assembling",
+    "@is-page": "true",
+    "@is-top-theme": "false",
+    "@childrencount": "5",
+    "@is-distributor": "false",
+    "@level": "1",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "First steps"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "183923083",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "221694348",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "9007199438664075",
+        "@title": "shortdesc - Unpacking to use",
+        "@id": "9007199438664075-9",
+        "$": "All steps from unpacking your appliance to using it for the first time are listed here."
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "36028797240654859-9",
+            "@target-id": "184020491-9",
+            "@label": "1705390860",
+            "@use": "grab",
+            "@target": "Read the safety instructions",
+            "@name": "InformationLink",
+            "@id": "27021599469613836",
+            "@source": "First steps",
+            "@target-base-id": "184020491",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797240654859-9",
+            "@target-id": "9007199438766603-9",
+            "@label": "1705391244",
+            "@use": "grab",
+            "@target": "Unpacking the appliance",
+            "@name": "InformationLink",
+            "@id": "27021599469614220",
+            "@source": "First steps",
+            "@target-base-id": "184025611",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797240654859-9",
+            "@target-id": "9007199437165323-18",
+            "@label": "4002552716",
+            "@use": "grab",
+            "@target": "Installation and connection",
+            "@name": "InformationHierarchy",
+            "@id": "27021601766775692",
+            "@source": "First steps",
+            "@target-base-id": "4002552587",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797240654859-9",
+            "@target-id": "99079191950654859-18",
+            "@label": "6401678860",
+            "@use": "grab",
+            "@target": "Performing initial start-up",
+            "@name": "InformationLink",
+            "@id": "27021604165901836",
+            "@source": "First steps",
+            "@target-base-id": "148503947",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797240654859-9",
+            "@target-id": "27021597948256523-9",
+            "@label": "1705391628",
+            "@use": "grab",
+            "@target": "Registering your appliance",
+            "@name": "InformationLink",
+            "@id": "27021599469614604",
+            "@source": "First steps",
+            "@target-base-id": "184033547",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797240654859-9",
+            "@target-id": "9007199438664075-9",
+            "@label": "221694348",
+            "@use": "grab",
+            "@target": "First steps",
+            "@name": "TextModuleLink",
+            "@id": "36028797240658316",
+            "@source": "First steps",
+            "@target-base-id": "183923083",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "2216908911705369611.html#!/Togglebox=184020491/scrollto=184020491/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "184020491",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "184020491-9",
+            "@icon-name": "assembling",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title": {"$": "Read the safety instructions"},
+            "instructions": {"instruction": {"p":             {
+                "@context": "instructions",
+                "link":                 {
+                    "@BSH-Linktype": "Langlink",
+                    "@source-id": "184020491-9",
+                    "@target-id": "36028797201731979-9",
+                    "@use": "grab",
+                    "@target": "Safety",
+                    "@name": "RelatedTopic",
+                    "@id": "184046092",
+                    "@source": "Read the safety instructions",
+                    "@target-base-id": "182768011",
+                    "@external": "0",
+                    "@linkid": "184046092",
+                    "@dynamic": "true",
+                    "@arrow": "before",
+                    "$": "Safety"
+                }
+            }}},
+            "linklist": {"link":             {
+                "@source-id": "184020491-9",
+                "@target-id": "36028797201731979-9",
+                "@label": "184046092",
+                "@use": "grab",
+                "@target": "Safety",
+                "@name": "RelatedTopic",
+                "@id": "184046092",
+                "@source": "Read the safety instructions",
+                "@target-base-id": "182768011",
+                "@external": "0"
+            }}
+        }},
+        {"node":         {
+            "@file-name": "2216908911705369611.html#!/Togglebox=184025611/scrollto=184025611/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "184025611",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "9007199438766603-9",
+            "@icon-name": "assembling",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title": {"$": "Unpacking the appliance"},
+            "shortdesc": {"$": "Unpack your appliance and check all parts for any damage in transit."},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Remove the packaging."
+                }}},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Remove the information products from the interior of the appliance."
+                }}},
+                {"instruction":                 {
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "Check all parts for damage in transit."
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "$": "If you have any problems, contact the dealer from whom you purchased the appliance or our Customer Service.",
+                        "link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "9007199438766603-9",
+                            "@target-id": "144115188258262923-9",
+                            "@use": "grab",
+                            "@target": "Customer Service",
+                            "@name": "RelatedTopic",
+                            "@id": "9007199438783884",
+                            "@source": "Unpacking the appliance",
+                            "@target-base-id": "182407051",
+                            "@external": "0",
+                            "@linkid": "184042892",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Customer Service"
+                        }
+                    }}
+                }}
+            ]},
+            "linklist": {"link":             {
+                "@source-id": "9007199438766603-9",
+                "@target-id": "144115188258262923-9",
+                "@label": "184042892",
+                "@use": "grab",
+                "@target": "Customer Service",
+                "@name": "RelatedTopic",
+                "@id": "9007199438783884",
+                "@source": "Unpacking the appliance",
+                "@target-base-id": "182407051",
+                "@external": "0"
+            }}
+        }},
+        {"node":         {
+            "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=1824243314002552587/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@reuseid": "9007203257293579",
+            "@base-reuseid": "4002552587",
+            "@base-id": "182424331",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "9007199437165323-18",
+            "@icon-name": "assembling",
+            "@is-page": "false",
+            "@childrencount": "5",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title": {"$": "Installation and connection"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "748730635",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "183234060",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "9007200003471627",
+                "@id": "9007200003471627-18",
+                "$": "To ensure proper operation, connect the appliance to the power and water supply correctly. Observe the specified criteria and the installation instructions."
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "9007199437165323-18",
+                    "@target-id": "9007202784624139-9",
+                    "@label": "4002633100",
+                    "@use": "grab",
+                    "@target": "Scope of supply",
+                    "@name": "InformationLink",
+                    "@id": "9007203257374092",
+                    "@source": "Installation and connection",
+                    "@target-base-id": "3529883147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007199437165323-18",
+                    "@target-id": "9007199402192267-18",
+                    "@label": "4002631564",
+                    "@use": "grab",
+                    "@target": "Installing and connecting the appliance",
+                    "@name": "InformationLink",
+                    "@id": "9007203257372556",
+                    "@source": "Installation and connection",
+                    "@target-base-id": "147451275",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007199437165323-18",
+                    "@target-id": "147459467-18",
+                    "@label": "4002631948",
+                    "@use": "grab",
+                    "@target": "Drainage connection",
+                    "@name": "InformationLink",
+                    "@id": "9007203257372940",
+                    "@source": "Installation and connection",
+                    "@target-base-id": "147459467",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007199437165323-18",
+                    "@target-id": "18014398656953227-18",
+                    "@label": "4002632332",
+                    "@use": "grab",
+                    "@target": "Drinking water connection",
+                    "@name": "InformationLink",
+                    "@id": "9007203257373324",
+                    "@source": "Installation and connection",
+                    "@target-base-id": "147471243",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007199437165323-18",
+                    "@target-id": "63050395614031115-18",
+                    "@label": "4002632716",
+                    "@use": "grab",
+                    "@target": "Electrical connection",
+                    "@name": "InformationLink",
+                    "@id": "9007203257373708",
+                    "@source": "Installation and connection",
+                    "@target-base-id": "830844171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007199437165323-18",
+                    "@target-id": "9007200003471627-18",
+                    "@label": "183234060",
+                    "@use": "grab",
+                    "@target": "Installation and connection",
+                    "@name": "TextModuleLink",
+                    "@id": "9007199437975052",
+                    "@source": "Installation and connection",
+                    "@target-base-id": "748730635",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"node":                 {
+                    "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=3529883147/",
+                    "@class": "Reference",
+                    "@type": "TextNode",
+                    "@base-id": "3529883147",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "9007202784624139-9",
+                    "@icon-name": "assembling",
+                    "@is-page": "false",
+                    "@childrencount": "0",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title": {"$": "Scope of supply"},
+                    "shortdesc":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "183131659",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3548708492",
+                        "@fragment-element": "shortdesc",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "183131659",
+                        "@id": "183131659-18",
+                        "$": "After unpacking all parts, check for any damage in transit and completeness of the delivery."
+                    },
+                    "p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "4444966795",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "32C77B2F-D8F6-48AD-A6B1-C8CD82348994",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "4444966795",
+                        "@id": "4444966795-18",
+                        "$": "If you have any complaints, contact the dealer who sold you the appliance or our Customer Service."
+                    },
+                    "hint":                     {
+                        "@hint-type": "single",
+                        "@type": "device-oriented",
+                        "b": {"$": "Note:"},
+                        "p":                         {
+                            "@context": "hint",
+                            "$": "The appliance was tested at the factory to check it is in working order. It is possible that water has left marks on the appliance. These marks will disappear after the first wash cycle."
+                        }
+                    },
+                    "properties":                     {
+                        "@flipTable": "false",
+                        "@presentation": "list",
+                        "@propertie-count": "1",
+                        "prophead": {"proptypehd":                         {
+                            "@col-index": "1",
+                            "p": {"$": "The delivery consists of the following:"}
+                        }},
+                        "property":                         [
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3529889163",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "C1F17B45-BE38-4637-9863-1D6FB52E5D26",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3529889163",
+                                "@id": "3529889163-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Dishwasher"}
+                                }
+                            },
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3548694155",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "8EED6FAC-C588-4C39-932E-D7D95BAEAD0A",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3548694155",
+                                "@id": "3548694155-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Operating instructions"}
+                                }
+                            },
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3548695947",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "C165B4AB-2C37-4902-914E-3D25D369C1C6",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3548695947",
+                                "@id": "3548695947-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Installation Instructions"}
+                                }
+                            },
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3548697739",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "08248186-C1A6-4323-B7F1-0744FD4EFAF6",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3548697739",
+                                "@id": "3548697739-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Warranty"}
+                                }
+                            },
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3548699531",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "F3C4DA68-7C69-4F74-B3B5-4342C76394B3",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3548699531",
+                                "@id": "3548699531-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Installation material"}
+                                }
+                            },
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3548704907",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "656F3A50-2F80-4DCB-949C-4EE4B4253937",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3548704907",
+                                "@id": "3548704907-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Mains cable"}
+                                }
+                            },
+                                                        {
+                                "@class": "TextModule2",
+                                "@base-id": "3548706699",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "4FCA0ABE-91C7-4C56-A3EC-DE648AD53D97",
+                                "@fragment-element": "property",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3548706699",
+                                "@id": "3548706699-18",
+                                "proptype":                                 {
+                                    "@col-index": "1",
+                                    "p": {"$": "Quick reference guide"}
+                                }
+                            }
+                        ]
+                    },
+                    "linklist": {"BSHCollectionOfElements":                     [
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "4444966795-18",
+                            "@label": "32C77B2F-D8F6-48AD-A6B1-C8CD82348994",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "4446980620",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "4444966795",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "183131659-18",
+                            "@label": "3548708492",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202803449484",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "183131659",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3529889163-18",
+                            "@label": "C1F17B45-BE38-4637-9863-1D6FB52E5D26",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812321804",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3529889163",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3548695947-18",
+                            "@label": "C165B4AB-2C37-4902-914E-3D25D369C1C6",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812322188",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3548695947",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3548699531-18",
+                            "@label": "F3C4DA68-7C69-4F74-B3B5-4342C76394B3",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812322572",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3548699531",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3548704907-18",
+                            "@label": "656F3A50-2F80-4DCB-949C-4EE4B4253937",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812322956",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3548704907",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3548706699-18",
+                            "@label": "4FCA0ABE-91C7-4C56-A3EC-DE648AD53D97",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812323724",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3548706699",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3548694155-18",
+                            "@label": "8EED6FAC-C588-4C39-932E-D7D95BAEAD0A",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812324492",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3548694155",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007202784624139-9",
+                            "@target-id": "3548697739-18",
+                            "@label": "08248186-C1A6-4323-B7F1-0744FD4EFAF6",
+                            "@use": "grab",
+                            "@target": "Scope of supply",
+                            "@name": "TextModuleLink",
+                            "@id": "9007202812324876",
+                            "@source": "Scope of supply",
+                            "@target-base-id": "3548697739",
+                            "@external": "0"
+                        }}
+                    ]}
+                }},
+                {"node":                 {
+                    "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=147451275/",
+                    "@class": "UMTask",
+                    "@type": "TextNode",
+                    "@base-id": "147451275",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "9007199402192267-18",
+                    "@icon-name": "assembling",
+                    "@is-page": "false",
+                    "@childrencount": "0",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title": {"$": "Installing and connecting the appliance"},
+                    "shortdesc":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2310454795",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "21E59F62-1227-42C2-8838-6E58F4AD058C",
+                        "@fragment-element": "shortdesc",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2310454795",
+                        "@id": "2310454795-18",
+                        "$": "You can position your built-under or integrable appliance in a fitted kitchen between wooden and plastic walls. If you subsequently install your dishwasher as a free-standing appliance, you must stop it from tipping over, e.g. by screwing it to the wall or installing it under a continuous worktop that is securely connected to adjacent cabinets."
+                    },
+                    "instructions": {"BSHCollectionOfElements":                     [
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "9007199402192267-18",
+                                "@target-id": "36028797201731979-9",
+                                "@use": "grab",
+                                "@target": "Safety",
+                                "@name": "RelatedTopic",
+                                "@id": "9007200087652492",
+                                "@source": "Installing and connecting the appliance",
+                                "@target-base-id": "182768011",
+                                "@external": "0",
+                                "@linkid": "832911500",
+                                "@arrow": "after",
+                                "$": "Follow the safety instructions."
+                            }
+                        }}},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "9007199402192267-18",
+                                "@target-id": "63050395614031115-18",
+                                "@use": "grab",
+                                "@target": "Electrical connection",
+                                "@name": "RelatedTopic",
+                                "@id": "9007200087653516",
+                                "@source": "Installing and connecting the appliance",
+                                "@target-base-id": "830844171",
+                                "@external": "0",
+                                "@linkid": "832912524",
+                                "@arrow": "after",
+                                "$": "Follow the instructions for electrical connection."
+                            }
+                        }}},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Check the"},
+                                {"targetless_link": {"$": "Scope of supply"}},
+                                {"$": "and the condition of the appliance."}
+                            ]
+                        }}},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "$": "Consult the installation instructions for the installation dimensions required."
+                        }}},
+                        {"instruction":                         {
+                            "@class": "TextModule2",
+                            "@base-id": "1381302027",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "DE075545-B697-4297-A5CC-C9E638EE7E7E",
+                            "@fragment-element": "instruction",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "1381302027",
+                            "@id": "1381302027-18",
+                            "p":                             {
+                                "@context": "instructions",
+                                "$": "Make the appliance level using the height-adjustable feet."
+                            },
+                            "instruction-info": {"p":                             {
+                                "@context": "instructions",
+                                "$": "Make sure that the appliance is standing on the floor securely."
+                            }}
+                        }},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "9007199402192267-18",
+                                "@target-id": "147465739-18",
+                                "@use": "grab",
+                                "@target": "Installing the drainage connection",
+                                "@name": "RelatedTopic",
+                                "@id": "9007199414768396",
+                                "@source": "Installing and connecting the appliance",
+                                "@target-base-id": "147465739",
+                                "@external": "0",
+                                "@linkid": "328113548",
+                                "@arrow": "after",
+                                "$": "Install the drainage connection."
+                            }
+                        }}},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "9007199402192267-18",
+                                "@target-id": "18014398656960267-18",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "RelatedTopic",
+                                "@id": "9007199414769036",
+                                "@source": "Installing and connecting the appliance",
+                                "@target-base-id": "147478283",
+                                "@external": "0",
+                                "@linkid": "328113676",
+                                "@arrow": "after",
+                                "$": "Install the drinking water connection."
+                            }
+                        }}},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "$": "Connect the appliance to the power supply."
+                        }}}
+                    ]},
+                    "linklist": {"BSHCollectionOfElements":                     [
+                        {"link":                         {
+                            "@source-id": "9007199402192267-18",
+                            "@target-id": "2310454795-18",
+                            "@label": "21E59F62-1227-42C2-8838-6E58F4AD058C",
+                            "@use": "grab",
+                            "@target": "Installing and connecting the appliance",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "2313723660",
+                            "@source": "Installing and connecting the appliance",
+                            "@target-base-id": "2310454795",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007199402192267-18",
+                            "@target-id": "1381302027-18",
+                            "@label": "DE075545-B697-4297-A5CC-C9E638EE7E7E",
+                            "@use": "grab",
+                            "@target": "Installing and connecting the appliance",
+                            "@name": "TextModuleHierarchy",
+                            "@id": "2313733772",
+                            "@source": "Installing and connecting the appliance",
+                            "@target-base-id": "1381302027",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007199402192267-18",
+                            "@target-id": "147465739-18",
+                            "@label": "328113548",
+                            "@use": "grab",
+                            "@target": "Installing the drainage connection",
+                            "@name": "RelatedTopic",
+                            "@id": "9007199414768396",
+                            "@source": "Installing and connecting the appliance",
+                            "@target-base-id": "147465739",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007199402192267-18",
+                            "@target-id": "18014398656960267-18",
+                            "@label": "328113676",
+                            "@use": "grab",
+                            "@target": "Installing the drinking water connection",
+                            "@name": "RelatedTopic",
+                            "@id": "9007199414769036",
+                            "@source": "Installing and connecting the appliance",
+                            "@target-base-id": "147478283",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007199402192267-18",
+                            "@target-id": "36028797201731979-9",
+                            "@label": "832911500",
+                            "@use": "grab",
+                            "@target": "Safety",
+                            "@name": "RelatedTopic",
+                            "@id": "9007200087652492",
+                            "@source": "Installing and connecting the appliance",
+                            "@target-base-id": "182768011",
+                            "@external": "0"
+                        }},
+                        {"link":                         {
+                            "@source-id": "9007199402192267-18",
+                            "@target-id": "63050395614031115-18",
+                            "@label": "832912524",
+                            "@use": "grab",
+                            "@target": "Electrical connection",
+                            "@name": "RelatedTopic",
+                            "@id": "9007200087653516",
+                            "@source": "Installing and connecting the appliance",
+                            "@target-base-id": "830844171",
+                            "@external": "0"
+                        }}
+                    ]}
+                }},
+                {"node":                 {
+                    "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=147459467/",
+                    "@class": "Concept",
+                    "@type": "TextNode",
+                    "@base-id": "147459467",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "147459467-18",
+                    "@icon-name": "assembling",
+                    "@is-page": "false",
+                    "@childrencount": "1",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title": {"$": "Drainage connection"},
+                    "shortdesc": {"$": "Connect your appliance to drainage connection so dirty water is discharged via the wash cycle."},
+                    "linklist": {"link":                     {
+                        "@source-id": "147459467-18",
+                        "@target-id": "147465739-18",
+                        "@label": "319139596",
+                        "@use": "grab",
+                        "@target": "Installing the drainage connection",
+                        "@name": "InformationHierarchy",
+                        "@id": "147465868",
+                        "@source": "Drainage connection",
+                        "@target-base-id": "147465739",
+                        "@external": "0"
+                    }},
+                    "node":                     {
+                        "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=147465739/",
+                        "@class": "UMTask",
+                        "@type": "TextNode",
+                        "@base-id": "147465739",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@format": "standard",
+                        "@id": "147465739-18",
+                        "@icon-name": "assembling",
+                        "@is-page": "false",
+                        "@childrencount": "0",
+                        "@is-distributor": "false",
+                        "@level": "4",
+                        "title": {"$": "Installing the drainage connection"},
+                        "instructions": {"BSHCollectionOfElements":                         [
+                            {"instruction": {"p":                             {
+                                "@context": "instructions",
+                                "$": "Consult the installation instructions supplied for the steps required here."
+                            }}},
+                            {"instruction": {"p":                             {
+                                "@context": "instructions",
+                                "$": "Connect the wastewater hose to the outlet connection of the siphon using the enclosed parts."
+                            }}},
+                            {"instruction": {"p":                             {
+                                "@context": "instructions",
+                                "$": "When doing so, check that the wastewater hose is not kinked, crushed or twisted."
+                            }}},
+                            {"instruction": {"p":                             {
+                                "@context": "instructions",
+                                "$": "Also check that there is no cover in the drainage system preventing the wastewater from being discharged."
+                            }}}
+                        ]}
+                    }
+                }},
+                {"node":                 {
+                    "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=147471243/",
+                    "@class": "Concept",
+                    "@type": "TextNode",
+                    "@base-id": "147471243",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "18014398656953227-18",
+                    "@icon-name": "assembling",
+                    "@is-page": "false",
+                    "@childrencount": "1",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title": {"$": "Drinking water connection"},
+                    "shortdesc": {"$": "Connect your appliance to a drinking water connection."},
+                    "linklist": {"link":                     {
+                        "@source-id": "18014398656953227-18",
+                        "@target-id": "18014398656960267-18",
+                        "@label": "319142156",
+                        "@use": "grab",
+                        "@target": "Installing the drinking water connection",
+                        "@name": "InformationHierarchy",
+                        "@id": "18014398656960396",
+                        "@source": "Drinking water connection",
+                        "@target-base-id": "147478283",
+                        "@external": "0"
+                    }},
+                    "node":                     {
+                        "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=147478283/",
+                        "@class": "UMTask",
+                        "@type": "TextNode",
+                        "@base-id": "147478283",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@format": "standard",
+                        "@id": "18014398656960267-18",
+                        "@icon-name": "assembling",
+                        "@is-page": "false",
+                        "@childrencount": "0",
+                        "@is-distributor": "false",
+                        "@level": "4",
+                        "title": {"$": "Installing the drinking water connection"},
+                        "hint":                         {
+                            "@type": "device-oriented",
+                            "@class": "TextModule2",
+                            "@base-id": "7938027915",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "8104368012",
+                            "@fragment-element": "hint",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "7938027915",
+                            "@title": "hint_installing drinking water connection_en",
+                            "@id": "7938027915-18",
+                            "b": {"$": "Note:"},
+                            "p":                             {
+                                "@context": "hint",
+                                "$": "If you are replacing the appliance, you must use a new water supply hose."
+                            }
+                        },
+                        "instructions": {"BSHCollectionOfElements":                         [
+                            {"instruction": {"p":                             {
+                                "@context": "instructions",
+                                "$": "Consult the installation instructions supplied for the steps required here."
+                            }}},
+                            {"instruction":                             {
+                                "p":                                 {
+                                    "@context": "instructions",
+                                    "$": "Connect the appliance to the drinking water connection using the enclosed parts."
+                                },
+                                "instruction-info": {"p":                                 {
+                                    "@context": "instructions",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"$": "Observe the"},
+                                        {"link":                                         {
+                                            "@BSH-Linktype": "Kurzlink",
+                                            "@source-id": "18014398656960267-18",
+                                            "@target-id": "108086391418377227-9",
+                                            "@use": "grab",
+                                            "@target": "Technical specifications",
+                                            "@name": "RelatedTopic",
+                                            "@id": "18014399149780876",
+                                            "@source": "Installing the drinking water connection",
+                                            "@target-base-id": "361485323",
+                                            "@external": "0",
+                                            "@linkid": "640298892",
+                                            "@arrow": "after",
+                                            "$": "Technical data"
+                                        }},
+                                        {"$": "."}
+                                    ]
+                                }}
+                            }},
+                            {"instruction": {"p":                             {
+                                "@context": "instructions",
+                                "$": "When doing so, check that the drinking water connection is not kinked, crushed or twisted."
+                            }}}
+                        ]},
+                        "linklist": {"BSHCollectionOfElements":                         [
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937569931-18",
+                                "@label": "8104367116",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367116",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937569931",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937579275-18",
+                                "@label": "8104367244",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367244",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937579275",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937768331-18",
+                                "@label": "8104367372",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367372",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937768331",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937863307-18",
+                                "@label": "8104367500",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367500",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937863307",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937874315-18",
+                                "@label": "8104367628",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367628",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937874315",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7931347723-18",
+                                "@label": "8104367756",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367756",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7931347723",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942622859-18",
+                                "@label": "8104367884",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104367884",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942622859",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7938027915-18",
+                                "@label": "8104368012",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104368012",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7938027915",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957425035-18",
+                                "@label": "8104368140",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104368140",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957425035",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7938067979-18",
+                                "@label": "8104369164",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369164",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7938067979",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7938075531-18",
+                                "@label": "8104369292",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369292",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7938075531",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942424587-18",
+                                "@label": "8104369420",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369420",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942424587",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942473995-18",
+                                "@label": "8104369548",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369548",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942473995",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942815755-18",
+                                "@label": "8104369676",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369676",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942815755",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937849995-18",
+                                "@label": "8104369804",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369804",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937849995",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942838411-18",
+                                "@label": "8104369932",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104369932",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942838411",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957228939-18",
+                                "@label": "8104370060",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370060",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957228939",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942861067-18",
+                                "@label": "8104370188",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370188",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942861067",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957238795-18",
+                                "@label": "8104370316",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370316",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957238795",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957248651-18",
+                                "@label": "8104370444",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370444",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957248651",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7942614155-18",
+                                "@label": "8104370572",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370572",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7942614155",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957258507-18",
+                                "@label": "8104370700",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370700",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957258507",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957281163-18",
+                                "@label": "8104370828",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370828",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957281163",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957300875-18",
+                                "@label": "8104370956",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104370956",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957300875",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957291019-18",
+                                "@label": "8104371084",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371084",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957291019",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957310731-18",
+                                "@label": "8104371212",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371212",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957310731",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937886603-18",
+                                "@label": "8104371340",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371340",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937886603",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957320587-18",
+                                "@label": "8104371468",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371468",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957320587",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957330443-18",
+                                "@label": "8104371596",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371596",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957330443",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957340299-18",
+                                "@label": "8104371724",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371724",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957340299",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957350155-18",
+                                "@label": "8104371852",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371852",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957350155",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957372811-18",
+                                "@label": "8104371980",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104371980",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957372811",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957392523-18",
+                                "@label": "8104372108",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372108",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957392523",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957415179-18",
+                                "@label": "8104372236",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372236",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957415179",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7931354379-18",
+                                "@label": "8104372364",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372364",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7931354379",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957382667-18",
+                                "@label": "8104372492",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372492",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957382667",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957434891-18",
+                                "@label": "8104372620",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372620",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957434891",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957444747-18",
+                                "@label": "8104372748",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372748",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957444747",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957474315-18",
+                                "@label": "8104372876",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104372876",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957474315",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957454603-18",
+                                "@label": "8104373004",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104373004",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957454603",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7957464459-18",
+                                "@label": "8104373132",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104373132",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7957464459",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937814027-18",
+                                "@label": "8104373260",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104373260",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937814027",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937803787-18",
+                                "@label": "8104373388",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104373388",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937803787",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "7937837835-18",
+                                "@label": "8104373516",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "8104373516",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "7937837835",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "8101088523-18",
+                                "@label": "8101096460",
+                                "@use": "grab",
+                                "@target": "Installing the drinking water connection",
+                                "@name": "TextModuleLink",
+                                "@id": "9007207355837452",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "8101088523",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "18014398656960267-18",
+                                "@target-id": "108086391418377227-9",
+                                "@label": "640298892",
+                                "@use": "grab",
+                                "@target": "Technical specifications",
+                                "@name": "RelatedTopic",
+                                "@id": "18014399149780876",
+                                "@source": "Installing the drinking water connection",
+                                "@target-base-id": "361485323",
+                                "@external": "0"
+                            }}
+                        ]}
+                    }
+                }},
+                {"node":                 {
+                    "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=830844171/",
+                    "@class": "Concept",
+                    "@type": "TextNode",
+                    "@base-id": "830844171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "63050395614031115-18",
+                    "@icon-name": "assembling",
+                    "@is-page": "false",
+                    "@childrencount": "1",
+                    "@is-distributor": "false",
+                    "@level": "3",
+                    "title": {"$": "Electrical connection"},
+                    "shortdesc": {"$": "Connect your appliance to the power supply."},
+                    "linklist": {"link":                     {
+                        "@source-id": "63050395614031115-18",
+                        "@target-id": "63050395615755147-18",
+                        "@label": "832568332",
+                        "@use": "grab",
+                        "@target": "Connecting the appliance to the electricity supply",
+                        "@name": "InformationHierarchy",
+                        "@id": "63050395615755276",
+                        "@source": "Electrical connection",
+                        "@target-base-id": "832568203",
+                        "@external": "0"
+                    }},
+                    "node":                     {
+                        "@file-name": "2216908911705369611.html#!/Togglebox=1824243314002552587/scrollto=832568203/",
+                        "@class": "UMTask",
+                        "@type": "TextNode",
+                        "@base-id": "832568203",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@format": "standard",
+                        "@id": "63050395615755147-18",
+                        "@icon-name": "assembling",
+                        "@is-page": "false",
+                        "@childrencount": "0",
+                        "@is-distributor": "false",
+                        "@level": "4",
+                        "title": {"$": "Connecting the appliance to the electricity supply"},
+                        "hint":                         {
+                            "@hint-type": "multi",
+                            "@type": "device-oriented",
+                            "b": {"$": "Notes:"},
+                            "BSHCollectionOfElements":                             [
+                                {"sub-hint": {"p":                                 {
+                                    "@context": "hint",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"$": "Please follow the"},
+                                        {"link":                                         {
+                                            "@BSH-Linktype": "Kurzlink",
+                                            "@source-id": "63050395615755147-18",
+                                            "@target-id": "27021598258838027-9",
+                                            "@use": "grab",
+                                            "@target": "Safe installation",
+                                            "@name": "RelatedTopic",
+                                            "@id": "63050395615861900",
+                                            "@source": "Connecting the appliance to the electricity supply",
+                                            "@target-base-id": "494615051",
+                                            "@external": "0",
+                                            "@linkid": "832674956",
+                                            "@dynamic": "false",
+                                            "@arrow": "after",
+                                            "$": "Safety instructions"
+                                        }},
+                                        {"$": "."}
+                                    ]
+                                }}},
+                                {"sub-hint": {"p":                                 {
+                                    "@context": "hint",
+                                    "BSHCollectionOfElements":                                     [
+                                        {"$": "Connect the appliance to alternating current only, in the range of"},
+                                        {"variable":                                         {
+                                            "@linkid": "9144214028",
+                                            "@name": "1005",
+                                            "@detailed-topic-type": "Technical value",
+                                            "@variableType": "Standard",
+                                            "@variable": "220 - 240",
+                                            "@variableName": "Spannung Volt",
+                                            "@variant": "1051",
+                                            "@variantName": "GV6xx P5_A3 EU",
+                                            "$": "220 - 240"
+                                        }},
+                                        {"$": " V and"},
+                                        {"variable":                                         {
+                                            "@linkid": "9144214028",
+                                            "@name": "1004",
+                                            "@detailed-topic-type": "Technical value",
+                                            "@variableType": "Standard",
+                                            "@variable": "50",
+                                            "@variableName": "Spannung Hz tief",
+                                            "@variant": "1051",
+                                            "@variantName": "GV6xx P5_A3 EU",
+                                            "$": "50"
+                                        }},
+                                        {"$": " Hz or"},
+                                        {"variable":                                         {
+                                            "@linkid": "9144214028",
+                                            "@name": "1003",
+                                            "@detailed-topic-type": "Technical value",
+                                            "@variableType": "Standard",
+                                            "@variable": "60",
+                                            "@variableName": "Spannung Hz hoch",
+                                            "@variant": "1051",
+                                            "@variantName": "GV6xx P5_A3 EU",
+                                            "$": "60"
+                                        }},
+                                        {"$": " Hz."}
+                                    ]
+                                }}},
+                                {"sub-hint": {"p":                                 {
+                                    "@context": "hint",
+                                    "$": "Please note that the water safety system is only functional if there is a power supply."
+                                }}}
+                            ]
+                        },
+                        "instructions": {"BSHCollectionOfElements":                         [
+                            {"instruction":                             {
+                                "@customer-info": "false",
+                                "@type": "action",
+                                "p":                                 {
+                                    "@context": "instructions",
+                                    "$": "Insert the non-heating appliance plug of the power cable into the appliance."
+                                }
+                            }},
+                            {"instruction":                             {
+                                "@customer-info": "false",
+                                "@type": "action",
+                                "p":                                 {
+                                    "@context": "instructions",
+                                    "$": "Insert the mains plug of the appliance into a nearby socket."
+                                },
+                                "instruction-info": {"p":                                 {
+                                    "@context": "instructions",
+                                    "$": "The connection data for the appliance can be found on the rating plate."
+                                }}
+                            }},
+                            {"instruction":                             {
+                                "@customer-info": "false",
+                                "@type": "action",
+                                "p":                                 {
+                                    "@context": "instructions",
+                                    "$": "Check that the mains plug is inserted properly."
+                                }
+                            }}
+                        ]},
+                        "linklist": {"BSHCollectionOfElements":                         [
+                            {"link":                             {
+                                "@source-id": "63050395615755147-18",
+                                "@target-id": "9144212491-18",
+                                "@label": "1BEDDEF5-F242-4133-A434-6BC22D68B8F9",
+                                "@use": "grab",
+                                "@target": "Connecting the appliance to the electricity supply",
+                                "@name": "TextModuleHierarchy",
+                                "@id": "9144217484",
+                                "@source": "Connecting the appliance to the electricity supply",
+                                "@target-base-id": "9144212491",
+                                "@external": "0"
+                            }},
+                            {"link":                             {
+                                "@source-id": "63050395615755147-18",
+                                "@target-id": "27021598258838027-9",
+                                "@label": "832674956",
+                                "@use": "grab",
+                                "@target": "Safe installation",
+                                "@name": "RelatedTopic",
+                                "@id": "63050395615861900",
+                                "@source": "Connecting the appliance to the electricity supply",
+                                "@target-base-id": "494615051",
+                                "@external": "0"
+                            }}
+                        ]}
+                    }
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "2216908911705369611.html#!/Togglebox=148503947/scrollto=148503947/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "148503947",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079191950654859-18",
+            "@icon-name": "assembling",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title": {"$": "Performing initial start-up"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "148518923",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "7A196553-8F7A-453C-9BDF-1154F22F140A",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "148518923",
+                "@id": "148518923-18",
+                "$": "On initial start-up or after a reset to the factory settings, you will need to make settings."
+            },
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "user-oriented",
+                "@class": "TextModule2",
+                "@base-id": "3589387147",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "575D3E38-E31C-417E-8815-5A3C4152FF29",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "36028800608351115",
+                "@id": "36028800608351115-18",
+                "b": {"$": "Tip:"},
+                "p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Connect your appliance to a mobile device. You can conveniently change all settings via the"},
+                        {"variable":                         {
+                            "@linkid": "3589388684",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "app."},
+                        {"link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "36028800608351115-18",
+                            "@target-id": "27021601464817547-9",
+                            "@use": "grab",
+                            "@target": "Home Connect quick start",
+                            "@name": "RelatedTopic",
+                            "@id": "36028800721745164",
+                            "@target-base-id": "3700594571",
+                            "@external": "0",
+                            "@linkid": "3702781196",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "variable":                             {
+                                "@linkid": "3700598924",
+                                "@name": "1011",
+                                "@detailed-topic-type": "Non-specific",
+                                "@variableType": "Standard",
+                                "@variable": "Home Connect",
+                                "@variableName": "name Home Connect",
+                                "@variant": "1004",
+                                "@variantName": "Bosch",
+                                "$": "Home Connect"
+                            },
+                            "$": "quick start"
+                        }}
+                    ]
+                }
+            },
+            "preconditions":             {
+                "preconditionhead": {"b": {"$": "Requirements:"}},
+                "precondition": {"link":                 {
+                    "@BSH-Linktype": "Kurzlink",
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "9007199437165323-18",
+                    "@use": "grab",
+                    "@target": "Installation and connection",
+                    "@name": "RelatedTopic",
+                    "@id": "99079191986411788",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "182424331",
+                    "@external": "0",
+                    "@linkid": "184260876",
+                    "@dynamic": "false",
+                    "@arrow": "after",
+                    "$": "The appliance has been installed and connected."
+                }}
+            },
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "@customer-info": "false",
+                    "@type": "action",
+                    "p":                     {
+                        "@context": "instructions",
+                        "link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "99079191950654859-18",
+                            "@target-id": "18014398656277003-9",
+                            "@use": "grab",
+                            "@target": "Adding special salt",
+                            "@name": "RelatedTopic",
+                            "@id": "99079192297720076",
+                            "@source": "Performing initial start-up",
+                            "@target-base-id": "146795019",
+                            "@external": "0",
+                            "@linkid": "495569164",
+                            "@dynamic": "false",
+                            "@arrow": "after",
+                            "$": "Add special salt."
+                        }
+                    }
+                }},
+                {"instruction":                 {
+                    "@customer-info": "false",
+                    "@type": "action",
+                    "p":                     {
+                        "@context": "instructions",
+                        "link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "99079191950654859-18",
+                            "@target-id": "36028797165838091-9",
+                            "@use": "grab",
+                            "@target": "Adding rinse aid",
+                            "@name": "RelatedTopic",
+                            "@id": "99079192297720204",
+                            "@source": "Performing initial start-up",
+                            "@target-base-id": "146874123",
+                            "@external": "0",
+                            "@linkid": "495569292",
+                            "@dynamic": "false",
+                            "@arrow": "after",
+                            "$": "Add rinse aid."
+                        }
+                    }
+                }},
+                {"instruction":                 {
+                    "@customer-info": "false",
+                    "@type": "action",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "Switch on the appliance."
+                    },
+                    "results": {"result": {"p":                     {
+                        "@context": "instructions",
+                        "$": "The display shows the settings for initial start-up."
+                    }}}
+                }},
+                {"instruction":                 {
+                    "@customer-info": "false",
+                    "@type": "action",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "640299916",
+                                "@name": "SY_Blättern_vorwärts",
+                                "@type": "svg",
+                                "@href": "Images/svg/632245515__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192442450828",
+                                "@label": "640299916",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows the required setting."}
+                        ]
+                    },
+                    "instruction-info":                     {
+                        "hint":                         {
+                            "@hint-type": "single",
+                            "@type": "device-oriented",
+                            "@class": "TextModule2",
+                            "@base-id": "148512139",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "55747279-714E-47A6-A1A2-7E29D52DEC85",
+                            "@fragment-element": "hint",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043195676958091",
+                            "@id": "54043195676958091-18",
+                            "@context": "instruction",
+                            "b": {"$": "Note:"},
+                            "p":                             {
+                                "@context": "hint",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "If you select Initial start-up"},
+                                    {"variable":                                     {
+                                        "@linkid": "771927436",
+                                        "@name": "1011",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Home Connect",
+                                        "@variableName": "name Home Connect",
+                                        "@variant": "1004",
+                                        "@variantName": "Bosch",
+                                        "$": "Home Connect"
+                                    }},
+                                    {"$": "here, make further settings using the"},
+                                    {"variable":                                     {
+                                        "@linkid": "771927436",
+                                        "@name": "1011",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Home Connect",
+                                        "@variableName": "name Home Connect",
+                                        "@variant": "1004",
+                                        "@variantName": "Bosch",
+                                        "$": "Home Connect"
+                                    }},
+                                    {"$": "app on your mobile device."}
+                                ]
+                            }
+                        },
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "You can change the settings for initial start-up and other"},
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Kurzlink",
+                                    "@source-id": "99079191950654859-18",
+                                    "@target-id": "117093590458818571-9",
+                                    "@use": "grab",
+                                    "@target": "Overview of basic settings",
+                                    "@name": "RelatedTopic",
+                                    "@id": "99079191962206732",
+                                    "@source": "Performing initial start-up",
+                                    "@target-base-id": "147185675",
+                                    "@external": "0",
+                                    "@linkid": "334928012",
+                                    "@dynamic": "false",
+                                    "@arrow": "after",
+                                    "$": "Basic settings"
+                                }},
+                                {"$": "on the appliance at any time or use the"},
+                                {"variable":                                 {
+                                    "@linkid": "809520908",
+                                    "@name": "1011",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "Home Connect",
+                                    "@variableName": "name Home Connect",
+                                    "@variant": "1004",
+                                    "@variantName": "Bosch",
+                                    "$": "Home Connect"
+                                }},
+                                {"$": "app on your mobile device."}
+                            ]
+                        }
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "147211019",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "334023436",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "147211019",
+                    "@id": "147211019-27",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "632449548",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "632449548",
+                                "@label": "632449548",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "or"},
+                            {"img":                             {
+                                "@src": "632449676",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "632449676",
+                                "@label": "632449676",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows the right value."}
+                        ]
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "$": "You can change several settings."
+                    }}
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146812171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "334023564",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199401553163",
+                    "@id": "9007199401553163-72",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To save the settings, press"},
+                            {"img":                             {
+                                "@src": "640275980",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895016972",
+                                "@label": "640275980",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@customer-info": "false",
+                    "@type": "action",
+                    "@class": "TextModule2",
+                    "@base-id": "9645348619",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "10011789836",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007208900089611",
+                    "@id": "9007208900089611-35",
+                    "p":                     {
+                        "@context": "instructions",
+                        "link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "9007208900089611-35",
+                            "@target-id": "90071992694546315-9",
+                            "@use": "grab",
+                            "@target": "Detergent",
+                            "@name": "RelatedTopic",
+                            "@id": "9007208900091660",
+                            "@target-base-id": "147136395",
+                            "@external": "0",
+                            "@linkid": "9645350668",
+                            "@dynamic": "false",
+                            "@arrow": "after",
+                            "$": "Add detergent"
+                        },
+                        "$": "."
+                    }
+                }},
+                {"instruction":                 {
+                    "@customer-info": "false",
+                    "@type": "action",
+                    "@class": "TextModule2",
+                    "@base-id": "9645348619",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "10011789836",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007208900089611",
+                    "@id": "9007208900089611-36",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Start the"},
+                            {"targetless_link": {"$": "Programme with the highest cleaning temperature"}},
+                            {"$": "without tableware."}
+                        ]
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "$": "To remove any marks from water or other residues, we recommend you operate the appliance without tableware before using it for the first time."
+                    }}
+                }}
+            ]},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "9007208900089611-35",
+                    "@label": "10011789836",
+                    "@use": "grab",
+                    "@target": "Performing initial start-up",
+                    "@name": "TextModuleLink",
+                    "@id": "9007209266530828",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "9645348619",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "36028800608351115-18",
+                    "@label": "575D3E38-E31C-417E-8815-5A3C4152FF29",
+                    "@use": "grab",
+                    "@target": "Performing initial start-up",
+                    "@name": "TextModuleLink",
+                    "@id": "81064796882060684",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "3589387147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "54043195676958091-18",
+                    "@label": "55747279-714E-47A6-A1A2-7E29D52DEC85",
+                    "@use": "grab",
+                    "@target": "Performing initial start-up",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "99079191950663180",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "148512139",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "147211019-27",
+                    "@label": "334023436",
+                    "@use": "grab",
+                    "@target": "Performing initial start-up",
+                    "@name": "TextModuleLink",
+                    "@id": "99079191962205196",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "147211019",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "9007199401553163-72",
+                    "@label": "334023564",
+                    "@use": "grab",
+                    "@target": "Performing initial start-up",
+                    "@name": "TextModuleLink",
+                    "@id": "99079191962205964",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "117093590458818571-9",
+                    "@label": "334928012",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "99079191962206732",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "147185675",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "9007199437165323-18",
+                    "@label": "184260876",
+                    "@use": "grab",
+                    "@target": "Installation and connection",
+                    "@name": "RelatedTopic",
+                    "@id": "99079191986411788",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "182424331",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "18014398656277003-9",
+                    "@label": "495569164",
+                    "@use": "grab",
+                    "@target": "Adding special salt",
+                    "@name": "RelatedTopic",
+                    "@id": "99079192297720076",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "146795019",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "36028797165838091-9",
+                    "@label": "495569292",
+                    "@use": "grab",
+                    "@target": "Adding rinse aid",
+                    "@name": "RelatedTopic",
+                    "@id": "99079192297720204",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "146874123",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191950654859-18",
+                    "@target-id": "148518923-18",
+                    "@label": "7A196553-8F7A-453C-9BDF-1154F22F140A",
+                    "@use": "grab",
+                    "@target": "Performing initial start-up",
+                    "@name": "TextModuleLink",
+                    "@id": "99079193104391564",
+                    "@source": "Performing initial start-up",
+                    "@target-base-id": "148518923",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195676958091-18",
+                    "@target-id": "117093590458818571-9",
+                    "@label": "307943564",
+                    "@use": "copy",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195836389516",
+                    "@target-base-id": "147185675",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028800608351115-18",
+                    "@target-id": "27021601464817547-9",
+                    "@label": "3702781196",
+                    "@use": "grab",
+                    "@target": "Home Connect quick start",
+                    "@name": "RelatedTopic",
+                    "@id": "36028800721745164",
+                    "@target-base-id": "3700594571",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007208900089611-35",
+                    "@target-id": "90071992694546315-9",
+                    "@label": "9645350668",
+                    "@use": "grab",
+                    "@target": "Detergent",
+                    "@name": "RelatedTopic",
+                    "@id": "9007208900091660",
+                    "@target-base-id": "147136395",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007208900089611-35",
+                    "@target-id": "135107988968018187-9",
+                    "@label": "9645350796",
+                    "@use": "copy",
+                    "@target": "Programmes",
+                    "@name": "RelatedTopic",
+                    "@id": "9007208900091788",
+                    "@target-base-id": "146903307",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192442450828",
+                    "@label": "640299916",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "632449548",
+                    "@label": "632449548",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "632449676",
+                    "@label": "632449676",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "2216908911705369611.html#!/Togglebox=184033547/scrollto=184033547/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "184033547",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "27021597948256523-9",
+            "@icon-name": "assembling",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "2",
+            "title": {"$": "Registering your appliance"},
+            "shortdesc": {"$": "To benefit from our extensive range of services, you can register your appliance without any obligation."},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Discover all benefits at"},
+                            {"A":                             {
+                                "@HREF": "http://www.bosch-home.com/de/mybosch.html",
+                                "$": "My Bosch"
+                            }},
+                            {"$": "."}
+                        ]
+                    },
+                    "instruction-info": {"ul":                     {
+                        "intro": {"p":                         {
+                            "@context": "intro",
+                            "$": "If you register your appliance, you will benefit from numerous advantages:"
+                        }},
+                        "BSHCollectionOfElements":                         [
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "Discounts in our online shop for suitable accessories"
+                                }
+                            }},
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "Tips and tricks to make the most of your appliance"
+                                }
+                            }},
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "Having Bosch Customer Service always close to hand"
+                                }
+                            }},
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "... and a whole lot more."
+                                }
+                            }}
+                        ]
+                    }}
+                }},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "To register your appliance, click on the link"},
+                        {"A":                         {
+                            "@HREF": "http://www.bosch-home.com/contact-us/select-your-country",
+                            "$": "My Bosch"
+                        }},
+                        {"$": "."}
+                    ]
+                }}},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Click on \"Register free of charge\"."
+                }}},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Enter your registration details."
+                }}},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Click on \"Submit\" and follow the instructions on the website."
+                }}}
+            ]},
+            "linklist": {"link":             {
+                "@source-id": "27021597948256523-9",
+                "@target-id": "144115188258262923-9",
+                "@label": "184040460",
+                "@use": "copy",
+                "@target": "Customer Service",
+                "@name": "RelatedTopic",
+                "@id": "27021597948263436",
+                "@source": "Registering your appliance",
+                "@target-base-id": "182407051",
+                "@external": "0"
+            }}
+        }}
+    ]
+}

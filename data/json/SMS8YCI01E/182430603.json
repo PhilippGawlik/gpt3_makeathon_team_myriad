@@ -1,0 +1,1479 @@
+{
+    "@file-name": "1824306031704880395.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@reuseid": "45035997978585355",
+    "@base-reuseid": "1704880395",
+    "@base-id": "182430603",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "36028797201394571-9",
+    "@is-page": "true",
+    "@childrencount": "10",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Basic operation"},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "2808449035",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "55E78FCD-D496-48B5-8845-45F80B35529F",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "2808449035",
+        "@id": "2808449035-9",
+        "$": "You can find out everything you need to know about operating your appliance here."
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "780783627-9",
+            "@label": "1704880908",
+            "@use": "grab",
+            "@target": "Opening appliance door",
+            "@name": "InformationLink",
+            "@id": "45035997978585868",
+            "@source": "Basic operation",
+            "@target-base-id": "780783627",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "72057594184632587-9",
+            "@label": "1704881292",
+            "@use": "grab",
+            "@target": "Switching on the appliance",
+            "@name": "InformationLink",
+            "@id": "45035997978586252",
+            "@source": "Basic operation",
+            "@target-base-id": "146704651",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "27021597910933899-9",
+            "@label": "1704882060",
+            "@use": "grab",
+            "@target": "Setting a programme",
+            "@name": "InformationLink",
+            "@id": "45035997978587020",
+            "@source": "Basic operation",
+            "@target-base-id": "146710923",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "146728587-9",
+            "@label": "1705138444",
+            "@use": "grab",
+            "@target": "Setting additional functions",
+            "@name": "InformationLink",
+            "@id": "45035997978843404",
+            "@source": "Basic operation",
+            "@target-base-id": "146728587",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "99079191948889483-9",
+            "@label": "1705138828",
+            "@use": "grab",
+            "@target": "Setting timer programming",
+            "@name": "InformationLink",
+            "@id": "45035997978843788",
+            "@source": "Basic operation",
+            "@target-base-id": "146738571",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "81064793439413003-9",
+            "@label": "1705139212",
+            "@use": "grab",
+            "@target": "Starting the programme",
+            "@name": "InformationLink",
+            "@id": "45035997978844172",
+            "@source": "Basic operation",
+            "@target-base-id": "146744075",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "18014398656231563-9",
+            "@label": "3767824908",
+            "@use": "grab",
+            "@target": "Interrupting programme",
+            "@name": "InformationLink",
+            "@id": "45036000041529868",
+            "@source": "Basic operation",
+            "@target-base-id": "146749579",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "90071992694165003-9",
+            "@label": "1705140748",
+            "@use": "grab",
+            "@target": "Terminate programme",
+            "@name": "InformationLink",
+            "@id": "45035997978845708",
+            "@source": "Basic operation",
+            "@target-base-id": "146755083",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "18014398980454539-9",
+            "@label": "1705141132",
+            "@use": "grab",
+            "@target": "Display programme information",
+            "@name": "InformationLink",
+            "@id": "45035997978846092",
+            "@source": "Basic operation",
+            "@target-base-id": "470972555",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "18014398656242571-9",
+            "@label": "1705141516",
+            "@use": "grab",
+            "@target": "Switching off appliance",
+            "@name": "InformationLink",
+            "@id": "45035997978846476",
+            "@source": "Basic operation",
+            "@target-base-id": "146760587",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797201394571-9",
+            "@target-id": "2808449035-9",
+            "@label": "55E78FCD-D496-48B5-8845-45F80B35529F",
+            "@use": "grab",
+            "@target": "Basic operation",
+            "@name": "TextModuleLink",
+            "@id": "9007202063423244",
+            "@source": "Basic operation",
+            "@target-base-id": "2808449035",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=780783627/scrollto=780783627/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "780783627",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "780783627-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Opening appliance door"},
+            "instructions": {"instruction": {"p":             {
+                "@context": "instructions",
+                "$": "Open the appliance door."
+            }}}
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146704651/scrollto=146704651/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146704651",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "72057594184632587-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Switching on the appliance"},
+            "instructions": {"instruction":             {
+                "@customer-info": "false",
+                "@type": "action",
+                "p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "836152588",
+                            "@name": "SY_Hauptschalter_Standby",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378070027__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "72057594874080524",
+                            "@label": "836152588",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.5044722222222222",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.5044722222222222",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "."}
+                    ]
+                },
+                "instruction-info": {"BSHCollectionOfElements":                 [
+                    {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "9098218251",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "33B60EA6-6C98-4773-8E92-D472ED1274D2",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007208352959243",
+                        "@id": "9007208352959243-9",
+                        "@context": "instructions",
+                        "$": "The Eco 50° programme is set by default."
+                    }},
+                    {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "7783978251",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "00404EE9-3D54-4E18-B1F8-520D448419C1",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "7783978251",
+                        "@id": "7783978251-9",
+                        "@context": "instructions",
+                        "$": "The Eco 50° programme is an especially environmentally friendly programme and ideal for normally soiled tableware. It is the most efficient programme for the combination of energy/water consumption for this type of tableware and evidences conformity with the EU Ecodesign Directive."
+                    }},
+                    {"p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2097620363",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3672CE66-D2EA-45F1-8521-1BB079ADDF91",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2097620363",
+                        "@id": "2097620363-9",
+                        "@context": "instructions",
+                        "$": "If you do not perform any actions on the appliance for 10 minutes, the appliance will automatically switch off."
+                    }}
+                ]}
+            }},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "72057594184632587-9",
+                    "@target-id": "9007208352959243-9",
+                    "@label": "33B60EA6-6C98-4773-8E92-D472ED1274D2",
+                    "@use": "grab",
+                    "@target": "Switching on the appliance",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "18014407607704716",
+                    "@source": "Switching on the appliance",
+                    "@target-base-id": "9098218251",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "72057594184632587-9",
+                    "@target-id": "7783978251-9",
+                    "@label": "00404EE9-3D54-4E18-B1F8-520D448419C1",
+                    "@use": "grab",
+                    "@target": "Switching on the appliance",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "36028804806069644",
+                    "@source": "Switching on the appliance",
+                    "@target-base-id": "7783978251",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "72057594184632587-9",
+                    "@target-id": "2097620363-9",
+                    "@label": "3672CE66-D2EA-45F1-8521-1BB079ADDF91",
+                    "@use": "grab",
+                    "@target": "Switching on the appliance",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "54043197626062476",
+                    "@source": "Switching on the appliance",
+                    "@target-base-id": "2097620363",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "72057594184632587-9",
+                    "@target-id": "27021597910933899-9",
+                    "@label": "343264268",
+                    "@use": "copy",
+                    "@target": "Setting a programme",
+                    "@name": "RelatedTopic",
+                    "@id": "72057594381192204",
+                    "@source": "Switching on the appliance",
+                    "@target-base-id": "146710923",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "72057594184632587-9",
+                    "@target-id": "54043195675375499-9",
+                    "@label": "361340428",
+                    "@use": "copy",
+                    "@target": "Programmes",
+                    "@name": "RelatedTopic",
+                    "@id": "72057594399268364",
+                    "@source": "Switching on the appliance",
+                    "@target-base-id": "146929547",
+                    "@external": "0"
+                }}
+            ]},
+            "image":             {
+                "@name": "SY_Hauptschalter_Standby",
+                "@type": "svg",
+                "@href": "Images/svg/1378070027__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "72057594874080524",
+                "@label": "836152588",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.5044722222222222",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.5044722222222222",
+                "@height-cm": "0.5538611111111111"
+            }
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146710923/scrollto=146710923/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146710923",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "27021597910933899-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Setting a programme"},
+            "shortdesc": {"$": "To adjust the wash cycle to the soiling level of the tableware, select a suitable programme."},
+            "instructions":             {
+                "instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1390976395",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "51967E75-1745-40A7-AF42-8C335B2B5FD1",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200645717387",
+                    "@id": "9007200645717387-18",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "Press the right programme button.",
+                        "link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "9007200645717387-18",
+                            "@target-id": "135107988968018187-9",
+                            "@use": "grab",
+                            "@target": "Programmes",
+                            "@name": "RelatedTopic",
+                            "@id": "9007200645719180",
+                            "@target-base-id": "146903307",
+                            "@external": "0",
+                            "@linkid": "1390978188",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Programmes"
+                        }
+                    }
+                },
+                "results": {"result":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1624839179",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "E2F8DC6A-6981-447A-90A6-6759082EF2D0",
+                    "@fragment-element": "result",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014400134321163",
+                    "@id": "18014400134321163-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "The programme is set and the programme button flashes."
+                    }
+                }}
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "27021597910933899-9",
+                    "@target-id": "135107988968018187-9",
+                    "@label": "361689356",
+                    "@use": "copy",
+                    "@target": "Programmes",
+                    "@name": "RelatedTopic",
+                    "@id": "18014398871171340",
+                    "@source": "Setting a programme",
+                    "@target-base-id": "146903307",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "27021597910933899-9",
+                    "@target-id": "9007200645717387-18",
+                    "@label": "51967E75-1745-40A7-AF42-8C335B2B5FD1",
+                    "@use": "grab",
+                    "@target": "Setting a programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "18014399905558156",
+                    "@source": "Setting a programme",
+                    "@target-base-id": "1390976395",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "27021597910933899-9",
+                    "@target-id": "18014400134321163-9",
+                    "@label": "E2F8DC6A-6981-447A-90A6-6759082EF2D0",
+                    "@use": "grab",
+                    "@target": "Setting a programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "18014400136540556",
+                    "@source": "Setting a programme",
+                    "@target-base-id": "1624839179",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "9007200645717387-18",
+                    "@target-id": "135107988968018187-9",
+                    "@label": "1390978188",
+                    "@use": "grab",
+                    "@target": "Programmes",
+                    "@name": "RelatedTopic",
+                    "@id": "9007200645719180",
+                    "@target-base-id": "146903307",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146728587/scrollto=146728587/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146728587",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "146728587-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Setting additional functions"},
+            "shortdesc": {"$": "You can set additional functions to complete the washing programme selected."},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "b": {"$": "Note:"},
+                "p":                 {
+                    "@context": "hint",
+                    "$": "The additional functions which can be used depend on the programme selected.",
+                    "link":                     {
+                        "@BSH-Linktype": "Langlink",
+                        "@source-id": "146728587-9",
+                        "@target-id": "135107988968018187-9",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "RelatedTopic",
+                        "@id": "361693068",
+                        "@source": "Setting additional functions",
+                        "@target-base-id": "146903307",
+                        "@external": "0",
+                        "@linkid": "361693068",
+                        "@dynamic": "true",
+                        "@arrow": "before",
+                        "$": "Programmes"
+                    }
+                }
+            },
+            "instructions": {"instruction":             {
+                "p":                 {
+                    "@context": "instructions",
+                    "$": "Press the button for the relevant additional function.",
+                    "link":                     {
+                        "@BSH-Linktype": "Langlink",
+                        "@source-id": "146728587-9",
+                        "@target-id": "99079191949142923-9",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "361693196",
+                        "@source": "Setting additional functions",
+                        "@target-base-id": "146992011",
+                        "@external": "0",
+                        "@linkid": "361693196",
+                        "@dynamic": "true",
+                        "@arrow": "before",
+                        "$": "Additional functions"
+                    }
+                },
+                "results": {"result": {"p":                 {
+                    "@context": "instructions",
+                    "$": "The additional function is set and the additional function button flashes."
+                }}}
+            }},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "146728587-9",
+                    "@target-id": "135107988968018187-9",
+                    "@label": "361693068",
+                    "@use": "grab",
+                    "@target": "Programmes",
+                    "@name": "RelatedTopic",
+                    "@id": "361693068",
+                    "@source": "Setting additional functions",
+                    "@target-base-id": "146903307",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "146728587-9",
+                    "@target-id": "99079191949142923-9",
+                    "@label": "361693196",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "RelatedTopic",
+                    "@id": "361693196",
+                    "@source": "Setting additional functions",
+                    "@target-base-id": "146992011",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146738571/scrollto=146738571/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146738571",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079191948889483-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Setting timer programming"},
+            "shortdesc": {"$": "You can delay the start of the programme by up to 24 hours."},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "779022220",
+                            "@name": "SY_Zeitvorwahl_Uhr",
+                            "@type": "svg",
+                            "@href": "Images/svg/9007200015974667__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "99079192581173132",
+                            "@label": "779022220",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.5538611111111111",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.5538611111111111",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "."}
+                    ]
+                }}},
+                {"instruction":                 {
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "640301580",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192442452492",
+                                "@label": "640301580",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "or"},
+                            {"img":                             {
+                                "@src": "640301708",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "99079192442452620",
+                                "@label": "640301708",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows the right time."}
+                        ]
+                    },
+                    "instruction-info": {"p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Depending on the setting of the time display, the end of the programme is shown on the display either with"},
+                            {"variable":                             {
+                                "@linkid": "1271056396",
+                                "@name": "1052",
+                                "@detailed-topic-type": "Display text",
+                                "@variableType": "Standard",
+                                "@variable": "Finish in",
+                                "@variableName": "Basic Settings - Zeitanzeige: Fertig in",
+                                "@variant": "1001",
+                                "@variantName": "Bosch - TFT Display",
+                                "$": "\"Finish in\""
+                            }},
+                            {"$": "(e.g. 3h 25min) or"},
+                            {"variable":                             {
+                                "@linkid": "1271056396",
+                                "@name": "1053",
+                                "@detailed-topic-type": "Display text",
+                                "@variableType": "Standard",
+                                "@variable": "Finish at",
+                                "@variableName": "Basic Settings - Zeitanzeige: Fertig um",
+                                "@variant": "1001",
+                                "@variantName": "Bosch - TFT Display",
+                                "$": "\"Finish at\""
+                            }},
+                            {"$": "(e.g. 15:20 hours). You can change this setting in the"},
+                            {"link":                             {
+                                "@BSH-Linktype": "Kurzlink",
+                                "@source-id": "99079191948889483-9",
+                                "@target-id": "117093590458818571-9",
+                                "@use": "grab",
+                                "@target": "Overview of basic settings",
+                                "@name": "RelatedTopic",
+                                "@id": "99079192163848716",
+                                "@source": "Setting timer programming",
+                                "@target-base-id": "147185675",
+                                "@external": "0",
+                                "@linkid": "361697804",
+                                "@arrow": "after",
+                                "$": "Basic settings"
+                            }},
+                            {"$": "."}
+                        ]
+                    }}
+                }},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "To activate timer programming, press"},
+                        {"img":                         {
+                            "@src": "1066407692",
+                            "@name": "SY_allgmein_Start",
+                            "@type": "svg",
+                            "@href": "Images/svg/1057667339__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "99079192868558604",
+                            "@label": "1066407692",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "1.27",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "1.27",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "."}
+                    ]
+                }}}
+            ]},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "@class": "TextModule2",
+                "@base-id": "2208877323",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "35DCA4F9-4437-405B-A085-58C5D5B01371",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "18014400718359307",
+                "@id": "18014400718359307-9",
+                "b": {"$": "Note:"},
+                "p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "To deactivate timer programming, press"},
+                        {"img":                         {
+                            "@src": "2208880652",
+                            "@name": "SY_Reset_4_sec",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378331147__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "18014400718362636",
+                            "@label": "2208880652",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "3.3725555555555555",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "3.3725555555555555",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "for approx. 4 seconds."}
+                    ]
+                }
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "99079191948889483-9",
+                    "@target-id": "18014400718359307-9",
+                    "@label": "35DCA4F9-4437-405B-A085-58C5D5B01371",
+                    "@use": "grab",
+                    "@target": "Setting timer programming",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "81064795501542796",
+                    "@source": "Setting timer programming",
+                    "@target-base-id": "2208877323",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191948889483-9",
+                    "@target-id": "117093590458818571-9",
+                    "@label": "361697804",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "99079192163848716",
+                    "@source": "Setting timer programming",
+                    "@target-base-id": "147185675",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192442452492",
+                    "@label": "640301580",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192442452620",
+                    "@label": "640301708",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Zeitvorwahl_Uhr",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200015974667__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192581173132",
+                    "@label": "779022220",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_allgmein_Start",
+                    "@type": "svg",
+                    "@href": "Images/svg/1057667339__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "99079192868558604",
+                    "@label": "1066407692",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "1.27",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "1.27",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Reset_4_sec",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378331147__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "18014400718362636",
+                    "@label": "2208880652",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "3.3725555555555555",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "3.3725555555555555",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146744075/scrollto=146744075/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146744075",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "81064793439413003-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Starting the programme"},
+            "instructions": {"instruction":             {
+                "p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "1066743820",
+                            "@name": "SY_allgmein_Start",
+                            "@type": "svg",
+                            "@href": "Images/svg/1057667339__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "81064794359412748",
+                            "@label": "1066743820",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "1.27",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "1.27",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "."}
+                    ]
+                },
+                "results": {"result":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1375873035",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "0CA22552-9F17-466D-8FC4-D265B5D5C20F",
+                    "@fragment-element": "result",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "45035997649577995",
+                    "@id": "45035997649577995-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "The programme has ended when the display shows"},
+                            {"variable":                             {
+                                "@linkid": "1375964172",
+                                "@name": "1058",
+                                "@detailed-topic-type": "Display text",
+                                "@variableType": "Standard",
+                                "@variable": "Finished",
+                                "@variableName": "Fertig",
+                                "@variant": "1001",
+                                "@variantName": "Bosch - TFT Display",
+                                "$": "\"Finished\""
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }}
+            }},
+            "hint":             {
+                "@hint-type": "multi",
+                "@type": "device-oriented",
+                "@class": "TextModule2",
+                "@base-id": "2128577931",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "B0899257-4BFB-4F06-A36D-86DA8C79A98A",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "9007201383318923",
+                "@id": "9007201383318923-9",
+                "b": {"$": "Notes:"},
+                "BSHCollectionOfElements":                 [
+                    {"sub-hint": {"p":                     {
+                        "@context": "hint",
+                        "$": "If you want to add more tableware while the appliance is running, do not use the tablet collecting tray as a handle for the top basket. You might touch the partially dissolved tablet."
+                    }}},
+                    {"sub-hint": {"p":                     {
+                        "@context": "hint",
+                        "$": "You can only change a programme when running if you cancel it.",
+                        "link":                         {
+                            "@BSH-Linktype": "Langlink",
+                            "@source-id": "81064793439413003-9",
+                            "@target-id": "90071992694165003-9",
+                            "@use": "grab",
+                            "@target": "Terminate programme",
+                            "@name": "RelatedTopic",
+                            "@id": "81064793654371980",
+                            "@source": "Starting the programme",
+                            "@target-base-id": "146755083",
+                            "@external": "0",
+                            "@linkid": "361703052",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Terminate programme"
+                        }
+                    }}},
+                    {"sub-hint": {"p":                     {
+                        "@context": "hint",
+                        "$": "The appliance switches off automatically 1 minute after the end of the programme to save energy. If you open the appliance door immediately after the programme has ended, the appliance will switch off after 4 seconds."
+                    }}}
+                ]
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "81064793439413003-9",
+                    "@target-id": "9007201383318923-9",
+                    "@label": "B0899257-4BFB-4F06-A36D-86DA8C79A98A",
+                    "@use": "grab",
+                    "@target": "Starting the programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "54043197657024012",
+                    "@source": "Starting the programme",
+                    "@target-base-id": "2128577931",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793439413003-9",
+                    "@target-id": "45035997649577995-9",
+                    "@label": "0CA22552-9F17-466D-8FC4-D265B5D5C20F",
+                    "@use": "grab",
+                    "@target": "Starting the programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "72057595760619148",
+                    "@source": "Starting the programme",
+                    "@target-base-id": "1375873035",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064793439413003-9",
+                    "@target-id": "90071992694165003-9",
+                    "@label": "361703052",
+                    "@use": "grab",
+                    "@target": "Terminate programme",
+                    "@name": "RelatedTopic",
+                    "@id": "81064793654371980",
+                    "@source": "Starting the programme",
+                    "@target-base-id": "146755083",
+                    "@external": "0"
+                }}
+            ]},
+            "image":             {
+                "@name": "SY_allgmein_Start",
+                "@type": "svg",
+                "@href": "Images/svg/1057667339__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "81064794359412748",
+                "@label": "1066743820",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "1.27",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "1.27",
+                "@height-cm": "0.5538611111111111"
+            }
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146749579/scrollto=146749579/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146749579",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "18014398656231563-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Interrupting programme"},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "b": {"$": "Note:"},
+                "p":                 {
+                    "@context": "hint",
+                    "$": "When you open the appliance door once the appliance has heated up, leave the door slightly ajar for a few minutes and then close it. This will help prevent excess pressure building up in the appliance and stop the appliance door bursting open."
+                }
+            },
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "836476684",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "18014399345958668",
+                                "@label": "836476684",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "."}
+                        ]
+                    },
+                    "results": {"result": {"p":                     {
+                        "@context": "instructions",
+                        "$": "The programme is saved and the appliance switches off."
+                    }}}
+                }},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "836476684",
+                            "@name": "SY_Hauptschalter_Standby",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378070027__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "18014399345958668",
+                            "@label": "836476684",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.5044722222222222",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.5044722222222222",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "to resume the programme."}
+                    ]
+                }}}
+            ]},
+            "linklist": "",
+            "image":             {
+                "@name": "SY_Hauptschalter_Standby",
+                "@type": "svg",
+                "@href": "Images/svg/1378070027__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "18014399345958668",
+                "@label": "836476684",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.5044722222222222",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.5044722222222222",
+                "@height-cm": "0.5538611111111111"
+            }
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146755083/scrollto=146755083/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146755083",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "90071992694165003-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Terminate programme"},
+            "shortdesc": {"$": "To end a programme early or to switch from a programme that has already started, you will need to cancel it first."},
+            "instructions":             {
+                "instruction": {"p":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1397333515",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "0530EDFF-696B-4220-A09C-4708AF97EC60",
+                    "@fragment-element": "p",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014399906815499",
+                    "@id": "18014399906815499-9",
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "1397336972",
+                            "@name": "SY_Reset_4_sec",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378331147__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "18014399906818956",
+                            "@label": "1397336972",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "3.3725555555555555",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "3.3725555555555555",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "for approx. 4 seconds."}
+                    ]
+                }},
+                "results": {"BSHCollectionOfElements":                 [
+                    {"result":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "3318335499",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "29976FE8-0B21-4390-BCCA-E007CB951525",
+                        "@fragment-element": "result",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "3318335499",
+                        "@id": "3318335499-9",
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "All displays light up."
+                        }
+                    }},
+                    {"result":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1375971979",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "501D7AAB-618C-4F45-BAAC-EFA37CDB0BEB",
+                        "@fragment-element": "result",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "45035997649676939",
+                        "@id": "45035997649676939-9",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "As soon as the displays are off, the display shows"},
+                                {"variable":                                 {
+                                    "@linkid": "1375975308",
+                                    "@name": "1066",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Program was terminated. ",
+                                    "@variableName": "Programm wurde abgebrochen ",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Program was terminated. \""
+                                }},
+                                {"$": "and then"},
+                                {"variable":                                 {
+                                    "@linkid": "1375975308",
+                                    "@name": "1058",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Finished",
+                                    "@variableName": "Fertig",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Finished\""
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"result": {"p":                     {
+                        "@context": "instructions",
+                        "$": "The programme is cancelled and ends after approx. 1 minute."
+                    }}}
+                ]}
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "90071992694165003-9",
+                    "@target-id": "3318335499-9",
+                    "@label": "29976FE8-0B21-4390-BCCA-E007CB951525",
+                    "@use": "grab",
+                    "@target": "Terminate programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "72057597356263564",
+                    "@source": "Terminate programme",
+                    "@target-base-id": "3318335499",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694165003-9",
+                    "@target-id": "45035997649676939-9",
+                    "@label": "501D7AAB-618C-4F45-BAAC-EFA37CDB0BEB",
+                    "@use": "grab",
+                    "@target": "Terminate programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "81064795057739788",
+                    "@source": "Terminate programme",
+                    "@target-base-id": "1375971979",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694165003-9",
+                    "@target-id": "18014399906815499-9",
+                    "@label": "0530EDFF-696B-4220-A09C-4708AF97EC60",
+                    "@use": "grab",
+                    "@target": "Terminate programme",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "90071993944741004",
+                    "@source": "Terminate programme",
+                    "@target-base-id": "1397333515",
+                    "@external": "0"
+                }}
+            ]},
+            "image":             {
+                "@name": "SY_Reset_4_sec",
+                "@type": "svg",
+                "@href": "Images/svg/1378331147__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "18014399906818956",
+                "@label": "1397336972",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "3.3725555555555555",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "3.3725555555555555",
+                "@height-cm": "0.5538611111111111"
+            }
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=470972555/scrollto=470972555/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "470972555",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "18014398980454539-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Display programme information"},
+            "shortdesc": {"$": "You can show information about programmes and additional functions on the display."},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "632562572",
+                            "@name": "SY_Infotaste",
+                            "@type": "svg",
+                            "@href": "Images/svg/632558347__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "18014399142044556",
+                            "@label": "632562572",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.79375",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.79375",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "."}
+                    ]
+                }}},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Press the programme button or an additional function."
+                }}}
+            ]},
+            "linklist": "",
+            "image":             {
+                "@name": "SY_Infotaste",
+                "@type": "svg",
+                "@href": "Images/svg/632558347__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "18014399142044556",
+                "@label": "632562572",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.79375",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.79375",
+                "@height-cm": "0.5538611111111111"
+            }
+        }},
+        {"node":         {
+            "@file-name": "1824306031704880395.html#!/Togglebox=146760587/scrollto=146760587/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "146760587",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "18014398656242571-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Switching off appliance"},
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Please note the information on"},
+                        {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "18014398656242571-9",
+                            "@target-id": "816673035-9",
+                            "@use": "grab",
+                            "@target": "Safe use",
+                            "@name": "RelatedTopic",
+                            "@id": "18014399632925708",
+                            "@source": "Switching off appliance",
+                            "@target-base-id": "816673035",
+                            "@external": "0",
+                            "@linkid": "1123443724",
+                            "@arrow": "after",
+                            "$": "Safe use"
+                        }},
+                        {"$": "."}
+                    ]
+                }}},
+                {"instruction": {"p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Press"},
+                        {"img":                         {
+                            "@src": "836481164",
+                            "@name": "SY_Hauptschalter_Standby",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378070027__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "18014399345963148",
+                            "@label": "836481164",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.5044722222222222",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.5044722222222222",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "."}
+                    ]
+                }}}
+            ]},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "user-oriented",
+                "b": {"$": "Tip:"},
+                "p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "If you press"},
+                        {"img":                         {
+                            "@src": "836481164",
+                            "@name": "SY_Hauptschalter_Standby",
+                            "@type": "svg",
+                            "@href": "Images/svg/1378070027__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "18014399345963148",
+                            "@label": "836481164",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.5044722222222222",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.5044722222222222",
+                            "@height-cm": "0.5538611111111111"
+                        }},
+                        {"$": "during the wash cycle, the programme currently running will be interrupted. When you switch the appliance back on, the programme continues automatically."}
+                    ]
+                }
+            },
+            "linklist": {"link":             {
+                "@source-id": "18014398656242571-9",
+                "@target-id": "816673035-9",
+                "@label": "1123443724",
+                "@use": "grab",
+                "@target": "Safe use",
+                "@name": "RelatedTopic",
+                "@id": "18014399632925708",
+                "@source": "Switching off appliance",
+                "@target-base-id": "816673035",
+                "@external": "0"
+            }},
+            "image":             {
+                "@name": "SY_Hauptschalter_Standby",
+                "@type": "svg",
+                "@href": "Images/svg/1378070027__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "18014399345963148",
+                "@label": "836481164",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.5044722222222222",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.5044722222222222",
+                "@height-cm": "0.5538611111111111"
+            }
+        }}
+    ]
+}

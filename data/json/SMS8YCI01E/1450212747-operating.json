@@ -1,0 +1,3052 @@
+{
+    "@file-name": "1450212747-operating1450212747-operating.html",
+    "@class": "Concept-operating",
+    "@type": "TextNode",
+    "@id": "108086392507104651-9-operating",
+    "@base-id": "1450212747-operating",
+    "@base-reuseid": "1450212747-operating",
+    "@icon-name": "operating",
+    "@is-page": "true",
+    "@is-top-theme": "true",
+    "@childrencount": "6",
+    "@is-distributor": "false",
+    "@level": "1",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Operate"},
+    "shortdesc": {"$": "Find out about the components and functions of your appliance."},
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "1450212747-operating1450212747-operating.html#!/Togglebox=1825294191704875147/scrollto=1825294191704875147/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@reuseid": "63050396488062091",
+            "@base-reuseid": "1704875147",
+            "@base-id": "182529419",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "36028797201493387-9",
+            "@icon-name": "productdescription",
+            "@is-page": "false",
+            "@childrencount": "6",
+            "@is-distributor": "true",
+            "@level": "2",
+            "title": {"$": "Familiarising yourself with your appliance"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "2805147915",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1BB156A7-9BF8-4B0E-9759-9FDD81617D1C",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "2805147915",
+                "@id": "2805147915-9",
+                "$": "Familiarise yourself with the parts of your appliance."
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "36028797201493387-9",
+                    "@target-id": "99079191949643147-9",
+                    "@label": "1704875660",
+                    "@use": "grab",
+                    "@target": "Appliance",
+                    "@name": "InformationLink",
+                    "@id": "63050396488062604",
+                    "@source": "Familiarising yourself with your appliance",
+                    "@target-base-id": "147492235",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028797201493387-9",
+                    "@target-id": "315251974344075787-9",
+                    "@label": "1704876044",
+                    "@use": "grab",
+                    "@target": "Controls",
+                    "@name": "InformationLink",
+                    "@id": "63050396488062988",
+                    "@source": "Familiarising yourself with your appliance",
+                    "@target-base-id": "428141067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028797201493387-9",
+                    "@target-id": "2805147915-9",
+                    "@label": "1BB156A7-9BF8-4B0E-9759-9FDD81617D1C",
+                    "@use": "grab",
+                    "@target": "Familiarising yourself with your appliance",
+                    "@name": "TextModuleLink",
+                    "@id": "18014401317920268",
+                    "@source": "Familiarising yourself with your appliance",
+                    "@target-base-id": "2805147915",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "1450212747-operating1450212747-operating.html#!/Togglebox=1469033075305070347/scrollto=1469033075305070347/",
+            "@class": "Reference",
+            "@type": "TextNode",
+            "@reuseid": "27021603069293323",
+            "@base-reuseid": "5305070347",
+            "@base-id": "146903307",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "135107988968018187-9",
+            "@icon-name": "productdescription",
+            "@is-page": "false",
+            "@childrencount": "2",
+            "@is-distributor": "true",
+            "@level": "2",
+            "title": {"$": "Programmes"},
+            "shortdesc": {"$": "You can find an overview of the programmes that can be selected here. Different programmes, which can be found on the control panel of your appliance, are available depending on the appliance configuration."},
+            "BSHCollectionOfElements":             [
+                {"p": {"$": "The running time may vary depending on the programme selected. The running time depends on the water temperature, the quantity of tableware, the level of soiling and the additional function selected. The running time will change if the rinse aid system is switched off or rinse aid needs to be added."}},
+                {"p": {"BSHCollectionOfElements":                 [
+                    {"$": "The consumption values can be found in the quick reference guide. The consumption values relate to normal conditions and a water hardness of"},
+                    {"variable":                     {
+                        "@linkid": "1444513804",
+                        "@name": "1032",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "16 - 20",
+                        "@variableName": "Angaben in Programmübersicht für Wasserhärte zw 13-16°dH",
+                        "@variant": "1018",
+                        "@variantName": "GV6xx TFT Premium/Added Value",
+                        "$": "16 - 20"
+                    }},
+                    {"$": " "},
+                    {"variable":                     {
+                        "@linkid": "2242112012",
+                        "@name": "1024",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "°E",
+                        "@variableName": "Wasserhärte",
+                        "@variant": "1051",
+                        "@variantName": "GV6xx P5_A3 EU",
+                        "$": "°E"
+                    }},
+                    {"$": ". Different influencing factors such as water temperature or pipe pressure may result in deviations."}
+                ]}},
+                {"properties":                 {
+                    "@flipTable": "false",
+                    "@presentation": "table",
+                    "@propertie-count": "4",
+                    "@relcolwidth": "20 30 30 20",
+                    "@hsdl-percent": "20% 30% 30% 20%",
+                    "prophead":                     {
+                        "proptypehd":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "1",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Programme:"
+                            }
+                        },
+                        "propvaluehd":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "2",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Use"
+                            }
+                        },
+                        "propdeschd":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "3",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Programme sequence"
+                            }
+                        },
+                        "addpropdeschd":                         {
+                            "@valign": "top",
+                            "@align": "left",
+                            "@col-index": "4",
+                            "p":                             {
+                                "@context": "Cond",
+                                "$": "Additional functions"
+                            }
+                        }
+                    },
+                    "property":                     [
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146914443",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "79E6B49F-8A4B-41AE-A507-B8EA585453FC",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043195675360395",
+                            "@id": "54043195675360395-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "1561576716",
+                                        "@name": "SY_642_650_BO_Intensiv_70_I0",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200729075595__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "54043197090022668",
+                                        "@label": "1561576716",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.8078611111111111",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.8078611111111111",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "602299915",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "98A45F23-1F33-4F38-A930-F1A4CF548596",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028797621263883",
+                                    "@id": "36028797621263883-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3869384972",
+                                        "@name": "1002",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Intensive 70°",
+                                        "@variableName": "Intensive 0",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Intensive 70°"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Washing pots and pans, non-fragile tableware and cutlery."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing stubborn burned or dried-on food remnants containing starch and protein."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Intensive:"
+                                    }},
+                                    "li":                                     [
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Pre-Rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning 70 °C"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Intermediate rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$":                                                 [
+                                                    "Final rinse",
+                                                    {"variable":                                                     {
+                                                        "@linkid": "4129647884",
+                                                        "@name": "1010",
+                                                        "@detailed-topic-type": "Technical value",
+                                                        "@variableType": "Standard",
+                                                        "@variable": "50",
+                                                        "@variableName": "Intensive ",
+                                                        "@variant": "1036",
+                                                        "@variantName": "Zeo + EDA 6xx",
+                                                        "$": "50"
+                                                    }},
+                                                    " °C"
+                                                ]
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Drying"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": "All"
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195675360395-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195688410508",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331149580",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146922763",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "F42BF70A-81C8-4F27-8E4A-6BEFE16B8AD4",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043195675368715",
+                            "@id": "54043195675368715-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2403958796",
+                                        "@name": "SY_642_650_BO_Auto_45-65",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200727124107__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "54043197932404748",
+                                        "@label": "2403958796",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "1.2982222222222221",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "1.2982222222222221",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "602346123",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "9FB93977-4AAC-4588-8BF3-49687492ADE3",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028797621310091",
+                                    "@id": "36028797621310091-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3866842892",
+                                        "@name": "1305",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Auto 45-65°",
+                                        "@variableName": "Auto 0",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Auto 45-65°"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning mixed tableware and cutlery."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing common household food remnants lightly dried-on."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Sensor-controlled:"
+                                    }},
+                                    "li":                                     {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Optimised by sensors depending on the soiling of the rinsing water."
+                                        }
+                                    }
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": "All"
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195675368715-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195688411916",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331149964",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146929547",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "8A6C8BFA-ED49-41EC-9DE1-F987AC49552A",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043195675375499",
+                            "@id": "54043195675375499-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2403962124",
+                                        "@name": "SY_642_650_BO_Eco_50_I0",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200729051531__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "54043197932408076",
+                                        "@label": "2403962124",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.9948333333333333",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.9948333333333333",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "602426635",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "3FD6D731-0D5F-44B3-B29A-7D7918C041EE",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028797621390603",
+                                    "@id": "36028797621390603-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3869191692",
+                                        "@name": "1406",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Eco 50°",
+                                        "@variableName": "Eco 0",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Eco 50°"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning mixed tableware and cutlery."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing common household food remnants lightly dried-on."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "4045512331",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "45E08013-BEAC-4A58-8482-FC4360E376BC",
+                                    "@fragment-element": "ul",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "4045512331",
+                                    "@id": "4045512331-9",
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Most economical programme:"
+                                    }},
+                                    "li":                                     [
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Pre-Rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning 50 °C"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Intermediate rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$":                                                 [
+                                                    "Final rinse",
+                                                    {"variable":                                                     {
+                                                        "@linkid": "4130707340",
+                                                        "@name": "1027",
+                                                        "@detailed-topic-type": "Technical value",
+                                                        "@variableType": "Standard",
+                                                        "@variable": "35",
+                                                        "@variableName": "Eco",
+                                                        "@variant": "1036",
+                                                        "@variantName": "Zeo + EDA 6xx",
+                                                        "$": "35"
+                                                    }},
+                                                    " °C"
+                                                ]
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Drying"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": "All"
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195675375499-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195688413324",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331150348",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146936331",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "8BF7ECF5-F40A-4342-BF05-D3A43A619400",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "63050394930123275",
+                            "@id": "63050394930123275-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2404078220",
+                                        "@name": "SY_642_650_BO_Silence_50_I1",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200729549707__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "63050397187265164",
+                                        "@label": "2404078220",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.508",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.508",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "602462219",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "C7A49132-D63A-4919-BC1B-955EF849D403",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "45035996876167179",
+                                    "@id": "45035996876167179-9",
+                                    "@context": "Cond",
+                                    "$":                                     [
+                                        {"variable":                                         {
+                                            "@linkid": "3869492492",
+                                            "@name": "2013",
+                                            "@detailed-topic-type": "Non-specific",
+                                            "@variableType": "Standard",
+                                            "@variable": "Silence 50",
+                                            "@variableName": "Night Program 1",
+                                            "@variant": "1001",
+                                            "@variantName": "Index",
+                                            "$": "Silence 50"
+                                        }},
+                                        " "
+                                    ]
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning mixed tableware and cutlery."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing common household food remnants lightly dried-on."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Reduced noise:"
+                                    }},
+                                    "li":                                     [
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Pre-Rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning 50 °C"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Intermediate rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$":                                                 [
+                                                    "Final rinse",
+                                                    {"variable":                                                     {
+                                                        "@linkid": "4130674188",
+                                                        "@name": "1019",
+                                                        "@detailed-topic-type": "Technical value",
+                                                        "@variableType": "Standard",
+                                                        "@variable": "35",
+                                                        "@variableName": "Night Program",
+                                                        "@variant": "1036",
+                                                        "@variantName": "Zeo + EDA 6xx",
+                                                        "$": "35"
+                                                    }},
+                                                    " °C"
+                                                ]
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Drying"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": "All"
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "63050394930123275-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "63050394943157644",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331149452",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146943883",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "10FF7A3E-3AEA-411D-89A5-CC7E40E873C5",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043195675389835",
+                            "@id": "54043195675389835-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2404110348",
+                                        "@name": "SY_642_650_BO_Delicate_40_I0",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200728937483__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "54043197932556300",
+                                        "@label": "2404110348",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.29633333333333333",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.29633333333333333",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "602509451",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "731AE867-997D-4636-8817-D00E089AE6A0",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028797621473419",
+                                    "@id": "36028797621473419-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3868502028",
+                                        "@name": "1507",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Glass 40°",
+                                        "@variableName": "Delicate 0",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Glass 40°"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning delicate tableware, cutlery, temperature-sensitive plastics, glasses and stemware in the stemware basket."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing lightly adhering fresh food remnants."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Particularly gentle:"
+                                    }},
+                                    "li":                                     [
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Pre-Rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning 40 °C"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Intermediate rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$":                                                 [
+                                                    "Final rinse",
+                                                    {"variable":                                                     {
+                                                        "@linkid": "4110493708",
+                                                        "@name": "1020",
+                                                        "@detailed-topic-type": "Technical value",
+                                                        "@variableType": "Standard",
+                                                        "@variable": "50",
+                                                        "@variableName": "Delicate",
+                                                        "@variant": "1036",
+                                                        "@variantName": "Zeo + EDA 6xx",
+                                                        "$": "50"
+                                                    }},
+                                                    " °C"
+                                                ]
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Drying"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@class": "TextModule2",
+                                        "@base-id": "693988363",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "3511024396",
+                                        "@fragment-element": "p",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "18014399203470347",
+                                        "@id": "18014399203470347-25",
+                                        "@context": "Cond",
+                                        "$": {"variable":                                         {
+                                            "@linkid": "3869215500",
+                                            "@name": "1608",
+                                            "@detailed-topic-type": "Non-specific",
+                                            "@variableType": "Standard",
+                                            "@variable": "ExtraDry",
+                                            "@variableName": "Extra Dry 0",
+                                            "@variant": "1001",
+                                            "@variantName": "Index",
+                                            "$": "ExtraDry"
+                                        }}
+                                    },
+                                                                        {
+                                        "@class": "TextModule2",
+                                        "@base-id": "694056459",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "3511024012",
+                                        "@fragment-element": "p",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "18014399203538443",
+                                        "@id": "18014399203538443-17",
+                                        "@context": "Cond",
+                                        "$": {"variable":                                         {
+                                            "@linkid": "3869430156",
+                                            "@name": "1103",
+                                            "@detailed-topic-type": "Non-specific",
+                                            "@variableType": "Standard",
+                                            "@variable": "IntensiveZone",
+                                            "@variableName": "Intensive Zone 0",
+                                            "@variant": "1001",
+                                            "@variantName": "Index",
+                                            "$": "IntensiveZone"
+                                        }}
+                                    },
+                                                                        {
+                                        "@class": "TextModule2",
+                                        "@base-id": "3762859659",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "3785143820",
+                                        "@fragment-element": "p",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "18014402272341643",
+                                        "@id": "18014402272341643-17",
+                                        "@context": "Cond",
+                                        "$": {"variable":                                         {
+                                            "@linkid": "3870499468",
+                                            "@name": "2518",
+                                            "@detailed-topic-type": "Non-specific",
+                                            "@variableType": "Standard",
+                                            "@variable": "SpeedPerfect+",
+                                            "@variableName": "SpoD VarioSpeedPlus / VarioSpeedPlus 1",
+                                            "@variant": "1001",
+                                            "@variantName": "Index",
+                                            "$": "SpeedPerfect+"
+                                        }}
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "54043195675389835-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "54043195688419596",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331150988",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146958219",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "F7E1DACD-47A3-40A4-B345-D50BC05FA30D",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "45035996420663179",
+                            "@id": "45035996420663179-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2404073228",
+                                        "@name": "SY_642_650_BO_Kurz_60_I1",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200729808779__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "45035998677778188",
+                                        "@label": "2404073228",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.7478888888888888",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.7478888888888888",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "2369285771",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "F6F49CAB-6B71-4C97-984C-F4F55F661F2D",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "45035998642990731",
+                                    "@id": "45035998642990731-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3869797644",
+                                        "@name": "3124",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Express 60°",
+                                        "@variableName": "Short 1",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Express 60°"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning mixed tableware and cutlery."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing common household food remnants lightly dried-on."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Time-optimised:"
+                                    }},
+                                    "li":                                     [
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning 60 °C"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Intermediate rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$":                                                 [
+                                                    "Final rinse",
+                                                    {"variable":                                                     {
+                                                        "@linkid": "4130681356",
+                                                        "@name": "1022",
+                                                        "@detailed-topic-type": "Technical value",
+                                                        "@variableType": "Standard",
+                                                        "@variable": "50",
+                                                        "@variableName": "Short",
+                                                        "@variant": "1036",
+                                                        "@variantName": "Zeo + EDA 6xx",
+                                                        "$": "50"
+                                                    }},
+                                                    " °C"
+                                                ]
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Drying"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": "All"
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "45035996420663179-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "45035996433682188",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331151756",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146965003",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "5253638D-3B95-4DE3-A144-44B7CEF37DD3",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "72057594184892939",
+                            "@id": "72057594184892939-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2404112012",
+                                        "@name": "SY_642_650_BO_QuickS_I6",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200729783947__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "72057596442039948",
+                                        "@label": "2404112012",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.6067777777777777",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.6067777777777777",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "2372416779",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "4DC7ED1C-8AD5-4A74-AC62-4D17D45A98B0",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "45035998646121739",
+                                    "@id": "45035998646121739-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3869726220",
+                                        "@name": "1715",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Express 45°",
+                                        "@variableName": "Quick S 6",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Express 45°"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "ul":                                 [
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Tableware:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning delicate tableware, cutlery, temperature-sensitive plastics and glasses."
+                                            }
+                                        }
+                                    },
+                                                                        {
+                                        "intro": {"p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Level of soiling:"
+                                        }},
+                                        "li":                                         {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Removing lightly adhering fresh food remnants."
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "ul":                                 {
+                                    "intro": {"p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Time-optimised:"
+                                    }},
+                                    "li":                                     [
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Cleaning 45 °C"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$": "Intermediate rinse"
+                                            }
+                                        },
+                                                                                {
+                                            "@context": "Cond",
+                                            "p":                                             {
+                                                "@context": "Cond",
+                                                "$":                                                 [
+                                                    "Final rinse",
+                                                    {"variable":                                                     {
+                                                        "@linkid": "4130679692",
+                                                        "@name": "1024",
+                                                        "@detailed-topic-type": "Technical value",
+                                                        "@variableType": "Standard",
+                                                        "@variable": "50",
+                                                        "@variableName": "Quick S",
+                                                        "@variant": "1036",
+                                                        "@variantName": "Zeo + EDA 6xx",
+                                                        "$": "50"
+                                                    }},
+                                                    " °C"
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 [
+                                                                        {
+                                        "@class": "TextModule2",
+                                        "@base-id": "693988363",
+                                        "@chapternumbering": "yes",
+                                        "@showintoc": "yes",
+                                        "@linkid": "3511026188",
+                                        "@fragment-element": "p",
+                                        "@aspect-name": "en",
+                                        "@specific-culture": "en-GB",
+                                        "@ref": "18014399203470347",
+                                        "@id": "18014399203470347-26",
+                                        "@context": "Cond",
+                                        "$": {"variable":                                         {
+                                            "@linkid": "3869215500",
+                                            "@name": "1608",
+                                            "@detailed-topic-type": "Non-specific",
+                                            "@variableType": "Standard",
+                                            "@variable": "ExtraDry",
+                                            "@variableName": "Extra Dry 0",
+                                            "@variant": "1001",
+                                            "@variantName": "Index",
+                                            "$": "ExtraDry"
+                                        }}
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "$": {"link":                                         {
+                                            "@BSH-Linktype": "Langlink in Properties",
+                                            "@source-id": "72057594184892939-9",
+                                            "@target-id": "99079191949142923-9",
+                                            "@use": "grab",
+                                            "@target": "Additional functions",
+                                            "@name": "RelatedTopic",
+                                            "@id": "72057594197907340",
+                                            "@target-base-id": "146992011",
+                                            "@external": "0",
+                                            "@linkid": "331152140",
+                                            "@dynamic": "true",
+                                            "@arrow": "before",
+                                            "$": "Additional functions"
+                                        }}
+                                    }
+                                ]
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "146978955",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "31304330-E16E-4F7E-B395-F0D2C8826F5C",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043195675424907",
+                            "@id": "54043195675424907-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2404074892",
+                                        "@name": "SY_642_650_BO_MachineCare_I0",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007200729511563__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "54043197932520844",
+                                        "@label": "2404074892",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.5185833333333333",
+                                        "@st4-height-cm": "0.5503333333333333",
+                                        "@width-cm": "0.5185833333333333",
+                                        "@height-cm": "0.5503333333333333"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "602486155",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "0B9B9220-9E6B-498C-96DB-EF9B4021EB86",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028797621450123",
+                                    "@id": "36028797621450123-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3869465612",
+                                        "@name": "3325",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Machine Care",
+                                        "@variableName": "Machine Care 0",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Machine Care"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Only when using unloaded appliance."
+                                }
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "Machine Care 70 °C"
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "None"
+                                }
+                            }
+                        },
+                                                {
+                            "@class": "TextModule2",
+                            "@base-id": "2821262859",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "3654814604",
+                            "@fragment-element": "property",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "54043198349708811",
+                            "@id": "54043198349708811-9",
+                            "proptype":                             {
+                                "@col-index": "1",
+                                "image-container":                                 {
+                                    "@type": "img_original",
+                                    "@image-page": "false-imageInProperty",
+                                    "img":                                     {
+                                        "@src": "2821267724",
+                                        "@name": "SY_642_650_BO_Favourite_I0",
+                                        "@type": "svg",
+                                        "@href": "Images/svg/9007201982172427__Web.svg",
+                                        "@class": "GraficResource",
+                                        "@link-id": "54043198349713676",
+                                        "@label": "2821267724",
+                                        "@dpi": "720",
+                                        "@aspect": "en",
+                                        "@source-aspect": "All",
+                                        "@st4-width-cm": "0.5785555555555555",
+                                        "@st4-height-cm": "0.5538611111111111",
+                                        "@width-cm": "0.5785555555555555",
+                                        "@height-cm": "0.5538611111111111"
+                                    }
+                                },
+                                "p":                                 {
+                                    "@class": "TextModule2",
+                                    "@base-id": "3634842123",
+                                    "@chapternumbering": "yes",
+                                    "@showintoc": "yes",
+                                    "@linkid": "48B7C20D-E447-47FB-ABF3-9A942F0FFE5F",
+                                    "@fragment-element": "p",
+                                    "@aspect-name": "en",
+                                    "@specific-culture": "en-GB",
+                                    "@ref": "36028800653806091",
+                                    "@id": "36028800653806091-9",
+                                    "@context": "Cond",
+                                    "$": {"variable":                                     {
+                                        "@linkid": "3868481804",
+                                        "@name": "3830",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Favourite",
+                                        "@variableName": "Custom Program 0",
+                                        "@variant": "1001",
+                                        "@variantName": "Index",
+                                        "$": "Favourite"
+                                    }}
+                                }
+                            },
+                            "propvalue":                             {
+                                "@col-index": "2",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "-"
+                                }
+                            },
+                            "propdesc":                             {
+                                "@col-index": "3",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "-"
+                                }
+                            },
+                            "addpropdesc":                             {
+                                "@col-index": "4",
+                                "p":                                 {
+                                    "@context": "Cond",
+                                    "$": "-"
+                                }
+                            }
+                        }
+                    ]
+                }},
+                {"hint":                 {
+                    "@hint-type": "single",
+                    "@type": "device-oriented",
+                    "@class": "TextModule2",
+                    "@base-id": "4316169739",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "BB51C62D-2ADF-48F7-A940-F38BA6B43C4C",
+                    "@fragment-element": "hint",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "4316169739",
+                    "@id": "4316169739-9",
+                    "b": {"$": "Note:"},
+                    "p":                     {
+                        "@context": "hint",
+                        "$": "The relatively long running time in the Eco 50 ° programme is due to longer soaking and drying times. This results in optimal consumption values."
+                    }
+                }},
+                {"linklist": {"BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "146986507-9",
+                        "@label": "334922764",
+                        "@use": "grab",
+                        "@target": "Information for test institutes",
+                        "@name": "InformationLink",
+                        "@id": "27021603069293836",
+                        "@source": "Programmes",
+                        "@target-base-id": "146986507",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "72057599339012491-9",
+                        "@label": "10840884876",
+                        "@use": "grab",
+                        "@target": "Favourite",
+                        "@name": "InformationHierarchy",
+                        "@id": "10840884876",
+                        "@source": "Programmes",
+                        "@target-base-id": "10840884747",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "4316169739-9",
+                        "@label": "BB51C62D-2ADF-48F7-A940-F38BA6B43C4C",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "108086395373066508",
+                        "@source": "Programmes",
+                        "@target-base-id": "4316169739",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "54043195675368715-9",
+                        "@label": "F42BF70A-81C8-4F27-8E4A-6BEFE16B8AD4",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991344629004",
+                        "@source": "Programmes",
+                        "@target-base-id": "146922763",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "54043195675375499-9",
+                        "@label": "8A6C8BFA-ED49-41EC-9DE1-F987AC49552A",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345039756",
+                        "@source": "Programmes",
+                        "@target-base-id": "146929547",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "54043195675360395-9",
+                        "@label": "79E6B49F-8A4B-41AE-A507-B8EA585453FC",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345041292",
+                        "@source": "Programmes",
+                        "@target-base-id": "146914443",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "45035996420663179-9",
+                        "@label": "F7E1DACD-47A3-40A4-B345-D50BC05FA30D",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345042060",
+                        "@source": "Programmes",
+                        "@target-base-id": "146958219",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "54043195675424907-9",
+                        "@label": "31304330-E16E-4F7E-B395-F0D2C8826F5C",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345042444",
+                        "@source": "Programmes",
+                        "@target-base-id": "146978955",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "63050394930123275-9",
+                        "@label": "8BF7ECF5-F40A-4342-BF05-D3A43A619400",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345043212",
+                        "@source": "Programmes",
+                        "@target-base-id": "146936331",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "54043195675389835-9",
+                        "@label": "10FF7A3E-3AEA-411D-89A5-CC7E40E873C5",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345044748",
+                        "@source": "Programmes",
+                        "@target-base-id": "146943883",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "72057594184892939-9",
+                        "@label": "5253638D-3B95-4DE3-A144-44B7CEF37DD3",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107991345045132",
+                        "@source": "Programmes",
+                        "@target-base-id": "146965003",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "135107988968018187-9",
+                        "@target-id": "54043198349708811-9",
+                        "@label": "3654814604",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "135107992475929484",
+                        "@source": "Programmes",
+                        "@target-base-id": "2821262859",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675368715-9",
+                        "@target-id": "36028797621310091-9",
+                        "@label": "9FB93977-4AAC-4588-8BF3-49687492ADE3",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511692556",
+                        "@target-base-id": "602346123",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675368715-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331149964",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "54043195688411916",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675375499-9",
+                        "@target-id": "36028797621390603-9",
+                        "@label": "3FD6D731-0D5F-44B3-B29A-7D7918C041EE",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511694476",
+                        "@target-base-id": "602426635",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675375499-9",
+                        "@target-id": "4045512331-9",
+                        "@label": "45E08013-BEAC-4A58-8482-FC4360E376BC",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "45036000319222028",
+                        "@target-base-id": "4045512331",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675375499-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331150348",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "54043195688413324",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675360395-9",
+                        "@target-id": "36028797621263883-9",
+                        "@label": "98A45F23-1F33-4F38-A930-F1A4CF548596",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511695244",
+                        "@target-base-id": "602299915",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675360395-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331149580",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "54043195688410508",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "45035996420663179-9",
+                        "@target-id": "45035998642990731-9",
+                        "@label": "F6F49CAB-6B71-4C97-984C-F4F55F661F2D",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "18014404256958092",
+                        "@target-base-id": "2369285771",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "45035996420663179-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331151756",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "45035996433682188",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675424907-9",
+                        "@target-id": "36028797621450123-9",
+                        "@label": "0B9B9220-9E6B-498C-96DB-EF9B4021EB86",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511696012",
+                        "@target-base-id": "602486155",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394930123275-9",
+                        "@target-id": "45035996876167179-9",
+                        "@label": "C7A49132-D63A-4919-BC1B-955EF849D403",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511697164",
+                        "@target-base-id": "602462219",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394930123275-9",
+                        "@target-id": "54043195675463307-9",
+                        "@label": "322903948",
+                        "@use": "copy",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "63050394943154956",
+                        "@target-base-id": "147017355",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394930123275-9",
+                        "@target-id": "54043195675457291-9",
+                        "@label": "322904204",
+                        "@use": "copy",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "63050394943155724",
+                        "@target-base-id": "147011339",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394930123275-9",
+                        "@target-id": "63050394930210315-9",
+                        "@label": "322904332",
+                        "@use": "copy",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "63050394943156108",
+                        "@target-base-id": "147023371",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "63050394930123275-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331149452",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "63050394943157644",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675389835-9",
+                        "@target-id": "36028797621473419-9",
+                        "@label": "731AE867-997D-4636-8817-D00E089AE6A0",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511691404",
+                        "@target-base-id": "602509451",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675389835-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331150988",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "54043195688419596",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675389835-9",
+                        "@target-id": "18014399203538443-17",
+                        "@label": "3511024012",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "54043199039469964",
+                        "@target-base-id": "694056459",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675389835-9",
+                        "@target-id": "18014399203470347-25",
+                        "@label": "3511024396",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "54043199039470348",
+                        "@target-base-id": "693988363",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043195675389835-9",
+                        "@target-id": "18014402272341643-17",
+                        "@label": "3785143820",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "54043199313589772",
+                        "@target-base-id": "3762859659",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057594184892939-9",
+                        "@target-id": "45035998646121739-9",
+                        "@label": "4DC7ED1C-8AD5-4A74-AC62-4D17D45A98B0",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "45036002021180684",
+                        "@target-base-id": "2372416779",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057594184892939-9",
+                        "@target-id": "63050394930210315-9",
+                        "@label": "322906380",
+                        "@use": "copy",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "72057594197905804",
+                        "@target-base-id": "147023371",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057594184892939-9",
+                        "@target-id": "99079191949142923-9",
+                        "@label": "331152140",
+                        "@use": "grab",
+                        "@target": "Additional functions",
+                        "@name": "RelatedTopic",
+                        "@id": "72057594197907340",
+                        "@target-base-id": "146992011",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057594184892939-9",
+                        "@target-id": "18014399203470347-25",
+                        "@label": "3511026188",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "72057597548954124",
+                        "@target-base-id": "693988363",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "54043198349708811-9",
+                        "@target-id": "36028800653806091-9",
+                        "@label": "48B7C20D-E447-47FB-ABF3-9A942F0FFE5F",
+                        "@use": "grab",
+                        "@target": "Programmes",
+                        "@name": "TextModuleLink",
+                        "@id": "27021603511691020",
+                        "@target-base-id": "3634842123",
+                        "@external": "0"
+                    }}
+                ]}},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Auto_45-65",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200727124107__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197932404748",
+                    "@label": "2403958796",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "1.2982222222222221",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "1.2982222222222221",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Eco_50_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200729051531__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197932408076",
+                    "@label": "2403962124",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.9948333333333333",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.9948333333333333",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Intensiv_70_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200729075595__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197090022668",
+                    "@label": "1561576716",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.8078611111111111",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.8078611111111111",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Kurz_60_I1",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200729808779__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "45035998677778188",
+                    "@label": "2404073228",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.7478888888888888",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.7478888888888888",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_MachineCare_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200729511563__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197932520844",
+                    "@label": "2404074892",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5185833333333333",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.5185833333333333",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Silence_50_I1",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200729549707__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "63050397187265164",
+                    "@label": "2404078220",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.508",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.508",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Delicate_40_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200728937483__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197932556300",
+                    "@label": "2404110348",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.29633333333333333",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.29633333333333333",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_QuickS_I6",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200729783947__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "72057596442039948",
+                    "@label": "2404112012",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.6067777777777777",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.6067777777777777",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Favourite_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007201982172427__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043198349713676",
+                    "@label": "2821267724",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5785555555555555",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5785555555555555",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1450212747-operating1450212747-operating.html#!/Togglebox=146992011/scrollto=146992011/",
+            "@class": "Reference",
+            "@type": "TextNode",
+            "@base-id": "146992011",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079191949142923-9",
+            "@icon-name": "productdescription",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "true",
+            "@level": "2",
+            "title": {"$": "Additional functions"},
+            "shortdesc": {"$": "You can find an overview of the additional functions that can be selected here. Different additional functions, which can be found on the control panel of your appliance, are available depending on the appliance configuration."},
+            "properties":             {
+                "@flipTable": "false",
+                "@presentation": "table",
+                "@propertie-count": "2",
+                "@relcolwidth": "40 60",
+                "@hsdl-percent": "40% 60%",
+                "prophead":                 {
+                    "proptypehd":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Additional function"
+                        }
+                    },
+                    "propvaluehd":                     {
+                        "@valign": "top",
+                        "@align": "left",
+                        "@col-index": "2",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Use"
+                        }
+                    }
+                },
+                "property":                 [
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "3762753291",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3763374988",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "36028800781717259",
+                        "@id": "36028800781717259-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "image-container":                             {
+                                "@type": "img_original",
+                                "@image-page": "false-imageInProperty",
+                                "img":                                 {
+                                    "@src": "3763159052",
+                                    "@name": "SY_642_650_BO_Speed_Perfect_Plus_I1",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007200732859403__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028800782123020",
+                                    "@label": "3763159052",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "1.04775",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "1.04775",
+                                    "@height-cm": "0.5538611111111111"
+                                }
+                            },
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "3762859659",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "3EB547F5-0AC2-4EDE-93B7-BE1D3E41D6C6",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "18014402272341643",
+                                "@id": "18014402272341643-18",
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "3870499468",
+                                    "@name": "2518",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "SpeedPerfect+",
+                                    "@variableName": "SpoD VarioSpeedPlus / VarioSpeedPlus 1",
+                                    "@variant": "1001",
+                                    "@variantName": "Index",
+                                    "$": "SpeedPerfect+"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "ul":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "3763217291",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "3763371148",
+                                "@fragment-element": "ul",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "3763217291",
+                                "@id": "3763217291-9",
+                                "li":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "The run time is shortened by 15% to 75% depending on the rinse programme."
+                                        }
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "The additional function can be activated before the start of the programme and at any time when the programme is running."
+                                        }
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Energy and water consumption are increased."
+                                        }
+                                    }
+                                ]
+                            },
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "3853446923",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "6364853388",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "18014402362928907",
+                                "@id": "18014402362928907-9",
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "If you select this additional function,",
+                                    {"link":                                     {
+                                        "@BSH-Linktype": "Kurzlink",
+                                        "@source-id": "18014402362928907-9",
+                                        "@target-id": "117093590458818571-9",
+                                        "@use": "grab",
+                                        "@target": "Overview of basic settings",
+                                        "@name": "RelatedTopic",
+                                        "@id": "18014402362932492",
+                                        "@target-base-id": "147185675",
+                                        "@external": "0",
+                                        "@linkid": "3853450508",
+                                        "@arrow": "after",
+                                        "$": "automatic door opening"
+                                    }},
+                                    "in the",
+                                    {"variable":                                     {
+                                        "@linkid": "3853450636",
+                                        "@name": "1079",
+                                        "@detailed-topic-type": "Display text",
+                                        "@variableType": "Standard",
+                                        "@variable": "On with Eco 50°",
+                                        "@variableName": "Basic Settings - Türöffnung in allen Programmen: Ein im Programm Eco 50°",
+                                        "@variant": "1001",
+                                        "@variantName": "Bosch - TFT Display",
+                                        "$": "\"On with Eco 50°\""
+                                    }},
+                                    "setting is deactivated."
+                                ]
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "147011339",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "9322EB1C-5A7C-41EB-9F79-4907BD645871",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195675457291",
+                        "@id": "54043195675457291-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "image-container":                             {
+                                "@type": "img_original",
+                                "@image-page": "false-imageInProperty",
+                                "img":                                 {
+                                    "@src": "1701938188",
+                                    "@name": "SY_642_650_BO_Hygiene_Plus_I9",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007200731401355__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "54043197230384140",
+                                    "@label": "1701938188",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "1.478138888888889",
+                                    "@st4-height-cm": "0.5503333333333333",
+                                    "@width-cm": "1.478138888888889",
+                                    "@height-cm": "0.5503333333333333"
+                                }
+                            },
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "2380185867",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "C978F75A-05F1-4585-942E-3467CC2C9AAC",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "18014400889667851",
+                                "@id": "18014400889667851-9",
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "3869306380",
+                                    "@name": "1415",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "Hygiene+",
+                                    "@variableName": "Hygiene Plus 9",
+                                    "@variant": "1001",
+                                    "@variantName": "Index",
+                                    "$": "Hygiene+"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "ul":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "1701964939",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "19A7DE20-6906-4F3B-928A-D7C5DBD56C9A",
+                                "@fragment-element": "ul",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "1701964939",
+                                "@id": "1701964939-9",
+                                "li":                                 [
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "To ensure a higher hygiene status for the appliance and tableware, the temperature is raised and maintained for an extra-long period."
+                                        }
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Especially suitable for cleaning chopping boards or baby bottles."
+                                        }
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "Continuous use of this function increases the hygiene status."
+                                        }
+                                    },
+                                                                        {
+                                        "@context": "Cond",
+                                        "p":                                         {
+                                            "@context": "Cond",
+                                            "$": "This will increase the run time and energy consumption."
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "147017355",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "7AD6671C-86BA-40ED-B242-CD8F6B740E9F",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "54043195675463307",
+                        "@id": "54043195675463307-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "image-container":                             {
+                                "@type": "img_original",
+                                "@image-page": "false-imageInProperty",
+                                "img":                                 {
+                                    "@src": "2404158988",
+                                    "@name": "SY_642_650_BO_Intensive_Zone_I0",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007200731455115__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "54043197932604940",
+                                    "@label": "2404158988",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.48330555555555554",
+                                    "@st4-height-cm": "0.5503333333333333",
+                                    "@width-cm": "0.48330555555555554",
+                                    "@height-cm": "0.5503333333333333"
+                                }
+                            },
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "694056459",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "B6BF3AAE-05CA-44C0-A33D-A1F8B5E6411A",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "18014399203538443",
+                                "@id": "18014399203538443-18",
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "3869430156",
+                                    "@name": "1103",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "IntensiveZone",
+                                    "@variableName": "Intensive Zone 0",
+                                    "@variant": "1001",
+                                    "@variantName": "Index",
+                                    "$": "IntensiveZone"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "ul": {"li":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Switch on with mixed loads containing tableware with different soiling levels, e.g. place very soiled pots and pans in the bottom basket and normally soiled tableware in the upper basket."
+                                    }
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "The spray pressure in the bottom basket is increased and the maximum programme temperature held longer. This will increase the run time and energy consumption."
+                                    }
+                                }
+                            ]}
+                        }
+                    },
+                                        {
+                        "@class": "TextModule2",
+                        "@base-id": "147023371",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "FB6D870E-B240-4A2C-B6F4-DD4BE60F9AB5",
+                        "@fragment-element": "property",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "63050394930210315",
+                        "@id": "63050394930210315-9",
+                        "proptype":                         {
+                            "@col-index": "1",
+                            "image-container":                             {
+                                "@type": "img_original",
+                                "@image-page": "false-imageInProperty",
+                                "img":                                 {
+                                    "@src": "2404148876",
+                                    "@name": "SY_642_650_BO_Extra_Trocknen_I0",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007200731054859__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "63050397187335820",
+                                    "@label": "2404148876",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5644444444444444",
+                                    "@st4-height-cm": "0.5503333333333333",
+                                    "@width-cm": "0.5644444444444444",
+                                    "@height-cm": "0.5503333333333333"
+                                }
+                            },
+                            "p":                             {
+                                "@class": "TextModule2",
+                                "@base-id": "693988363",
+                                "@chapternumbering": "yes",
+                                "@showintoc": "yes",
+                                "@linkid": "98240C78-28AD-42C9-90F3-6387A6CC3F58",
+                                "@fragment-element": "p",
+                                "@aspect-name": "en",
+                                "@specific-culture": "en-GB",
+                                "@ref": "18014399203470347",
+                                "@id": "18014399203470347-27",
+                                "@context": "Cond",
+                                "$": {"variable":                                 {
+                                    "@linkid": "3869215500",
+                                    "@name": "1608",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "ExtraDry",
+                                    "@variableName": "Extra Dry 0",
+                                    "@variant": "1001",
+                                    "@variantName": "Index",
+                                    "$": "ExtraDry"
+                                }}
+                            }
+                        },
+                        "propvalue":                         {
+                            "@col-index": "2",
+                            "ul": {"li":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "For a better drying result the final rinse temperature is increased and the drying phase extended."
+                                    }
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Especially suitable for drying plastic parts."
+                                    }
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "There is a slight increase in energy consumption and the run time is extended."
+                                    }
+                                }
+                            ]}
+                        }
+                    }
+                ]
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "99079191949142923-9",
+                    "@target-id": "9007199438288139-9",
+                    "@label": "1306407948",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "99079193108558860",
+                    "@source": "Additional functions",
+                    "@target-base-id": "183547147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191949142923-9",
+                    "@target-id": "63050394930210315-9",
+                    "@label": "FB6D870E-B240-4A2C-B6F4-DD4BE60F9AB5",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "99079194326084620",
+                    "@source": "Additional functions",
+                    "@target-base-id": "147023371",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191949142923-9",
+                    "@target-id": "54043195675457291-9",
+                    "@label": "9322EB1C-5A7C-41EB-9F79-4907BD645871",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "99079194326086156",
+                    "@source": "Additional functions",
+                    "@target-base-id": "147011339",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191949142923-9",
+                    "@target-id": "54043195675463307-9",
+                    "@label": "7AD6671C-86BA-40ED-B242-CD8F6B740E9F",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "99079194326086540",
+                    "@source": "Additional functions",
+                    "@target-base-id": "147017355",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "99079191949142923-9",
+                    "@target-id": "36028800781717259-9",
+                    "@label": "3763374988",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "99079195565525900",
+                    "@source": "Additional functions",
+                    "@target-base-id": "3762753291",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "63050394930210315-9",
+                    "@target-id": "18014399203470347-27",
+                    "@label": "98240C78-28AD-42C9-90F3-6387A6CC3F58",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "45036002022658188",
+                    "@target-base-id": "693988363",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "63050394930210315-9",
+                    "@target-id": "9007199438288139-9",
+                    "@label": "315369356",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "63050395098556300",
+                    "@target-base-id": "183547147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195675457291-9",
+                    "@target-id": "18014400889667851-9",
+                    "@label": "C978F75A-05F1-4585-942E-3467CC2C9AAC",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "36028802767919500",
+                    "@target-base-id": "2380185867",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195675457291-9",
+                    "@target-id": "9007199438288139-9",
+                    "@label": "315362700",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195843808652",
+                    "@target-base-id": "183547147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195675457291-9",
+                    "@target-id": "1701964939-9",
+                    "@label": "19A7DE20-6906-4F3B-928A-D7C5DBD56C9A",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "54043199188217868",
+                    "@target-base-id": "1701964939",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195675463307-9",
+                    "@target-id": "18014399203538443-18",
+                    "@label": "B6BF3AAE-05CA-44C0-A33D-A1F8B5E6411A",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "36028802767919884",
+                    "@target-base-id": "694056459",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "54043195675463307-9",
+                    "@target-id": "9007199438288139-9",
+                    "@label": "315367436",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "54043195843813388",
+                    "@target-base-id": "183547147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028800781717259-9",
+                    "@target-id": "18014402272341643-18",
+                    "@label": "3EB547F5-0AC2-4EDE-93B7-BE1D3E41D6C6",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "18014404258440204",
+                    "@target-base-id": "3762859659",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028800781717259-9",
+                    "@target-id": "18014402362928907-9",
+                    "@label": "6364853388",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "18014404874335372",
+                    "@target-base-id": "3853446923",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028800781717259-9",
+                    "@target-id": "9007199438288139-9",
+                    "@label": "315360396",
+                    "@use": "copy",
+                    "@name": "RelatedTopic",
+                    "@id": "36028800781928972",
+                    "@target-base-id": "183547147",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028800781717259-9",
+                    "@target-id": "3763217291-9",
+                    "@label": "3763371148",
+                    "@use": "grab",
+                    "@target": "Additional functions",
+                    "@name": "TextModuleLink",
+                    "@id": "36028800782335116",
+                    "@target-base-id": "3763217291",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "18014402362928907-9",
+                    "@target-id": "117093590458818571-9",
+                    "@label": "3853450508",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "18014402362932492",
+                    "@target-base-id": "147185675",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Extra_Trocknen_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200731054859__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "63050397187335820",
+                    "@label": "2404148876",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5644444444444444",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.5644444444444444",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Hygiene_Plus_I9",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200731401355__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197230384140",
+                    "@label": "1701938188",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "1.478138888888889",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "1.478138888888889",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Intensive_Zone_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200731455115__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "54043197932604940",
+                    "@label": "2404158988",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.48330555555555554",
+                    "@st4-height-cm": "0.5503333333333333",
+                    "@width-cm": "0.48330555555555554",
+                    "@height-cm": "0.5503333333333333"
+                }},
+                {"image":                 {
+                    "@name": "SY_642_650_BO_Speed_Perfect_Plus_I1",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007200732859403__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028800782123020",
+                    "@label": "3763159052",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "1.04775",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "1.04775",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1450212747-operating1450212747-operating.html#!/Togglebox=1450212747-handling1450212747-handling/scrollto=1450212747-handling1450212747-handling/",
+            "@class": "Concept-handling",
+            "@type": "TextNode",
+            "@id": "108086392507104651-9-handling",
+            "@base-id": "1450212747-handling",
+            "@base-reuseid": "1450212747-handling",
+            "@icon-name": "handling",
+            "@is-page": "false",
+            "@childrencount": "4",
+            "@is-distributor": "true",
+            "@level": "2",
+            "title": {"$": "Operation"},
+            "shortdesc": {"$": "Learn all about the functions and operation of your appliance here."}
+        }},
+        {"node":         {
+            "@file-name": "1450212747-operating1450212747-operating.html#!/Togglebox=147136395/scrollto=147136395/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "147136395",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "90071992694546315-9",
+            "@is-page": "false",
+            "@childrencount": "4",
+            "@is-distributor": "true",
+            "@level": "2",
+            "title": {"$": "Detergent"},
+            "shortdesc": {"$": "Find out which detergents are suitable for your appliance."},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "90071992694546315-9",
+                    "@target-id": "63050396238475403-9",
+                    "@label": "5707107852",
+                    "@use": "grab",
+                    "@target": "Suitable detergents",
+                    "@name": "InformationLink",
+                    "@id": "9594041868",
+                    "@source": "Detergent",
+                    "@target-base-id": "1455288459",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694546315-9",
+                    "@target-id": "1455340043-9",
+                    "@label": "1455340172",
+                    "@use": "grab",
+                    "@target": "Unsuitable detergents",
+                    "@name": "InformationLink",
+                    "@id": "9594042508",
+                    "@source": "Detergent",
+                    "@target-base-id": "1455340043",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694546315-9",
+                    "@target-id": "54043195886939019-9",
+                    "@label": "5707975180",
+                    "@use": "grab",
+                    "@target": "Information on detergents",
+                    "@name": "InformationLink",
+                    "@id": "9594043148",
+                    "@source": "Detergent",
+                    "@target-base-id": "358493067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071992694546315-9",
+                    "@target-id": "27021597911389451-9",
+                    "@label": "265691532",
+                    "@use": "grab",
+                    "@target": "Adding detergent",
+                    "@name": "InformationLink",
+                    "@id": "9594043788",
+                    "@source": "Detergent",
+                    "@target-base-id": "147166475",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "1450212747-operating1450212747-operating.html#!/Togglebox=147113739/scrollto=147113739/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "147113739",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "36028797166077707-9",
+            "@is-page": "false",
+            "@childrencount": "3",
+            "@is-distributor": "true",
+            "@level": "2",
+            "title": {"$": "Tableware"},
+            "shortdesc": {"$": "Only clean tableware that is suitable for dishwashers."},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "b": {"$": "Note:"},
+                "p":                 {
+                    "@context": "hint",
+                    "$": "Decorated glassware and parts made of aluminium or silver may fade or discolour with dishwashing. Delicate types of glass may turn cloudy after a few washing cycles."
+                }
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "36028797166077707-9",
+                    "@target-id": "384614283-9",
+                    "@label": "384614412",
+                    "@use": "grab",
+                    "@target": "Damage to glass and tableware",
+                    "@name": "InformationHierarchy",
+                    "@id": "36028797403578380",
+                    "@source": "Tableware",
+                    "@target-base-id": "384614283",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028797166077707-9",
+                    "@target-id": "36028797166086283-9",
+                    "@label": "265332236",
+                    "@use": "grab",
+                    "@target": "Arrange tableware",
+                    "@name": "InformationHierarchy",
+                    "@id": "36028797166086412",
+                    "@source": "Tableware",
+                    "@target-base-id": "147122315",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028797166077707-9",
+                    "@target-id": "9007199401870347-9",
+                    "@label": "265362444",
+                    "@use": "grab",
+                    "@target": "Removing tableware",
+                    "@name": "InformationHierarchy",
+                    "@id": "36028797166093452",
+                    "@source": "Tableware",
+                    "@target-base-id": "147129355",
+                    "@external": "0"
+                }}
+            ]}
+        }}
+    ]
+}

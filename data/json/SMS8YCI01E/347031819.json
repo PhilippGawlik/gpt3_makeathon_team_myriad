@@ -1,0 +1,1601 @@
+{
+    "@file-name": "3470318191705143563.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@reuseid": "27021599469366539",
+    "@base-reuseid": "1705143563",
+    "@base-id": "347031819",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "198158383951333643-9",
+    "@icon-name": "homeconnect",
+    "@is-page": "true",
+    "@childrencount": "6",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"variable":     {
+        "@linkid": "699023500",
+        "@name": "1011",
+        "@detailed-topic-type": "Non-specific",
+        "@variableType": "Standard",
+        "@variable": "Home Connect",
+        "@variableName": "name Home Connect",
+        "@variant": "1004",
+        "@variantName": "Bosch",
+        "$": "Home Connect"
+    }},
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "458126091",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "458130444",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "45035996731831051",
+        "@id": "45035996731831051-9",
+        "BSHCollectionOfElements":         [
+            {"$": "This appliance is network-capable. Connect your appliance to a mobile device to control its functions via the"},
+            {"variable":             {
+                "@linkid": "699162636",
+                "@name": "1011",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Home Connect",
+                "@variableName": "name Home Connect",
+                "@variant": "1004",
+                "@variantName": "Bosch",
+                "$": "Home Connect"
+            }},
+            {"$": "app."}
+        ]
+    },
+    "BSHCollectionOfElements":     [
+        {"p": {"BSHCollectionOfElements":         [
+            {"$": "The"},
+            {"variable":             {
+                "@linkid": "699023500",
+                "@name": "1011",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Home Connect",
+                "@variableName": "name Home Connect",
+                "@variant": "1004",
+                "@variantName": "Bosch",
+                "$": "Home Connect"
+            }},
+            {"$": "services are not available in every country. The availability of the"},
+            {"variable":             {
+                "@linkid": "699023500",
+                "@name": "1011",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Home Connect",
+                "@variableName": "name Home Connect",
+                "@variant": "1004",
+                "@variantName": "Bosch",
+                "$": "Home Connect"
+            }},
+            {"$": "function depends on the availability of"},
+            {"variable":             {
+                "@linkid": "699023500",
+                "@name": "1011",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Home Connect",
+                "@variableName": "name Home Connect",
+                "@variant": "1004",
+                "@variantName": "Bosch",
+                "$": "Home Connect"
+            }},
+            {"$": "services in your country. You can find information about this at:"},
+            {"a":             {
+                "@href": "http://www.home-connect.com",
+                "$": "www.home-connect.com"
+            }},
+            {"$": "."}
+        ]}},
+        {"p":         {
+            "@class": "TextModule2",
+            "@base-id": "515496715",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "2CC2C571-8473-4280-AA74-0B00A1ED663F",
+            "@fragment-element": "p",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "45035996789201675",
+            "@id": "45035996789201675-9",
+            "BSHCollectionOfElements":             [
+                {"$": "To be able to use"},
+                {"variable":                 {
+                    "@linkid": "699027596",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": ", you must first set up the connection to the WLAN home network (Wi-Fi"},
+                {"footnote":                 {
+                    "@BSH-Linktype": "Langlink",
+                    "@source-id": "45035996789201675-9",
+                    "@target-id": "9007199770264459-9",
+                    "@use": "grab",
+                    "@name": "RelatedTopic",
+                    "@id": "45035996789233932",
+                    "@target-base-id": "515523467",
+                    "@external": "0",
+                    "@linkid": "515528972",
+                    "@dynamic": "true",
+                    "@arrow": "before",
+                    "tooltip": {"$": "Wi-Fi is a registered trademark of the Wi-Fi Alliance."}
+                }},
+                {"$": ") and to the"},
+                {"variable":                 {
+                    "@linkid": "699027596",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "app."}
+            ]
+        }},
+        {"properties":         {
+            "@flipTable": "false",
+            "@presentation": "list",
+            "@propertie-count": "1",
+            "property":             {
+                "@class": "TextModule2",
+                "@base-id": "3792364171",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "2F0C1807-E355-46DF-9318-381AF7AE14EB",
+                "@fragment-element": "property",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "18014402301846155",
+                "@id": "18014402301846155-9",
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "3792406155",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "36243901-BD00-4B01-8AC9-9A1D742AB719",
+                        "@fragment-element": "p",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007203047147147",
+                        "@id": "9007203047147147-9",
+                        "$": {"link":                         {
+                            "@BSH-Linktype": "Langlink in Properties",
+                            "@source-id": "9007203047147147-9",
+                            "@target-id": "18014402028446219-9",
+                            "@use": "grab",
+                            "@target": "Connecting the appliance to WLAN home network (Wi-Fi)",
+                            "@name": "RelatedTopic",
+                            "@id": "9007203047148684",
+                            "@target-base-id": "3518964235",
+                            "@external": "0",
+                            "@linkid": "3792407692",
+                            "@dynamic": "true",
+                            "@arrow": "before",
+                            "$": "Connecting the appliance to WLAN home network (Wi-Fi)"
+                        }}
+                    }
+                }
+            }
+        }},
+        {"p": {"BSHCollectionOfElements":         [
+            {"$": "The"},
+            {"variable":             {
+                "@linkid": "699023500",
+                "@name": "1011",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Home Connect",
+                "@variableName": "name Home Connect",
+                "@variant": "1004",
+                "@variantName": "Bosch",
+                "$": "Home Connect"
+            }},
+            {"$": "app guides you through the entire login process. Follow the instructions in the"},
+            {"variable":             {
+                "@linkid": "699023500",
+                "@name": "1011",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Home Connect",
+                "@variableName": "name Home Connect",
+                "@variant": "1004",
+                "@variantName": "Bosch",
+                "$": "Home Connect"
+            }},
+            {"$": "app to configure the settings."}
+        ]}},
+        {"hint":         {
+            "@hint-type": "multi",
+            "@type": "user-oriented",
+            "@context": "before-hint",
+            "b": {"$": "Tips:"},
+            "BSHCollectionOfElements":             [
+                {"sub-hint": {"p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Please consult the documents supplied by"},
+                        {"variable":                         {
+                            "@linkid": "699023500",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "."}
+                    ]
+                }}},
+                {"sub-hint": {"p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Please also follow the instructions in the"},
+                        {"variable":                         {
+                            "@linkid": "699023500",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "app."}
+                    ]
+                }}}
+            ]
+        }},
+        {"hint":         {
+            "@hint-type": "single",
+            "@type": "device-oriented",
+            "@context": "after-hint",
+            "b": {"$": "Note:"},
+            "p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Please note the safety precautions in this instruction manual and make sure that they are also observed when operating the appliance via the"},
+                    {"variable":                     {
+                        "@linkid": "699023500",
+                        "@name": "1011",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "Home Connect",
+                        "@variableName": "name Home Connect",
+                        "@variant": "1004",
+                        "@variantName": "Bosch",
+                        "$": "Home Connect"
+                    }},
+                    {"$": "app."},
+                    {"link":                     {
+                        "@BSH-Linktype": "Langlink",
+                        "@source-id": "198158383951333643-9",
+                        "@target-id": "36028797201731979-9",
+                        "@use": "grab",
+                        "@target": "Safety",
+                        "@name": "RelatedTopic",
+                        "@id": "189151185043655308",
+                        "@source": "Home Connect",
+                        "@target-base-id": "182768011",
+                        "@external": "0",
+                        "@linkid": "694094476",
+                        "@dynamic": "true",
+                        "@arrow": "before",
+                        "$": "Safety"
+                    }}
+                ]
+            }
+        }},
+        {"linklist": {"BSHCollectionOfElements":         [
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "27021601464817547-9",
+                "@label": "3962788620",
+                "@use": "grab",
+                "@target": "Home Connect quick start",
+                "@name": "InformationLink",
+                "@id": "27021601727011596",
+                "@source": "Home Connect",
+                "@target-base-id": "3700594571",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "45035996621698059-9",
+                "@label": "347993228",
+                "@use": "grab",
+                "@target": "Home Connect settings",
+                "@name": "InformationHierarchy",
+                "@id": "27021599469367948",
+                "@source": "Home Connect",
+                "@target-base-id": "1705144843",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "81064798598592907-9",
+                "@label": "5308923148",
+                "@use": "grab",
+                "@target": "Remote start",
+                "@name": "InformationLink",
+                "@id": "27021603073146124",
+                "@source": "Home Connect",
+                "@target-base-id": "5305923979",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "99079192150100235-9",
+                "@label": "347949452",
+                "@use": "grab",
+                "@target": "Remote diagnostics",
+                "@name": "InformationHierarchy",
+                "@id": "27021599469369484",
+                "@source": "Home Connect",
+                "@target-base-id": "1705146379",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "54043196243580683-9",
+                "@label": "1705148300",
+                "@use": "grab",
+                "@target": "Software update",
+                "@name": "InformationLink",
+                "@id": "27021599469371276",
+                "@source": "Home Connect",
+                "@target-base-id": "715134731",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "45035996620845963-9",
+                "@label": "347141132",
+                "@use": "grab",
+                "@target": "Data protection",
+                "@name": "InformationHierarchy",
+                "@id": "27021599469367180",
+                "@source": "Home Connect",
+                "@target-base-id": "1705144075",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "45035996789201675-9",
+                "@label": "2CC2C571-8473-4280-AA74-0B00A1ED663F",
+                "@use": "grab",
+                "@target": "Home Connect",
+                "@name": "TextModuleLink",
+                "@id": "18014407247645324",
+                "@source": "Home Connect",
+                "@target-base-id": "515496715",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "18014402301846155-9",
+                "@label": "2F0C1807-E355-46DF-9318-381AF7AE14EB",
+                "@use": "grab",
+                "@target": "Home Connect",
+                "@name": "TextModuleLink",
+                "@id": "18014407247645708",
+                "@source": "Home Connect",
+                "@target-base-id": "3792364171",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "36028797201731979-9",
+                "@label": "694094476",
+                "@use": "grab",
+                "@target": "Safety",
+                "@name": "RelatedTopic",
+                "@id": "189151185043655308",
+                "@source": "Home Connect",
+                "@target-base-id": "182768011",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "198158383951333643-9",
+                "@target-id": "45035996731831051-9",
+                "@label": "458130444",
+                "@use": "grab",
+                "@target": "Home Connect",
+                "@name": "TextModuleLink",
+                "@id": "198158384062432268",
+                "@source": "Home Connect",
+                "@target-base-id": "458126091",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "45035996789201675-9",
+                "@target-id": "9007199770264459-9",
+                "@label": "515528972",
+                "@use": "grab",
+                "@name": "RelatedTopic",
+                "@id": "45035996789233932",
+                "@target-base-id": "515523467",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "18014402301846155-9",
+                "@target-id": "18014402028446219-9",
+                "@label": "3792406028",
+                "@use": "copy",
+                "@target": "Connecting the appliance to WLAN home network (Wi-Fi)",
+                "@name": "RelatedTopic",
+                "@id": "18014402301888012",
+                "@target-base-id": "3518964235",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "18014402301846155-9",
+                "@target-id": "9007203047147147-9",
+                "@label": "36243901-BD00-4B01-8AC9-9A1D742AB719",
+                "@use": "grab",
+                "@target": "Home Connect",
+                "@name": "TextModuleHierarchy",
+                "@id": "18014402301893516",
+                "@target-base-id": "3792406155",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "9007203047147147-9",
+                "@target-id": "18014402028446219-9",
+                "@label": "3792407692",
+                "@use": "grab",
+                "@target": "Connecting the appliance to WLAN home network (Wi-Fi)",
+                "@name": "RelatedTopic",
+                "@id": "9007203047148684",
+                "@target-base-id": "3518964235",
+                "@external": "0"
+            }}
+        ]}},
+        {"node":         {
+            "@file-name": "3470318191705143563.html#!/Togglebox=3700594571/scrollto=3700594571/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "3700594571",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "27021601464817547-9",
+            "@icon-name": "homeconnect",
+            "@is-page": "false",
+            "@childrencount": "2",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title":             {
+                "variable":                 {
+                    "@linkid": "3700598924",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                },
+                "$": "quick start"
+            },
+            "shortdesc": {"$": "Connect your appliance to a mobile device quickly and easily."},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "27021601464817547-9",
+                    "@target-id": "27021601466870027-9",
+                    "@label": "3702647180",
+                    "@use": "grab",
+                    "@target": "Installing app",
+                    "@name": "InformationHierarchy",
+                    "@id": "27021601466870156",
+                    "@source": "Home Connect quick start",
+                    "@target-base-id": "3702647051",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "27021601464817547-9",
+                    "@target-id": "18014402028446219-9",
+                    "@label": "3518964364",
+                    "@use": "grab",
+                    "@target": "Connecting the appliance to WLAN home network (Wi-Fi)",
+                    "@name": "InformationHierarchy",
+                    "@id": "27021601283187340",
+                    "@source": "Home Connect quick start",
+                    "@target-base-id": "3518964235",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"node":                 {
+                    "@file-name": "3470318191705143563.html#!/Togglebox=3700594571/scrollto=3702647051/",
+                    "@class": "UMTask",
+                    "@type": "TextNode",
+                    "@base-id": "3702647051",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "27021601466870027-9",
+                    "@icon-name": "homeconnect",
+                    "@is-page": "false",
+                    "@childrencount": "0",
+                    "@is-distributor": "false",
+                    "@level": "5",
+                    "title": {"$": "Installing app"},
+                    "instructions": {"BSHCollectionOfElements":                     [
+                        {"instruction":                         {
+                            "p":                             {
+                                "@context": "instructions",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "Install the"},
+                                    {"variable":                                     {
+                                        "@linkid": "3702650508",
+                                        "@name": "1011",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Home Connect",
+                                        "@variableName": "name Home Connect",
+                                        "@variant": "1004",
+                                        "@variantName": "Bosch",
+                                        "$": "Home Connect"
+                                    }},
+                                    {"$": "app on your mobile device."}
+                                ]
+                            },
+                            "image-container":                             {
+                                "@type": "img_original",
+                                "@image-page": "false-languageDependentImage",
+                                "img":                                 {
+                                    "@src": "9533508876",
+                                    "@id": "9007202914965771",
+                                    "@name": "App Store Play Store",
+                                    "@type": "pdf",
+                                    "@href": "Images/pdf/9007202914965771__en__Web.pdf",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9533508876",
+                                    "@label": "9533508876",
+                                    "@width": "184",
+                                    "@height": "66",
+                                    "@dpi": "150",
+                                    "@aspect": "en",
+                                    "@source-aspect": "en",
+                                    "@width-cm": "3.1157333333333334",
+                                    "@height-cm": "1.1176"
+                                }
+                            }
+                        }},
+                        {"instruction":                         {
+                            "p":                             {
+                                "@context": "instructions",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "Start the app and set up access for"},
+                                    {"variable":                                     {
+                                        "@linkid": "3702650508",
+                                        "@name": "1011",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Home Connect",
+                                        "@variableName": "name Home Connect",
+                                        "@variant": "1004",
+                                        "@variantName": "Bosch",
+                                        "$": "Home Connect"
+                                    }},
+                                    {"$": "."}
+                                ]
+                            },
+                            "instruction-info": {"p":                             {
+                                "@context": "instructions",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "The"},
+                                    {"variable":                                     {
+                                        "@linkid": "3702650508",
+                                        "@name": "1011",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Home Connect",
+                                        "@variableName": "name Home Connect",
+                                        "@variant": "1004",
+                                        "@variantName": "Bosch",
+                                        "$": "Home Connect"
+                                    }},
+                                    {"$": "app guides you through the entire login process."}
+                                ]
+                            }}
+                        }}
+                    ]},
+                    "linklist": "",
+                    "image":                     {
+                        "@id": "9007202914965771",
+                        "@name": "App Store Play Store",
+                        "@type": "pdf",
+                        "@href": "Images/pdf/9007202914965771__en__Web.pdf",
+                        "@class": "GraficResource",
+                        "@link-id": "9533508876",
+                        "@label": "9533508876",
+                        "@width": "184",
+                        "@height": "66",
+                        "@dpi": "150",
+                        "@aspect": "en",
+                        "@source-aspect": "en",
+                        "@width-cm": "3.1157333333333334",
+                        "@height-cm": "1.1176"
+                    }
+                }},
+                {"node":                 {
+                    "@file-name": "3470318191705143563.html#!/Togglebox=3700594571/scrollto=3518964235/",
+                    "@class": "UMTask",
+                    "@type": "TextNode",
+                    "@base-id": "3518964235",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@format": "standard",
+                    "@id": "18014402028446219-9",
+                    "@is-page": "false",
+                    "@childrencount": "0",
+                    "@is-distributor": "false",
+                    "@level": "5",
+                    "title": {"$": "Connecting the appliance to WLAN home network (Wi-Fi)"},
+                    "preconditions":                     {
+                        "preconditionhead": {"b": {"$": "Requirements:"}},
+                        "BSHCollectionOfElements":                         [
+                            {"precondition":                             {
+                                "variable":                                 {
+                                    "@linkid": "3518970508",
+                                    "@name": "1011",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "Home Connect",
+                                    "@variableName": "name Home Connect",
+                                    "@variant": "1004",
+                                    "@variantName": "Bosch",
+                                    "$": "Home Connect"
+                                },
+                                "$": "app is installed on your mobile device."
+                            }},
+                            {"precondition": {"$": "Wi-Fi on the router is activated."}},
+                            {"precondition": {"$": "The basic setting Wi-Fi is activated on the appliance."}},
+                            {"precondition": {"$": "The appliance receives signals from the WLAN home network (Wi-Fi) at its installation location."}}
+                        ]
+                    },
+                    "instructions": {"BSHCollectionOfElements":                     [
+                        {"instruction":                         {
+                            "p":                             {
+                                "@context": "instructions",
+                                "BSHCollectionOfElements":                                 [
+                                    {"$": "With the help of the"},
+                                    {"variable":                                     {
+                                        "@linkid": "3518970508",
+                                        "@name": "1011",
+                                        "@detailed-topic-type": "Non-specific",
+                                        "@variableType": "Standard",
+                                        "@variable": "Home Connect",
+                                        "@variableName": "name Home Connect",
+                                        "@variant": "1004",
+                                        "@variantName": "Bosch",
+                                        "$": "Home Connect"
+                                    }},
+                                    {"$": "App scan the QR code."}
+                                ]
+                            },
+                            "image-container":                             {
+                                "@type": "img_original",
+                                "@image-page": "true-imageInUMTaskNode",
+                                "img":                                 {
+                                    "@src": "3702645260",
+                                    "@name": "QR-Code Pairing Systemmaster",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/3700600459__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "18014402212127244",
+                                    "@label": "3702645260",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "5.806722222222222",
+                                    "@st4-height-cm": "2.69875",
+                                    "@width-cm": "5.806722222222222",
+                                    "@height-cm": "2.69875"
+                                }
+                            }
+                        }},
+                        {"instruction": {"p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Follow the instructions in the"},
+                                {"variable":                                 {
+                                    "@linkid": "3518970508",
+                                    "@name": "1011",
+                                    "@detailed-topic-type": "Non-specific",
+                                    "@variableType": "Standard",
+                                    "@variable": "Home Connect",
+                                    "@variableName": "name Home Connect",
+                                    "@variant": "1004",
+                                    "@variantName": "Bosch",
+                                    "$": "Home Connect"
+                                }},
+                                {"$": "app."}
+                            ]
+                        }}}
+                    ]},
+                    "linklist": "",
+                    "image":                     {
+                        "@name": "QR-Code Pairing Systemmaster",
+                        "@type": "svg",
+                        "@href": "Images/svg/3700600459__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "18014402212127244",
+                        "@label": "3702645260",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "5.806722222222222",
+                        "@st4-height-cm": "2.69875",
+                        "@width-cm": "5.806722222222222",
+                        "@height-cm": "2.69875"
+                    }
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "3470318191705143563.html#!/Togglebox=3479930991705144843/scrollto=3479930991705144843/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@reuseid": "9007200959885835",
+            "@base-reuseid": "1705144843",
+            "@base-id": "347993099",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "45035996621698059-9",
+            "@icon-name": "homeconnect",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title":             {
+                "variable":                 {
+                    "@linkid": "929251468",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                },
+                "$": "settings"
+            },
+            "shortdesc": {"BSHCollectionOfElements":             [
+                {"$": "Adapt"},
+                {"variable":                 {
+                    "@linkid": "929251468",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "to your needs."}
+            ]},
+            "p": {"BSHCollectionOfElements":             [
+                {"$": "You can find the"},
+                {"variable":                 {
+                    "@linkid": "929251468",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "settings in the basic settings for your appliance. Which settings the display shows will depend on whether"},
+                {"variable":                 {
+                    "@linkid": "929251468",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "has been set up and whether the appliance is connected to your home network."}
+            ]},
+            "linklist": ""
+        }},
+        {"node":         {
+            "@file-name": "3470318191705143563.html#!/Togglebox=5305923979/scrollto=5305923979/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "5305923979",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "81064798598592907-9",
+            "@is-page": "false",
+            "@childrencount": "1",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title":             {
+                "@class": "TextModule2",
+                "@base-id": "5306974603",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "68D05538-C9DA-444F-B7D3-564059A64C4B",
+                "@fragment-element": "caption",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "36028802325938571",
+                "@id": "36028802325938571-9",
+                "variable":                 {
+                    "@linkid": "5306976140",
+                    "@name": "2820",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Remote Start",
+                    "@variableName": "Remote start 0",
+                    "@variant": "1001",
+                    "@variantName": "Index",
+                    "$": "Remote Start"
+                },
+                "img":                 {
+                    "@src": "5306976268",
+                    "@name": "SY_642_650_BO_Remote_Start_I0",
+                    "@type": "svg",
+                    "@href": "Images/svg/9007204487197323__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028802325940236",
+                    "@label": "5306976268",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.4268611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.4268611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }
+            },
+            "shortdesc": {"BSHCollectionOfElements":             [
+                {"$": "You can use the"},
+                {"variable":                 {
+                    "@linkid": "758431244",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "app to start the appliance with your mobile device."}
+            ]},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "user-oriented",
+                "@class": "TextModule2",
+                "@base-id": "5306148747",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "3890778C-4C71-460D-93CF-989F920A58E8",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "18014403815630731",
+                "@id": "18014403815630731-9",
+                "b": {"$": "Tip:"},
+                "p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "If you select"},
+                        {"variable":                         {
+                            "@linkid": "4188059532",
+                            "@name": "1085",
+                            "@detailed-topic-type": "Display text",
+                            "@variableType": "Standard",
+                            "@variable": "Permanent",
+                            "@variableName": "Basic Settings - Remote Control Level: Dauerhaft",
+                            "@variant": "1001",
+                            "@variantName": "Bosch - TFT Display",
+                            "$": "\"Permanent\""
+                        }},
+                        {"$": "in the"},
+                        {"link":                         {
+                            "@BSH-Linktype": "Kurzlink",
+                            "@source-id": "18014403815630731-9",
+                            "@target-id": "45036000093724171-9",
+                            "@use": "grab",
+                            "@target": "Overview of basic settings",
+                            "@name": "RelatedTopic",
+                            "@id": "18014403824683532",
+                            "@target-base-id": "3820019211",
+                            "@external": "0",
+                            "@linkid": "5315201548",
+                            "@arrow": "after",
+                            "$": "Basic settings"
+                        }},
+                        {"$": "of this function, the function is permanently activated and you can start your appliance with a mobile device at any time."}
+                    ]
+                }
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "81064798598592907-9",
+                    "@target-id": "72057599344219787-9",
+                    "@label": "836119692",
+                    "@use": "grab",
+                    "@target": "Activating remote start",
+                    "@name": "InformationHierarchy",
+                    "@id": "81064798598960908",
+                    "@source": "Remote start",
+                    "@target-base-id": "5306291851",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064798598592907-9",
+                    "@target-id": "18014403815630731-9",
+                    "@label": "3890778C-4C71-460D-93CF-989F920A58E8",
+                    "@use": "grab",
+                    "@target": "Remote start",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "81064798598736268",
+                    "@source": "Remote start",
+                    "@target-base-id": "5306148747",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064798598592907-9",
+                    "@target-id": "117093590458818571-9",
+                    "@label": "4186900620",
+                    "@use": "copy",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "81064798599573004",
+                    "@source": "Remote start",
+                    "@target-base-id": "147185675",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064798598592907-9",
+                    "@target-id": "36028802325938571-9",
+                    "@label": "68D05538-C9DA-444F-B7D3-564059A64C4B",
+                    "@use": "grab",
+                    "@target": "Remote start",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "81064798599648012",
+                    "@source": "Remote start",
+                    "@target-base-id": "5306974603",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "18014403815630731-9",
+                    "@target-id": "45036000093724171-9",
+                    "@label": "5315201548",
+                    "@use": "grab",
+                    "@target": "Overview of basic settings",
+                    "@name": "RelatedTopic",
+                    "@id": "18014403824683532",
+                    "@target-base-id": "3820019211",
+                    "@external": "0"
+                }}
+            ]},
+            "image":             {
+                "@name": "SY_642_650_BO_Remote_Start_I0",
+                "@type": "svg",
+                "@href": "Images/svg/9007204487197323__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "36028802325940236",
+                "@label": "5306976268",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "0.4268611111111111",
+                "@st4-height-cm": "0.5538611111111111",
+                "@width-cm": "0.4268611111111111",
+                "@height-cm": "0.5538611111111111"
+            },
+            "node":             {
+                "@file-name": "3470318191705143563.html#!/Togglebox=5305923979/scrollto=5306291851/",
+                "@class": "UMTask",
+                "@type": "TextNode",
+                "@base-id": "5306291851",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@format": "standard",
+                "@id": "72057599344219787-9",
+                "@icon-name": "operating",
+                "@is-page": "false",
+                "@childrencount": "0",
+                "@is-distributor": "false",
+                "@level": "5",
+                "title":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "5307918475",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "0C4C0EC0-4EE2-4922-8B04-6B34D5F90502",
+                    "@fragment-element": "caption",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028802326882443",
+                    "@id": "36028802326882443-9",
+                    "$": "Activating",
+                    "variable":                     {
+                        "@linkid": "5307920012",
+                        "@name": "2820",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "Remote Start",
+                        "@variableName": "Remote start 0",
+                        "@variant": "1001",
+                        "@variantName": "Index",
+                        "$": "Remote Start"
+                    },
+                    "img":                     {
+                        "@src": "5307920140",
+                        "@name": "SY_642_650_BO_Remote_Start_I0",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007204487197323__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028802326884108",
+                        "@label": "5307920140",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.4268611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.4268611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }
+                },
+                "shortdesc":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "5306534411",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "59238C74-6BA6-4641-84CA-E546D374EBD3",
+                    "@fragment-element": "shortdesc",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "18014403816016395",
+                    "@id": "18014403816016395-9",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "When you have selected"},
+                        {"variable":                         {
+                            "@linkid": "4188875404",
+                            "@name": "1084",
+                            "@detailed-topic-type": "Display text",
+                            "@variableType": "Standard",
+                            "@variable": "Manual",
+                            "@variableName": "Basic Settings - Remote Control Level: Manuell",
+                            "@variant": "1001",
+                            "@variantName": "Bosch - TFT Display",
+                            "$": "\"Manual\""
+                        }},
+                        {"$": "in the basic settings of this function, activate the function on your appliance."}
+                    ]
+                },
+                "preconditions":                 {
+                    "preconditionhead": {"b": {"$": "Requirements:"}},
+                    "BSHCollectionOfElements":                     [
+                        {"precondition": {"$": "The appliance is connected to your WLAN home network."}},
+                        {"precondition": {"BSHCollectionOfElements":                         [
+                            {"$": "The appliance is connected to the"},
+                            {"variable":                             {
+                                "@linkid": "3609038732",
+                                "@name": "1011",
+                                "@detailed-topic-type": "Non-specific",
+                                "@variableType": "Standard",
+                                "@variable": "Home Connect",
+                                "@variableName": "name Home Connect",
+                                "@variant": "1004",
+                                "@variantName": "Bosch",
+                                "$": "Home Connect"
+                            }},
+                            {"$": "app."}
+                        ]}},
+                        {"precondition":                         {
+                            "@class": "TextModule2",
+                            "@base-id": "5306687115",
+                            "@chapternumbering": "yes",
+                            "@showintoc": "yes",
+                            "@linkid": "13953E91-6464-4D96-B1B3-2F31D4FBE538",
+                            "@fragment-element": "precondition",
+                            "@aspect-name": "en",
+                            "@specific-culture": "en-GB",
+                            "@ref": "18014403816169099",
+                            "@id": "18014403816169099-9",
+                            "BSHCollectionOfElements":                             [
+                                {"variable":                                 {
+                                    "@linkid": "4186892428",
+                                    "@name": "1084",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Manual",
+                                    "@variableName": "Basic Settings - Remote Control Level: Manuell",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Manual\""
+                                }},
+                                {"$": "is selected in the"},
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Kurzlink",
+                                    "@source-id": "18014403816169099-9",
+                                    "@target-id": "45036000093724171-9",
+                                    "@use": "grab",
+                                    "@target": "Overview of basic settings",
+                                    "@name": "RelatedTopic",
+                                    "@id": "18014403826798860",
+                                    "@target-base-id": "3820019211",
+                                    "@external": "0",
+                                    "@linkid": "5317316876",
+                                    "@arrow": "after",
+                                    "$": "Basic settings"
+                                }},
+                                {"$": "of this function."}
+                            ]
+                        }},
+                        {"precondition": {"$": "A programme is selected."}}
+                    ]
+                },
+                "instructions":                 {
+                    "instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "5309150860",
+                                    "@name": "SY_642_650_BO_Remote_Start_I0",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007204487197323__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "72057599347078796",
+                                    "@label": "5309150860",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.4268611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.4268611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "."}
+                            ]
+                        },
+                        "instruction-info": {"p":                         {
+                            "@context": "instructions",
+                            "$": "If you open the appliance door, the function is automatically deactivated."
+                        }}
+                    },
+                    "results": {"result": {"p":                     {
+                        "@context": "instructions",
+                        "img":                         {
+                            "@src": "5309150860",
+                            "@name": "SY_642_650_BO_Remote_Start_I0",
+                            "@type": "svg",
+                            "@href": "Images/svg/9007204487197323__Web.svg",
+                            "@class": "GraficResource",
+                            "@link-id": "72057599347078796",
+                            "@label": "5309150860",
+                            "@dpi": "720",
+                            "@aspect": "en",
+                            "@source-aspect": "All",
+                            "@st4-width-cm": "0.4268611111111111",
+                            "@st4-height-cm": "0.5538611111111111",
+                            "@width-cm": "0.4268611111111111",
+                            "@height-cm": "0.5538611111111111"
+                        },
+                        "$": "button lights up."
+                    }}}
+                },
+                "hint":                 {
+                    "@hint-type": "single",
+                    "@type": "user-oriented",
+                    "b": {"$": "Tip:"},
+                    "p":                     {
+                        "@context": "hint",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To deactivate the function, press"},
+                            {"img":                             {
+                                "@src": "5309150860",
+                                "@name": "SY_642_650_BO_Remote_Start_I0",
+                                "@type": "svg",
+                                "@href": "Images/svg/9007204487197323__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "72057599347078796",
+                                "@label": "5309150860",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.4268611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.4268611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                },
+                "linklist": {"BSHCollectionOfElements":                 [
+                    {"link":                     {
+                        "@source-id": "72057599344219787-9",
+                        "@target-id": "18014403816016395-9",
+                        "@label": "59238C74-6BA6-4641-84CA-E546D374EBD3",
+                        "@use": "grab",
+                        "@target": "Activating remote start",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "72057599344381708",
+                        "@source": "Activating remote start",
+                        "@target-base-id": "5306534411",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057599344219787-9",
+                        "@target-id": "18014403816169099-9",
+                        "@label": "13953E91-6464-4D96-B1B3-2F31D4FBE538",
+                        "@use": "grab",
+                        "@target": "Activating remote start",
+                        "@name": "TextModuleHierarchy",
+                        "@id": "72057599344605580",
+                        "@source": "Activating remote start",
+                        "@target-base-id": "5306687115",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057599344219787-9",
+                        "@target-id": "117093590458818571-9",
+                        "@label": "3609036556",
+                        "@use": "copy",
+                        "@target": "Overview of basic settings",
+                        "@name": "RelatedTopic",
+                        "@id": "72057599344846220",
+                        "@source": "Activating remote start",
+                        "@target-base-id": "147185675",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "72057599344219787-9",
+                        "@target-id": "36028802326882443-9",
+                        "@label": "0C4C0EC0-4EE2-4922-8B04-6B34D5F90502",
+                        "@use": "grab",
+                        "@target": "Activating remote start",
+                        "@name": "TextModuleLink",
+                        "@id": "72057599351154444",
+                        "@source": "Activating remote start",
+                        "@target-base-id": "5307918475",
+                        "@external": "0"
+                    }},
+                    {"link":                     {
+                        "@source-id": "18014403816169099-9",
+                        "@target-id": "45036000093724171-9",
+                        "@label": "5317316876",
+                        "@use": "grab",
+                        "@target": "Overview of basic settings",
+                        "@name": "RelatedTopic",
+                        "@id": "18014403826798860",
+                        "@target-base-id": "3820019211",
+                        "@external": "0"
+                    }}
+                ]},
+                "BSHCollectionOfElements":                 [
+                    {"image":                     {
+                        "@name": "SY_642_650_BO_Remote_Start_I0",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007204487197323__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "72057599347078796",
+                        "@label": "5309150860",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.4268611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.4268611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"image":                     {
+                        "@name": "SY_642_650_BO_Remote_Start_I0",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007204487197323__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028802326884108",
+                        "@label": "5307920140",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.4268611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.4268611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@file-name": "3470318191705143563.html#!/Togglebox=3479493231705146379/scrollto=3479493231705146379/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@reuseid": "9007200959887371",
+            "@base-reuseid": "1705146379",
+            "@base-id": "347949323",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "99079192150100235-9",
+            "@icon-name": "homeconnect",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title":             {
+                "@class": "TextModule2",
+                "@base-id": "793555083",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "095FFAA3-7E9D-49FF-8697-189DC546889F",
+                "@fragment-element": "caption",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "18014399303037067",
+                "@id": "18014399303037067-9",
+                "$": "Remote Diagnostics"
+            },
+            "shortdesc": {"BSHCollectionOfElements":             [
+                {"$": "Customer Service can use Remote Diagnostics to access your appliance if you contact them, have your appliance connected to the"},
+                {"variable":                 {
+                    "@linkid": "808933900",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "server and if Remote Diagnostics is available in the country in which you are using the appliance."}
+            ]},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "user-oriented",
+                "b": {"$": "Tip:"},
+                "p":                 {
+                    "@context": "hint",
+                    "$": "For further information and details about the availability of Remote Diagnostics in your country, please visit the service/support section of your local website:",
+                    "a":                     {
+                        "@href": "http://www.home-connect.com",
+                        "$": "www.home-connect.com"
+                    }
+                }
+            },
+            "linklist": {"link":             {
+                "@source-id": "99079192150100235-9",
+                "@target-id": "18014399303037067-9",
+                "@label": "095FFAA3-7E9D-49FF-8697-189DC546889F",
+                "@use": "grab",
+                "@target": "Remote diagnostics",
+                "@name": "TextModuleHierarchy",
+                "@id": "90071993340965132",
+                "@source": "Remote diagnostics",
+                "@target-base-id": "793555083",
+                "@external": "0"
+            }}
+        }},
+        {"node":         {
+            "@file-name": "3470318191705143563.html#!/Togglebox=715134731/scrollto=715134731/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "715134731",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "54043196243580683-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Software update"},
+            "shortdesc": {"$": "You can use this function to update the software of your appliance, e.g. for optimisation, troubleshooting or safety-relevant updating."},
+            "p": {"BSHCollectionOfElements":             [
+                {"$": "The"},
+                {"variable":                 {
+                    "@linkid": "750837260",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "app informs you about available software updates."}
+            ]},
+            "linklist": ""
+        }},
+        {"node":         {
+            "@file-name": "3470318191705143563.html#!/Togglebox=3471410031705144075/scrollto=3471410031705144075/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@reuseid": "9007200959885067",
+            "@base-reuseid": "1705144075",
+            "@base-id": "347141003",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "45035996620845963-9",
+            "@icon-name": "homeconnect",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Data protection"},
+            "shortdesc": {"$": "Please see the information on data protection."},
+            "ul":             {
+                "intro": {"p":                 {
+                    "@context": "intro",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "The first time your appliance is registered on a home network connected to the Internet, your appliance will transmit the following types of data to the"},
+                        {"variable":                         {
+                            "@linkid": "699174668",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "server (initial registration):"}
+                    ]
+                }},
+                "BSHCollectionOfElements":                 [
+                    {"li": {"p":                     {
+                        "@context": "li",
+                        "$": "Unique appliance identification (consisting of appliance codes as well as the MAC address of the Wi-Fi communication module installed)."
+                    }}},
+                    {"li": {"p":                     {
+                        "@context": "li",
+                        "$": "Security certificate of the Wi-Fi communication module (to ensure a secure data connection)."
+                    }}},
+                    {"li": {"p":                     {
+                        "@context": "li",
+                        "$": "The current software and hardware version of your appliance."
+                    }}},
+                    {"li": {"p":                     {
+                        "@context": "li",
+                        "$": "Status of any previous reset to factory settings."
+                    }}}
+                ]
+            },
+            "p": {"BSHCollectionOfElements":             [
+                {"$": "This initial registration prepares the"},
+                {"variable":                 {
+                    "@linkid": "699174668",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "functions for use and is only required when you want to use the"},
+                {"variable":                 {
+                    "@linkid": "699174668",
+                    "@name": "1011",
+                    "@detailed-topic-type": "Non-specific",
+                    "@variableType": "Standard",
+                    "@variable": "Home Connect",
+                    "@variableName": "name Home Connect",
+                    "@variant": "1004",
+                    "@variantName": "Bosch",
+                    "$": "Home Connect"
+                }},
+                {"$": "functions for the first time."}
+            ]},
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "device-oriented",
+                "b": {"$": "Note:"},
+                "p":                 {
+                    "@context": "hint",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Please note that the"},
+                        {"variable":                         {
+                            "@linkid": "699174668",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "functions can only be utilised with the"},
+                        {"variable":                         {
+                            "@linkid": "699174668",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "app. Information on data protection can be retrieved in the"},
+                        {"variable":                         {
+                            "@linkid": "699174668",
+                            "@name": "1011",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Home Connect",
+                            "@variableName": "name Home Connect",
+                            "@variant": "1004",
+                            "@variantName": "Bosch",
+                            "$": "Home Connect"
+                        }},
+                        {"$": "app."}
+                    ]
+                }
+            },
+            "linklist": ""
+        }}
+    ]
+}

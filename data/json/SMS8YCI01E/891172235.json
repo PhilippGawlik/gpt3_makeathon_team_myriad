@@ -1,0 +1,461 @@
+{
+    "@file-name": "891172235.html",
+    "@class": "UMTask",
+    "@type": "TextNode",
+    "@base-id": "891172235",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "72057594929100171-9",
+    "@icon-name": "cleaningandcare",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "true",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title":     {
+        "@class": "TextModule2",
+        "@base-id": "1468483851",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "2523246732",
+        "@fragment-element": "caption",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "36028798487447819",
+        "@id": "36028798487447819-9",
+        "$": "Running ",
+        "variable":         {
+            "@linkid": "4717409676",
+            "@name": "3325",
+            "@detailed-topic-type": "Non-specific",
+            "@variableType": "Standard",
+            "@variable": "Machine Care",
+            "@variableName": "Machine Care 0",
+            "@variant": "1001",
+            "@variantName": "Index",
+            "$": "Machine Care"
+        }
+    },
+    "shortdesc":     {
+        "@class": "TextModule2",
+        "@base-id": "1468638731",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "2523388556",
+        "@fragment-element": "shortdesc",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "27021599232861707",
+        "@id": "27021599232861707-9",
+        "BSHCollectionOfElements":         [
+            {"$": "Run the"},
+            {"variable":             {
+                "@linkid": "4714413836",
+                "@name": "3325",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Machine Care",
+                "@variableName": "Machine Care 0",
+                "@variant": "1001",
+                "@variantName": "Index",
+                "$": "Machine Care"
+            }},
+            {"$": "programme if the indicator for"},
+            {"variable":             {
+                "@linkid": "4714413836",
+                "@name": "3325",
+                "@detailed-topic-type": "Non-specific",
+                "@variableType": "Standard",
+                "@variable": "Machine Care",
+                "@variableName": "Machine Care 0",
+                "@variant": "1001",
+                "@variantName": "Index",
+                "$": "Machine Care"
+            }},
+            {"$": "lights up on the control panel or if advised to do so by the display."}
+        ]
+    },
+    "hint":     {
+        "@hint-type": "multi",
+        "@type": "device-oriented",
+        "@class": "TextModule2",
+        "@base-id": "3635053835",
+        "@chapternumbering": "yes",
+        "@showintoc": "yes",
+        "@linkid": "AE224C8E-5EE0-42B3-B7FC-ADE856132150",
+        "@fragment-element": "hint",
+        "@aspect-name": "en",
+        "@specific-culture": "en-GB",
+        "@ref": "27021601399276811",
+        "@id": "27021601399276811-9",
+        "b": {"$": "Notes:"},
+        "BSHCollectionOfElements":         [
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Run the"},
+                    {"variable":                     {
+                        "@linkid": "4718860172",
+                        "@name": "3325",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "Machine Care",
+                        "@variableName": "Machine Care 0",
+                        "@variant": "1001",
+                        "@variantName": "Index",
+                        "$": "Machine Care"
+                    }},
+                    {"$": "programme without any tableware in the dishwasher."}
+                ]
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "Only use machine care products and machine cleaners specially designed for dishwashers."
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "Make sure that there are no aluminium parts, e.g. extractor hood grease filters or aluminium pans, in the interior of the appliance."
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "If you have not run"},
+                    {"variable":                     {
+                        "@linkid": "4718102924",
+                        "@name": "3325",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "Machine Care",
+                        "@variableName": "Machine Care 0",
+                        "@variant": "1001",
+                        "@variantName": "Index",
+                        "$": "Machine Care"
+                    }},
+                    {"$": "after 3 washing cycles, the indicator for"},
+                    {"variable":                     {
+                        "@linkid": "4718102924",
+                        "@name": "3325",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "Machine Care",
+                        "@variableName": "Machine Care 0",
+                        "@variant": "1001",
+                        "@variantName": "Index",
+                        "$": "Machine Care"
+                    }},
+                    {"$": "will go out automatically."}
+                ]
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "For optimum cleaning performance, ensure the correct placement of cleaners."
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "Follow the safety instructions given on the packagings of the machine care products and machine cleaners."
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Activate the"},
+                    {"link":                     {
+                        "@BSH-Linktype": "Kurzlink",
+                        "@source-id": "4721161867-9",
+                        "@target-id": "27021598340680459-9",
+                        "@use": "grab",
+                        "@target": "Selecting Hydraulic Zone",
+                        "@name": "RelatedTopic",
+                        "@id": "4776617100",
+                        "@target-base-id": "576457483",
+                        "@external": "0",
+                        "@linkid": "4776617100",
+                        "@arrow": "after",
+                        "$": "Extra Clean Zone"
+                    }},
+                    {"$": "function."}
+                ]
+            }}}
+        ]
+    },
+    "instructions":     {
+        "BSHCollectionOfElements":         [
+            {"instruction": {"p":             {
+                "@context": "instructions",
+                "$": "Remove any coarse soiling in the interior with a damp cloth."
+            }}},
+            {"instruction": {"p":             {
+                "@context": "instructions",
+                "$": "Clean the filters."
+            }}},
+            {"instruction":             {
+                "p":                 {
+                    "@context": "instructions",
+                    "$": "Place the machine care product in the appliance interior."
+                },
+                "instruction-info": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Only use machine care products specially designed for dishwashers."
+                }}
+            }},
+            {"instruction":             {
+                "p":                 {
+                    "@context": "instructions",
+                    "$": "Pour the machine cleaner into the detergent dispenser until it is filled completely."
+                },
+                "instruction-info": {"p":                 {
+                    "@context": "instructions",
+                    "$": "Do not place any additional machine cleaner in the appliance interior."
+                }}
+            }},
+            {"instruction": {"p":             {
+                "@context": "instructions",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Press"},
+                    {"img":                     {
+                        "@src": "1706569740",
+                        "@name": "SY_642_650_BO_MachineCare_I0",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007200729511563__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "72057595744497676",
+                        "@label": "1706569740",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5185833333333333",
+                        "@st4-height-cm": "0.5503333333333333",
+                        "@width-cm": "0.5185833333333333",
+                        "@height-cm": "0.5503333333333333"
+                    }},
+                    {"$": "."}
+                ]
+            }}},
+            {"instruction": {"p":             {
+                "@context": "instructions",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Press"},
+                    {"img":                     {
+                        "@src": "1271347596",
+                        "@name": "SY_allgmein_Start",
+                        "@type": "svg",
+                        "@href": "Images/svg/1057667339__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "72057595309275532",
+                        "@label": "1271347596",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "1.27",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "1.27",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"$": "."}
+                ]
+            }}}
+        ],
+        "results": {"BSHCollectionOfElements":         [
+            {"result":             {
+                "@class": "TextModule2",
+                "@base-id": "1468642315",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "2523247116",
+                "@fragment-element": "result",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "27021599232865291",
+                "@id": "27021599232865291-9",
+                "p":                 {
+                    "@context": "instructions",
+                    "variable":                     {
+                        "@linkid": "4719611148",
+                        "@name": "3325",
+                        "@detailed-topic-type": "Non-specific",
+                        "@variableType": "Standard",
+                        "@variable": "Machine Care",
+                        "@variableName": "Machine Care 0",
+                        "@variant": "1001",
+                        "@variantName": "Index",
+                        "$": "Machine Care"
+                    },
+                    "$": "is run."
+                }
+            }},
+            {"result":             {
+                "@class": "TextModule2",
+                "@base-id": "1468644107",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "2523247244",
+                "@fragment-element": "result",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "27021599232867083",
+                "@id": "27021599232867083-9",
+                "p":                 {
+                    "@context": "instructions",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "Once the programme has ended, the indicator for"},
+                        {"variable":                         {
+                            "@linkid": "4719081868",
+                            "@name": "3325",
+                            "@detailed-topic-type": "Non-specific",
+                            "@variableType": "Standard",
+                            "@variable": "Machine Care",
+                            "@variableName": "Machine Care 0",
+                            "@variant": "1001",
+                            "@variantName": "Index",
+                            "$": "Machine Care"
+                        }},
+                        {"$": "goes out."}
+                    ]
+                }
+            }}
+        ]}
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "27021598340680459-9",
+            "@label": "4713563020",
+            "@use": "copy",
+            "@target": "Selecting Hydraulic Zone",
+            "@name": "RelatedTopic",
+            "@id": "63050399496749964",
+            "@source": "Performing machine care",
+            "@target-base-id": "576457483",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "4721161867-9",
+            "@label": "7F7776C0-7262-4D48-A3A6-6552217A74F8",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleHierarchy",
+            "@id": "63050399558954508",
+            "@source": "Performing machine care",
+            "@target-base-id": "4721161867",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "36028798487447819-9",
+            "@label": "2523246732",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleLink",
+            "@id": "72057596561174668",
+            "@source": "Performing machine care",
+            "@target-base-id": "1468483851",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "27021599232865291-9",
+            "@label": "2523247116",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleLink",
+            "@id": "72057596561175052",
+            "@source": "Performing machine care",
+            "@target-base-id": "1468642315",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "27021599232867083-9",
+            "@label": "2523247244",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleLink",
+            "@id": "72057596561175180",
+            "@source": "Performing machine care",
+            "@target-base-id": "1468644107",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "27021599232861707-9",
+            "@label": "2523388556",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleLink",
+            "@id": "72057596561316492",
+            "@source": "Performing machine care",
+            "@target-base-id": "1468638731",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "27021601399276811-9",
+            "@label": "AE224C8E-5EE0-42B3-B7FC-ADE856132150",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleHierarchy",
+            "@id": "72057597675473036",
+            "@source": "Performing machine care",
+            "@target-base-id": "3635053835",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "72057594929100171-9",
+            "@target-id": "27021601401761291-9",
+            "@label": "5DA0EB21-5300-4DEF-9417-452C18FAD902",
+            "@use": "grab",
+            "@target": "Performing machine care",
+            "@name": "TextModuleHierarchy",
+            "@id": "72057597675480844",
+            "@source": "Performing machine care",
+            "@target-base-id": "3637538315",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "4721161867-9",
+            "@target-id": "27021598340680459-9",
+            "@label": "4776617100",
+            "@use": "grab",
+            "@target": "Selecting Hydraulic Zone",
+            "@name": "RelatedTopic",
+            "@id": "4776617100",
+            "@target-base-id": "576457483",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"image":         {
+            "@name": "SY_allgmein_Start",
+            "@type": "svg",
+            "@href": "Images/svg/1057667339__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "72057595309275532",
+            "@label": "1271347596",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "1.27",
+            "@st4-height-cm": "0.5538611111111111",
+            "@width-cm": "1.27",
+            "@height-cm": "0.5538611111111111"
+        }},
+        {"image":         {
+            "@name": "SY_642_650_BO_MachineCare_I0",
+            "@type": "svg",
+            "@href": "Images/svg/9007200729511563__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "72057595744497676",
+            "@label": "1706569740",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "0.5185833333333333",
+            "@st4-height-cm": "0.5503333333333333",
+            "@width-cm": "0.5185833333333333",
+            "@height-cm": "0.5503333333333333"
+        }}
+    ]
+}

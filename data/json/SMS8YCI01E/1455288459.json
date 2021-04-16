@@ -1,0 +1,530 @@
+{
+    "@file-name": "1455288459.html",
+    "@class": "Reference",
+    "@type": "TextNode",
+    "@base-id": "1455288459",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "63050396238475403-9",
+    "@is-page": "true",
+    "@childrencount": "2",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Suitable detergents"},
+    "shortdesc": {"$": "Only use detergents that are suitable for dishwashers. Both separate and combined detergents are suitable."},
+    "BSHCollectionOfElements":     [
+        {"p": {"BSHCollectionOfElements":         [
+            {"$": "For optimum washing and drying results, use separate detergent, adding"},
+            {"link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "63050396238475403-9",
+                "@target-id": "18014398656269963-9",
+                "@use": "grab",
+                "@target": "Special salt",
+                "@name": "RelatedTopic",
+                "@id": "63050396238480908",
+                "@source": "Suitable detergents",
+                "@target-base-id": "146787979",
+                "@external": "0",
+                "@linkid": "1455293964",
+                "@arrow": "after",
+                "$": "Special salt"
+            }},
+            {"$": "and"},
+            {"link":             {
+                "@BSH-Linktype": "Kurzlink",
+                "@source-id": "63050396238475403-9",
+                "@target-id": "36028797165809803-9",
+                "@use": "grab",
+                "@target": "Rinse aid",
+                "@name": "RelatedTopic",
+                "@id": "63050396238481036",
+                "@source": "Suitable detergents",
+                "@target-base-id": "146845835",
+                "@external": "0",
+                "@linkid": "1455294092",
+                "@arrow": "after",
+                "$": "Rinse aid"
+            }},
+            {"$": "separately."}
+        ]}},
+        {"p": {"$": "Modern, powerful detergents mainly use a low-alkaline formulation with enzymes. Enzymes break down starch and remove protein. Oxygen-based bleaching agents are generally used to remove coloured marks, e.g. tea or ketchup."}},
+        {"hint":         {
+            "@hint-type": "single",
+            "@type": "device-oriented",
+            "@context": "before-hint",
+            "b": {"$": "Note:"},
+            "p":             {
+                "@context": "hint",
+                "$": "Follow the manufacturer's instructions for each detergent."
+            }
+        }},
+        {"properties":         {
+            "@flipTable": "false",
+            "@presentation": "table",
+            "@propertie-count": "2",
+            "@relcolwidth": "40 60",
+            "@hsdl-percent": "40% 60%",
+            "prophead":             {
+                "proptypehd":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Detergent"
+                    }
+                },
+                "propvaluehd":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Description"
+                    }
+                }
+            },
+            "property":             [
+                                {
+                    "proptype":                     {
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Tabs"
+                        }
+                    },
+                    "propvalue":                     {
+                        "@col-index": "2",
+                        "p":                         [
+                                                        {
+                                "@context": "Cond",
+                                "$": "Tabs are suitable for all cleaning functions and do not need to be measured out."
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "With shorter",
+                                    {"link":                                     {
+                                        "@BSH-Linktype": "Kurzlink",
+                                        "@source-id": "63050396238475403-9",
+                                        "@target-id": "135107988968018187-9",
+                                        "@use": "grab",
+                                        "@target": "Programmes",
+                                        "@name": "RelatedTopic",
+                                        "@id": "63050396238481164",
+                                        "@source": "Suitable detergents",
+                                        "@target-base-id": "146903307",
+                                        "@external": "0",
+                                        "@linkid": "1455294220",
+                                        "@arrow": "after",
+                                        "$": "Programmes"
+                                    }},
+                                    "tabs sometimes do not dissolve entirely and leave residues of detergent. This may impair the cleaning effect."
+                                ]
+                            }
+                        ]
+                    }
+                },
+                                {
+                    "proptype":                     {
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Powder detergent"
+                        }
+                    },
+                    "propvalue":                     {
+                        "@col-index": "2",
+                        "p":                         [
+                                                        {
+                                "@context": "Cond",
+                                "$":                                 [
+                                    "Powder detergent is recommended for shorter",
+                                    {"link":                                     {
+                                        "@BSH-Linktype": "Kurzlink",
+                                        "@source-id": "63050396238475403-9",
+                                        "@target-id": "135107988968018187-9",
+                                        "@use": "grab",
+                                        "@target": "Programmes",
+                                        "@name": "RelatedTopic",
+                                        "@id": "63050396238481164",
+                                        "@source": "Suitable detergents",
+                                        "@target-base-id": "146903307",
+                                        "@external": "0",
+                                        "@linkid": "1455294220",
+                                        "@arrow": "after",
+                                        "$": "Programmes"
+                                    }},
+                                    "."
+                                ]
+                            },
+                                                        {
+                                "@context": "Cond",
+                                "$": "The dosage can be adjusted to the level of soiling."
+                            }
+                        ]
+                    }
+                },
+                                {
+                    "proptype":                     {
+                        "@col-index": "1",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "Liquid detergent"
+                        }
+                    },
+                    "propvalue":                     {
+                        "@col-index": "2",
+                        "p":                         {
+                            "@context": "Cond",
+                            "$":                             [
+                                "Liquid detergent works faster and is recommended for shorter",
+                                {"link":                                 {
+                                    "@BSH-Linktype": "Kurzlink",
+                                    "@source-id": "63050396238475403-9",
+                                    "@target-id": "135107988968018187-9",
+                                    "@use": "grab",
+                                    "@target": "Programmes",
+                                    "@name": "RelatedTopic",
+                                    "@id": "63050396238481164",
+                                    "@source": "Suitable detergents",
+                                    "@target-base-id": "146903307",
+                                    "@external": "0",
+                                    "@linkid": "1455294220",
+                                    "@arrow": "after",
+                                    "$": "Programmes"
+                                }},
+                                "without PreRinse."
+                            ]
+                        },
+                        "ul":                         {
+                            "intro": {"p":                             {
+                                "@context": "Cond",
+                                "$": "Sometimes liquid detergent may leak out despite the detergent dispenser being closed. This is not a fault and is non-critical if you remember the following:"
+                            }},
+                            "li":                             [
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Only choose a programme without PreRinse."
+                                    }
+                                },
+                                                                {
+                                    "@context": "Cond",
+                                    "p":                                     {
+                                        "@context": "Cond",
+                                        "$": "Do not select timer programming for starting the programme."
+                                    }
+                                }
+                            ]
+                        },
+                        "p":                         {
+                            "@context": "Cond",
+                            "$": "The dosage can be adjusted to the level of soiling."
+                        }
+                    }
+                }
+            ]
+        }},
+        {"hint":         {
+            "@hint-type": "single",
+            "@type": "user-oriented",
+            "@class": "TextModule2",
+            "@base-id": "4296682635",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "B59AD31B-9208-45DD-9F84-BF54D9F8130C",
+            "@fragment-element": "hint",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "4296682635",
+            "@id": "4296682635-9",
+            "@context": "after-hint",
+            "b": {"$": "Tip:"},
+            "p":             {
+                "@context": "hint",
+                "BSHCollectionOfElements":                 [
+                    {"$": "Suitable detergents are available online via our website or from"},
+                    {"link":                     {
+                        "@BSH-Linktype": "Kurzlink",
+                        "@source-id": "4296682635-9",
+                        "@target-id": "144115188258262923-9",
+                        "@use": "grab",
+                        "@target": "Customer Service",
+                        "@name": "RelatedTopic",
+                        "@id": "4296684172",
+                        "@target-base-id": "182407051",
+                        "@external": "0",
+                        "@linkid": "4296684172",
+                        "@arrow": "after",
+                        "$": "Customer Service"
+                    }},
+                    {"$": "."}
+                ]
+            }
+        }},
+        {"linklist": {"BSHCollectionOfElements":         [
+            {"link":             {
+                "@source-id": "63050396238475403-9",
+                "@target-id": "147152395-9",
+                "@label": "147152524",
+                "@use": "grab",
+                "@target": "Separate detergents",
+                "@name": "InformationHierarchy",
+                "@id": "63050394930339468",
+                "@source": "Suitable detergents",
+                "@target-base-id": "147152395",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "63050396238475403-9",
+                "@target-id": "54043195675605387-9",
+                "@label": "147159564",
+                "@use": "grab",
+                "@target": "Combined detergent",
+                "@name": "InformationHierarchy",
+                "@id": "63050394930346508",
+                "@source": "Suitable detergents",
+                "@target-base-id": "147159435",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "63050396238475403-9",
+                "@target-id": "4296682635-9",
+                "@label": "B59AD31B-9208-45DD-9F84-BF54D9F8130C",
+                "@use": "grab",
+                "@target": "Suitable detergents",
+                "@name": "TextModuleHierarchy",
+                "@id": "27021602060905740",
+                "@source": "Suitable detergents",
+                "@target-base-id": "4296682635",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "63050396238475403-9",
+                "@target-id": "18014398656269963-9",
+                "@label": "1455293964",
+                "@use": "grab",
+                "@target": "Special salt",
+                "@name": "RelatedTopic",
+                "@id": "63050396238480908",
+                "@source": "Suitable detergents",
+                "@target-base-id": "146787979",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "63050396238475403-9",
+                "@target-id": "36028797165809803-9",
+                "@label": "1455294092",
+                "@use": "grab",
+                "@target": "Rinse aid",
+                "@name": "RelatedTopic",
+                "@id": "63050396238481036",
+                "@source": "Suitable detergents",
+                "@target-base-id": "146845835",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "63050396238475403-9",
+                "@target-id": "135107988968018187-9",
+                "@label": "1455294220",
+                "@use": "grab",
+                "@target": "Programmes",
+                "@name": "RelatedTopic",
+                "@id": "63050396238481164",
+                "@source": "Suitable detergents",
+                "@target-base-id": "146903307",
+                "@external": "0"
+            }},
+            {"link":             {
+                "@source-id": "4296682635-9",
+                "@target-id": "144115188258262923-9",
+                "@label": "4296684172",
+                "@use": "grab",
+                "@target": "Customer Service",
+                "@name": "RelatedTopic",
+                "@id": "4296684172",
+                "@target-base-id": "182407051",
+                "@external": "0"
+            }}
+        ]}},
+        {"node":         {
+            "@file-name": "1455288459.html#!/Togglebox=147152395/scrollto=147152395/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "147152395",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "147152395-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Separate detergents"},
+            "shortdesc": {"$": "Separate detergents are products that do not contain components other than detergent, e.g. powder detergent or liquid detergent."},
+            "BSHCollectionOfElements":             [
+                {"p": {"$": "With powder and liquid detergent the dosage can be individually adjusted to the level of soiling of the tableware."}},
+                {"p": {"BSHCollectionOfElements":                 [
+                    {"$": "For better washing and drying results and to avoid damage to the appliance, please additionally use"},
+                    {"link":                     {
+                        "@BSH-Linktype": "Kurzlink",
+                        "@source-id": "147152395-9",
+                        "@target-id": "18014398656269963-9",
+                        "@use": "grab",
+                        "@target": "Special salt",
+                        "@name": "RelatedTopic",
+                        "@id": "159995788",
+                        "@source": "Separate detergents",
+                        "@target-base-id": "146787979",
+                        "@external": "0",
+                        "@linkid": "330274316",
+                        "@arrow": "after",
+                        "$": "Special salt"
+                    }},
+                    {"$": "and"},
+                    {"link":                     {
+                        "@BSH-Linktype": "Kurzlink",
+                        "@source-id": "147152395-9",
+                        "@target-id": "36028797165809803-9",
+                        "@use": "grab",
+                        "@target": "Rinse aid",
+                        "@name": "RelatedTopic",
+                        "@id": "159995148",
+                        "@source": "Separate detergents",
+                        "@target-base-id": "146845835",
+                        "@external": "0",
+                        "@linkid": "330274188",
+                        "@arrow": "after",
+                        "$": "Rinse aid"
+                    }},
+                    {"$": "."}
+                ]}}
+            ],
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "147152395-9",
+                    "@target-id": "36028797165809803-9",
+                    "@label": "330274188",
+                    "@use": "grab",
+                    "@target": "Rinse aid",
+                    "@name": "RelatedTopic",
+                    "@id": "159995148",
+                    "@source": "Separate detergents",
+                    "@target-base-id": "146845835",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "147152395-9",
+                    "@target-id": "18014398656269963-9",
+                    "@label": "330274316",
+                    "@use": "grab",
+                    "@target": "Special salt",
+                    "@name": "RelatedTopic",
+                    "@id": "159995788",
+                    "@source": "Separate detergents",
+                    "@target-base-id": "146787979",
+                    "@external": "0"
+                }}
+            ]}
+        }},
+        {"node":         {
+            "@file-name": "1455288459.html#!/Togglebox=147159435/scrollto=147159435/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "147159435",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "54043195675605387-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Combined detergent"},
+            "shortdesc": {"$": "Besides conventional separate detergents, a number of products are available with additional functions. These products contain not only detergent but also rinse aid and salt replacement substances (3in1) and, depending on the combination (4in1, 5in1, ...), additional components such as glass protection or stainless steel cleaner."},
+            "p": {"BSHCollectionOfElements":             [
+                {"$": "According to manufacturers, combined detergents generally only function up to a water hardness of"},
+                {"variable":                 {
+                    "@linkid": "1442685964",
+                    "@name": "1027",
+                    "@detailed-topic-type": "Technical value",
+                    "@variableType": "Standard",
+                    "@variable": "26",
+                    "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                    "@variant": "1018",
+                    "@variantName": "GV6xx TFT Premium/Added Value",
+                    "$": "26"
+                }},
+                {"$": " "},
+                {"variable":                 {
+                    "@linkid": "2389491724",
+                    "@name": "1024",
+                    "@detailed-topic-type": "Technical value",
+                    "@variableType": "Standard",
+                    "@variable": "°E",
+                    "@variableName": "Wasserhärte",
+                    "@variant": "1051",
+                    "@variantName": "GV6xx P5_A3 EU",
+                    "$": "°E"
+                }},
+                {"$": ". With a water hardness above"},
+                {"variable":                 {
+                    "@linkid": "1442685964",
+                    "@name": "1027",
+                    "@detailed-topic-type": "Technical value",
+                    "@variableType": "Standard",
+                    "@variable": "26",
+                    "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                    "@variant": "1018",
+                    "@variantName": "GV6xx TFT Premium/Added Value",
+                    "$": "26"
+                }},
+                {"$": " "},
+                {"variable":                 {
+                    "@linkid": "2389491724",
+                    "@name": "1024",
+                    "@detailed-topic-type": "Technical value",
+                    "@variableType": "Standard",
+                    "@variable": "°E",
+                    "@variableName": "Wasserhärte",
+                    "@variant": "1051",
+                    "@variantName": "GV6xx P5_A3 EU",
+                    "$": "°E"
+                }},
+                {"$": "you will need to add special salt and rinse aid. For the best washing and drying results we recommend using special salt and rinse aid from a water hardness of"},
+                {"variable":                 {
+                    "@linkid": "1442685964",
+                    "@name": "1033",
+                    "@detailed-topic-type": "Technical value",
+                    "@variableType": "Standard",
+                    "@variable": "17",
+                    "@variableName": "Spezialsalz und Klarspüler verwenden ab °dH",
+                    "@variant": "1018",
+                    "@variantName": "GV6xx TFT Premium/Added Value",
+                    "$": "17"
+                }},
+                {"$": " "},
+                {"variable":                 {
+                    "@linkid": "2389491724",
+                    "@name": "1024",
+                    "@detailed-topic-type": "Technical value",
+                    "@variableType": "Standard",
+                    "@variable": "°E",
+                    "@variableName": "Wasserhärte",
+                    "@variant": "1051",
+                    "@variantName": "GV6xx P5_A3 EU",
+                    "$": "°E"
+                }},
+                {"$": ". If you are using combined detergent, the washing programme is adjusted automatically to ensure the best possible washing and drying result."}
+            ]},
+            "linklist": ""
+        }}
+    ]
+}

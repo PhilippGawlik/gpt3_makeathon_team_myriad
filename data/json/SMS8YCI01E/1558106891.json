@@ -1,0 +1,1234 @@
+{
+    "@file-name": "1558106891.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "1558106891",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "108086392614998795-9",
+    "@is-page": "true",
+    "@childrencount": "3",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Rinse aid system"},
+    "shortdesc": {"$": "You can use the rinse aid system and rinse aid to get tableware and glasses rinsed perfectly without marks."},
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "108086392614998795-9",
+            "@target-id": "36028797165809803-9",
+            "@label": "9597021708",
+            "@use": "grab",
+            "@target": "Rinse aid",
+            "@name": "InformationLink",
+            "@id": "9007208851762700",
+            "@source": "Rinse aid system",
+            "@target-base-id": "146845835",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "108086392614998795-9",
+            "@target-id": "90071994105719563-9",
+            "@label": "1558306700",
+            "@use": "grab",
+            "@target": "Setting the amount of rinse aid",
+            "@name": "InformationLink",
+            "@id": "9007208851758476",
+            "@source": "Rinse aid system",
+            "@target-base-id": "1558309643",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "108086392614998795-9",
+            "@target-id": "81064794851030795-9",
+            "@label": "1558358924",
+            "@use": "grab",
+            "@target": "Switching the rinse aid system off",
+            "@name": "InformationLink",
+            "@id": "9007208851759116",
+            "@source": "Rinse aid system",
+            "@target-base-id": "1558361867",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"node":         {
+            "@file-name": "1558106891.html#!/Togglebox=146845835/scrollto=146845835/",
+            "@class": "Concept",
+            "@type": "TextNode",
+            "@base-id": "146845835",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "36028797165809803-9",
+            "@is-page": "false",
+            "@childrencount": "1",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Rinse aid"},
+            "shortdesc": {"$": "For optimum drying results, use rinse aid."},
+            "p": {"$": "Only use rinse aid for domestic dishwashers."},
+            "linklist": {"link":             {
+                "@source-id": "36028797165809803-9",
+                "@target-id": "36028797165838091-9",
+                "@label": "254773004",
+                "@use": "grab",
+                "@target": "Adding rinse aid",
+                "@name": "InformationHierarchy",
+                "@id": "36028797165838220",
+                "@source": "Rinse aid",
+                "@target-base-id": "146874123",
+                "@external": "0"
+            }},
+            "node":             {
+                "@file-name": "1558106891.html#!/Togglebox=146845835/scrollto=146874123/",
+                "@class": "UMTask",
+                "@type": "TextNode",
+                "@base-id": "146874123",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@format": "standard",
+                "@id": "36028797165838091-9",
+                "@is-page": "false",
+                "@childrencount": "0",
+                "@is-distributor": "false",
+                "@level": "5",
+                "title": {"$": "Adding rinse aid"},
+                "shortdesc":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "780513675",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "DB888D4E-0295-46C5-AA76-FCF6D6E8E9E2",
+                    "@fragment-element": "shortdesc",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028797799477643",
+                    "@id": "36028797799477643-9",
+                    "BSHCollectionOfElements":                     [
+                        {"$": "If the display shows"},
+                        {"variable":                         {
+                            "@linkid": "1271204620",
+                            "@name": "1061",
+                            "@detailed-topic-type": "Display text",
+                            "@variableType": "Standard",
+                            "@variable": "Please add rinse aid. ",
+                            "@variableName": "Klarspüler nachfüllen  ",
+                            "@variant": "1001",
+                            "@variantName": "Bosch - TFT Display",
+                            "$": "\"Please add rinse aid. \""
+                        }},
+                        {"$": ", add rinse aid. Only use rinse aid for domestic dishwashers."}
+                    ]
+                },
+                "instructions": {"BSHCollectionOfElements":                 [
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press the catch on the lid of the dispenser for rinse aid"},
+                                {"img":                                 {
+                                    "@src": "816501772",
+                                    "@name": "SY_step 1",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007199461243915__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028797835465740",
+                                    "@label": "816501772",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "and lift"},
+                                {"img":                                 {
+                                    "@src": "816501900",
+                                    "@name": "SY_step 2",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/9007199461246731__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028797835465868",
+                                    "@label": "816501900",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "."}
+                            ]
+                        },
+                        "image-container":                         {
+                            "@type": "img_original",
+                            "@image-page": "true-imageInUMTaskNode",
+                            "img":                             {
+                                "@src": "411395852",
+                                "@name": "OP_R_1004_Zugabe_Klarspueler_Bild1",
+                                "@type": "svg",
+                                "@href": "Images/svg/410266891__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028797430359820",
+                                "@label": "411395852",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "6.078361111111111",
+                                "@st4-height-cm": "4.370916666666666",
+                                "@width-cm": "6.078361111111111",
+                                "@height-cm": "4.370916666666666"
+                            }
+                        }
+                    }},
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "Add rinse aid up to the max mark."
+                        },
+                        "image-container":                         {
+                            "@type": "img_original",
+                            "@image-page": "true-imageInUMTaskNode",
+                            "img":                             {
+                                "@src": "411395980",
+                                "@name": "OP_R_1005_Klarspueler_einfuellen_Bild2",
+                                "@type": "svg",
+                                "@href": "Images/svg/410268811__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028797430359948",
+                                "@label": "411395980",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "6.078361111111111",
+                                "@st4-height-cm": "4.370916666666666",
+                                "@width-cm": "6.078361111111111",
+                                "@height-cm": "4.370916666666666"
+                            }
+                        }
+                    }},
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "If rinse aid spills out, remove it from the tub."
+                        },
+                        "instruction-info": {"p":                         {
+                            "@context": "instructions",
+                            "$": "Spilled rinse aid can cause excessive frothing during the wash cycle."
+                        }}
+                    }},
+                    {"instruction":                     {
+                        "p":                         {
+                            "@context": "instructions",
+                            "$": "Close the lid of the dispenser for rinse aid."
+                        },
+                        "results": {"result": {"p":                         {
+                            "@context": "instructions",
+                            "$": "The lid clicks into position."
+                        }}}
+                    }}
+                ]},
+                "linklist": {"link":                 {
+                    "@source-id": "36028797165838091-9",
+                    "@target-id": "36028797799477643-9",
+                    "@label": "DB888D4E-0295-46C5-AA76-FCF6D6E8E9E2",
+                    "@use": "grab",
+                    "@target": "Adding rinse aid",
+                    "@name": "TextModuleHierarchy",
+                    "@id": "36028797165846028",
+                    "@source": "Adding rinse aid",
+                    "@target-base-id": "780513675",
+                    "@external": "0"
+                }},
+                "BSHCollectionOfElements":                 [
+                    {"image":                     {
+                        "@name": "OP_R_1004_Zugabe_Klarspueler_Bild1",
+                        "@type": "svg",
+                        "@href": "Images/svg/410266891__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797430359820",
+                        "@label": "411395852",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "4.370916666666666",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "4.370916666666666"
+                    }},
+                    {"image":                     {
+                        "@name": "OP_R_1005_Klarspueler_einfuellen_Bild2",
+                        "@type": "svg",
+                        "@href": "Images/svg/410268811__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797430359948",
+                        "@label": "411395980",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "4.370916666666666",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "4.370916666666666"
+                    }},
+                    {"image":                     {
+                        "@name": "SY_step 1",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461243915__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797835465740",
+                        "@label": "816501772",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }},
+                    {"image":                     {
+                        "@name": "SY_step 2",
+                        "@type": "svg",
+                        "@href": "Images/svg/9007199461246731__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028797835465868",
+                        "@label": "816501900",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "0.5538611111111111",
+                        "@st4-height-cm": "0.5538611111111111",
+                        "@width-cm": "0.5538611111111111",
+                        "@height-cm": "0.5538611111111111"
+                    }}
+                ]
+            }
+        }},
+        {"node":         {
+            "@file-name": "1558106891.html#!/Togglebox=1558309643/scrollto=1558309643/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "1558309643",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "90071994105719563-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Setting the amount of rinse aid"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "1376958603",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558313868",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "1376958603",
+                "@id": "1376958603-9",
+                "$": "If there are streaks or water marks on tableware, change the amount of rinse aid."
+            },
+            "instructions": {"BSHCollectionOfElements":             [
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1316875403",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "2055740940",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007200571616395",
+                    "@id": "9007200571616395-52",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1316876940",
+                                "@name": "SY_Hauptschalter_Standby",
+                                "@type": "svg",
+                                "@href": "Images/svg/1378070027__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007200571617932",
+                                "@label": "1316876940",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5044722222222222",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5044722222222222",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "156685067",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558313996",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199411426059",
+                    "@id": "9007199411426059-51",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To open the basic settings, press"},
+                            {"img":                             {
+                                "@src": "640278924",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895019916",
+                                "@label": "640278924",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146868107",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558314124",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028797165832075",
+                    "@id": "36028797165832075-17",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "780029708",
+                                "@name": "SY_Blättern_vorwärts",
+                                "@type": "svg",
+                                "@href": "Images/svg/632245515__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028797798993676",
+                                "@label": "780029708",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.35630555555555554",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.35630555555555554",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the display shows"},
+                            {"variable":                             {
+                                "@linkid": "1271197068",
+                                "@name": "1021",
+                                "@detailed-topic-type": "Display text",
+                                "@variableType": "Standard",
+                                "@variable": "Rinse aid dispenser",
+                                "@variableName": "Basic Settings - Klarspülerzugabe",
+                                "@variant": "1001",
+                                "@variantName": "Bosch - TFT Display",
+                                "$": "\"Rinse aid dispenser\""
+                            }},
+                            {"$": "."}
+                        ]
+                    }
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "1654691211",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1693585420",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "36028798673655179",
+                    "@id": "36028798673655179-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "Press"},
+                            {"img":                             {
+                                "@src": "1654695564",
+                                "@name": "SY_Minus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632257547__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028798673659532",
+                                "@label": "1654695564",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5326944444444445",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5326944444444445",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "or"},
+                            {"img":                             {
+                                "@src": "1654695692",
+                                "@name": "SY_Plus",
+                                "@type": "svg",
+                                "@href": "Images/svg/632260363__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "36028798673659660",
+                                "@label": "1654695692",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.5538611111111111",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.5538611111111111",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "repeatedly until the right amount of rinse aid has been set."}
+                        ]
+                    },
+                    "instruction-info": {"ul":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1621799947",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1654695820",
+                        "@fragment-element": "ul",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "1621799947",
+                        "@id": "1621799947-9",
+                        "BSHCollectionOfElements":                         [
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "A low setting adds less rinse aid during the wash cycle and reduces streaking on tableware."
+                                }
+                            }},
+                            {"li":                             {
+                                "@context": "instructions",
+                                "p":                                 {
+                                    "@context": "li",
+                                    "$": "A higher setting adds more rinse aid during the wash cycle, reduces water marks and improves the drying result."
+                                }
+                            }}
+                        ]
+                    }}
+                }},
+                {"instruction":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "146812171",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558314508",
+                    "@fragment-element": "instruction",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "9007199401553163",
+                    "@id": "9007199401553163-68",
+                    "p":                     {
+                        "@context": "instructions",
+                        "BSHCollectionOfElements":                         [
+                            {"$": "To save the settings, press"},
+                            {"img":                             {
+                                "@src": "640275980",
+                                "@name": "SY_Infotaste",
+                                "@type": "svg",
+                                "@href": "Images/svg/632558347__Web.svg",
+                                "@class": "GraficResource",
+                                "@link-id": "9007199895016972",
+                                "@label": "640275980",
+                                "@dpi": "720",
+                                "@aspect": "en",
+                                "@source-aspect": "All",
+                                "@st4-width-cm": "0.79375",
+                                "@st4-height-cm": "0.5538611111111111",
+                                "@width-cm": "0.79375",
+                                "@height-cm": "0.5538611111111111"
+                            }},
+                            {"$": "for approx. 3 seconds."}
+                        ]
+                    }
+                }}
+            ]},
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "90071994105719563-9",
+                    "@target-id": "1376958603-9",
+                    "@label": "1558313868",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105723788",
+                    "@source": "Setting the amount of rinse aid",
+                    "@target-base-id": "1376958603",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-9",
+                    "@target-id": "9007199411426059-51",
+                    "@label": "1558313996",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105723916",
+                    "@source": "Setting the amount of rinse aid",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-9",
+                    "@target-id": "36028797165832075-17",
+                    "@label": "1558314124",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105724044",
+                    "@source": "Setting the amount of rinse aid",
+                    "@target-base-id": "146868107",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-9",
+                    "@target-id": "9007199401553163-68",
+                    "@label": "1558314508",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994105724428",
+                    "@source": "Setting the amount of rinse aid",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-9",
+                    "@target-id": "36028798673655179-9",
+                    "@label": "1693585420",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994240995340",
+                    "@source": "Setting the amount of rinse aid",
+                    "@target-base-id": "1654691211",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "90071994105719563-9",
+                    "@target-id": "9007200571616395-52",
+                    "@label": "2055740940",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "90071994603150860",
+                    "@source": "Setting the amount of rinse aid",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "36028798673655179-9",
+                    "@target-id": "1621799947-9",
+                    "@label": "1654695820",
+                    "@use": "grab",
+                    "@target": "Setting the amount of rinse aid",
+                    "@name": "TextModuleLink",
+                    "@id": "36028798673659788",
+                    "@target-base-id": "1621799947",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028797798993676",
+                    "@label": "780029708",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673659532",
+                    "@label": "1654695564",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673659660",
+                    "@label": "1654695692",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }},
+        {"node":         {
+            "@file-name": "1558106891.html#!/Togglebox=1558361867/scrollto=1558361867/",
+            "@class": "UMTask",
+            "@type": "TextNode",
+            "@base-id": "1558361867",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@format": "standard",
+            "@id": "81064794851030795-9",
+            "@is-page": "false",
+            "@childrencount": "0",
+            "@is-distributor": "false",
+            "@level": "4",
+            "title": {"$": "Switching the rinse aid system off"},
+            "shortdesc":             {
+                "@class": "TextModule2",
+                "@base-id": "1387342603",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558365580",
+                "@fragment-element": "shortdesc",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "1387342603",
+                "@id": "1387342603-9",
+                "$": "If you find the rinse aid refill indicator irritating, e.g. when using combined detergents with a rinse aid component, you can switch the rinse aid system off."
+            },
+            "hint":             {
+                "@hint-type": "single",
+                "@type": "user-oriented",
+                "@class": "TextModule2",
+                "@base-id": "1375862283",
+                "@chapternumbering": "yes",
+                "@showintoc": "yes",
+                "@linkid": "1558365708",
+                "@fragment-element": "hint",
+                "@aspect-name": "en",
+                "@specific-culture": "en-GB",
+                "@ref": "1375862283",
+                "@id": "1375862283-9",
+                "b": {"$": "Tip:"},
+                "p":                 {
+                    "@context": "hint",
+                    "$": "The function of rinse aid is limited with combined detergents. You will generally get better results using rinse aid."
+                }
+            },
+            "instructions":             {
+                "BSHCollectionOfElements":                 [
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1316875403",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "2055766796",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007200571616395",
+                        "@id": "9007200571616395-53",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "1316876940",
+                                    "@name": "SY_Hauptschalter_Standby",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/1378070027__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007200571617932",
+                                    "@label": "1316876940",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5044722222222222",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5044722222222222",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "156685067",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558365836",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007199411426059",
+                        "@id": "9007199411426059-52",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "To open the basic settings, press"},
+                                {"img":                                 {
+                                    "@src": "640278924",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007199895019916",
+                                    "@label": "640278924",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "for approx. 3 seconds."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "146868107",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558365964",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "36028797165832075",
+                        "@id": "36028797165832075-18",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "780029708",
+                                    "@name": "SY_Blättern_vorwärts",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632245515__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028797798993676",
+                                    "@label": "780029708",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.35630555555555554",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.35630555555555554",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "repeatedly until the display shows"},
+                                {"variable":                                 {
+                                    "@linkid": "1271197068",
+                                    "@name": "1021",
+                                    "@detailed-topic-type": "Display text",
+                                    "@variableType": "Standard",
+                                    "@variable": "Rinse aid dispenser",
+                                    "@variableName": "Basic Settings - Klarspülerzugabe",
+                                    "@variant": "1001",
+                                    "@variantName": "Bosch - TFT Display",
+                                    "$": "\"Rinse aid dispenser\""
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "1654742667",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1695766028",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "36028798673706635",
+                        "@id": "36028798673706635-9",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "Press"},
+                                {"img":                                 {
+                                    "@src": "1654772620",
+                                    "@name": "SY_Minus",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632257547__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028798673736588",
+                                    "@label": "1654772620",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5326944444444445",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5326944444444445",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "or"},
+                                {"img":                                 {
+                                    "@src": "1654772748",
+                                    "@name": "SY_Plus",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632260363__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "36028798673736716",
+                                    "@label": "1654772748",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.5538611111111111",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.5538611111111111",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "repeatedly until the display shows"},
+                                {"variable":                                 {
+                                    "@linkid": "1654772876",
+                                    "@name": "1031",
+                                    "@detailed-topic-type": "Technical value",
+                                    "@variableType": "Standard",
+                                    "@variable": "0",
+                                    "@variableName": "Klarspüler aus",
+                                    "@variant": "1051",
+                                    "@variantName": "GV6xx P5_A3 EU",
+                                    "$": "0"
+                                }},
+                                {"$": "."}
+                            ]
+                        }
+                    }},
+                    {"instruction":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "146812171",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "1558366348",
+                        "@fragment-element": "instruction",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "9007199401553163",
+                        "@id": "9007199401553163-69",
+                        "p":                         {
+                            "@context": "instructions",
+                            "BSHCollectionOfElements":                             [
+                                {"$": "To save the settings, press"},
+                                {"img":                                 {
+                                    "@src": "640275980",
+                                    "@name": "SY_Infotaste",
+                                    "@type": "svg",
+                                    "@href": "Images/svg/632558347__Web.svg",
+                                    "@class": "GraficResource",
+                                    "@link-id": "9007199895016972",
+                                    "@label": "640275980",
+                                    "@dpi": "720",
+                                    "@aspect": "en",
+                                    "@source-aspect": "All",
+                                    "@st4-width-cm": "0.79375",
+                                    "@st4-height-cm": "0.5538611111111111",
+                                    "@width-cm": "0.79375",
+                                    "@height-cm": "0.5538611111111111"
+                                }},
+                                {"$": "for approx. 3 seconds."}
+                            ]
+                        }
+                    }}
+                ],
+                "results": {"result":                 {
+                    "@class": "TextModule2",
+                    "@base-id": "780037515",
+                    "@chapternumbering": "yes",
+                    "@showintoc": "yes",
+                    "@linkid": "1558366476",
+                    "@fragment-element": "result",
+                    "@aspect-name": "en",
+                    "@specific-culture": "en-GB",
+                    "@ref": "780037515",
+                    "@id": "780037515-9",
+                    "p":                     {
+                        "@context": "instructions",
+                        "$": "The rinse aid system is switched off and the rinse aid refill indicator is deactivated."
+                    }
+                }}
+            },
+            "linklist": {"BSHCollectionOfElements":             [
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "1387342603-9",
+                    "@label": "1558365580",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034508",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "1387342603",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "1375862283-9",
+                    "@label": "1558365708",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034636",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "1375862283",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "9007199411426059-52",
+                    "@label": "1558365836",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034764",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "156685067",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "36028797165832075-18",
+                    "@label": "1558365964",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851034892",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "146868107",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "9007199401553163-69",
+                    "@label": "1558366348",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851035276",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "146812171",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "780037515-9",
+                    "@label": "1558366476",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794851035404",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "780037515",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "36028798673706635-9",
+                    "@label": "1695766028",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064794988434956",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "1654742667",
+                    "@external": "0"
+                }},
+                {"link":                 {
+                    "@source-id": "81064794851030795-9",
+                    "@target-id": "9007200571616395-53",
+                    "@label": "2055766796",
+                    "@use": "grab",
+                    "@target": "Switching the rinse aid system off",
+                    "@name": "TextModuleLink",
+                    "@id": "81064795348435724",
+                    "@source": "Switching the rinse aid system off",
+                    "@target-base-id": "1316875403",
+                    "@external": "0"
+                }}
+            ]},
+            "BSHCollectionOfElements":             [
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895019916",
+                    "@label": "640278924",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Blättern_vorwärts",
+                    "@type": "svg",
+                    "@href": "Images/svg/632245515__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028797798993676",
+                    "@label": "780029708",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.35630555555555554",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.35630555555555554",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Infotaste",
+                    "@type": "svg",
+                    "@href": "Images/svg/632558347__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007199895016972",
+                    "@label": "640275980",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.79375",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.79375",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Minus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632257547__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673736588",
+                    "@label": "1654772620",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5326944444444445",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5326944444444445",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Plus",
+                    "@type": "svg",
+                    "@href": "Images/svg/632260363__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "36028798673736716",
+                    "@label": "1654772748",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5538611111111111",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5538611111111111",
+                    "@height-cm": "0.5538611111111111"
+                }},
+                {"image":                 {
+                    "@name": "SY_Hauptschalter_Standby",
+                    "@type": "svg",
+                    "@href": "Images/svg/1378070027__Web.svg",
+                    "@class": "GraficResource",
+                    "@link-id": "9007200571617932",
+                    "@label": "1316876940",
+                    "@dpi": "720",
+                    "@aspect": "en",
+                    "@source-aspect": "All",
+                    "@st4-width-cm": "0.5044722222222222",
+                    "@st4-height-cm": "0.5538611111111111",
+                    "@width-cm": "0.5044722222222222",
+                    "@height-cm": "0.5538611111111111"
+                }}
+            ]
+        }}
+    ]
+}

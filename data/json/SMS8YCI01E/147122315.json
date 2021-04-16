@@ -1,0 +1,298 @@
+{
+    "@file-name": "147122315.html",
+    "@class": "UMTask",
+    "@type": "TextNode",
+    "@base-id": "147122315",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "36028797166086283-9",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Arrange tableware"},
+    "shortdesc": {"$": "Arrange the tableware correctly to optimise the dishwashing result and prevent damage to both the appliance and tableware."},
+    "hint":     {
+        "@hint-type": "multi",
+        "@type": "user-oriented",
+        "b": {"$": "Tips:"},
+        "BSHCollectionOfElements":         [
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "Using the appliance allows you to save energy and water compared to washing-up by hand."
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "See our website for examples of how to load your appliance efficiently, free of charge."
+            }}},
+            {"sub-hint": {"p":             {
+                "@context": "hint",
+                "$": "To save energy and water, load the machine with the number of place settings specified.",
+                "link":                 {
+                    "@BSH-Linktype": "Langlink",
+                    "@source-id": "36028797166086283-9",
+                    "@target-id": "108086391418377227-9",
+                    "@use": "grab",
+                    "@target": "Technical specifications",
+                    "@name": "RelatedTopic",
+                    "@id": "36028798207547532",
+                    "@source": "Arrange tableware",
+                    "@target-base-id": "361485323",
+                    "@external": "0",
+                    "@linkid": "1188583564",
+                    "@dynamic": "true",
+                    "@arrow": "before",
+                    "$": "Technical specifications"
+                }
+            }}},
+            {"sub-hint":             {
+                "p":                 {
+                    "@context": "hint",
+                    "$": "For better washing and drying results, position items with curves or recesses at an angle so the water can run off."
+                },
+                "image-container":                 {
+                    "@type": "img_original",
+                    "@image-page": "false-imageInHint",
+                    "img":                     {
+                        "@src": "1050845836",
+                        "@name": "OG_Stoerung_was_tun_Tasse_richtig_einraeumen",
+                        "@type": "svg",
+                        "@href": "Images/svg/410331531__Web.svg",
+                        "@class": "GraficResource",
+                        "@link-id": "36028798069809804",
+                        "@label": "1050845836",
+                        "@dpi": "720",
+                        "@aspect": "en",
+                        "@source-aspect": "All",
+                        "@st4-width-cm": "6.078361111111111",
+                        "@st4-height-cm": "4.370916666666666",
+                        "@width-cm": "6.078361111111111",
+                        "@height-cm": "4.370916666666666"
+                    }
+                }
+            }}
+        ]
+    },
+    "instructions":     {
+        "BSHCollectionOfElements":         [
+            {"instruction":             {
+                "p":                 {
+                    "@context": "instructions",
+                    "$": "Remove large remnants of food from your tableware."
+                },
+                "instruction-info": {"p":                 {
+                    "@context": "instructions",
+                    "$": "To save resources, do not pre-rinse tableware under running water."
+                }}
+            }},
+            {"instruction":             {
+                "p":                 {
+                    "@context": "instructions",
+                    "$": "Observe the following when arranging tableware:"
+                },
+                "instruction-info": {"ul": {"BSHCollectionOfElements":                 [
+                    {"li":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2128174859",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "82B45CF0-6B30-4C5C-AFAB-27E35CCEE728",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2128174859",
+                        "@id": "2128174859-9",
+                        "@context": "instructions",
+                        "p":                         {
+                            "@context": "li",
+                            "$": "Put heavily soiled tableware in the bottom basket, e.g. pans. The more powerful the spray jet, the better the dishwashing result will be."
+                        }
+                    }},
+                    {"li":                     {
+                        "@context": "instructions",
+                        "p":                         {
+                            "@context": "li",
+                            "$": "To prevent damage to tableware, arrange it so it is stable and cannot tip over."
+                        }
+                    }},
+                    {"li":                     {
+                        "@context": "instructions",
+                        "p":                         {
+                            "@context": "li",
+                            "$": "To prevent injury, arrange cutlery with the points and sharp edges downwards."
+                        }
+                    }},
+                    {"li":                     {
+                        "@context": "instructions",
+                        "p":                         {
+                            "@context": "li",
+                            "$": "Position containers with the openings facing down so no water can collect in them."
+                        }
+                    }},
+                    {"li":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2128322699",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "37615E60-2817-47C7-B329-26FF502C772B",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2128322699",
+                        "@id": "2128322699-9",
+                        "@context": "instructions",
+                        "p":                         {
+                            "@context": "li",
+                            "$": "Do not block the spray arms - make sure that they can turn freely."
+                        }
+                    }},
+                    {"li":                     {
+                        "@class": "TextModule2",
+                        "@base-id": "2128377995",
+                        "@chapternumbering": "yes",
+                        "@showintoc": "yes",
+                        "@linkid": "3334103C-4A71-46ED-AEBA-9A0EA695D65D",
+                        "@fragment-element": "li",
+                        "@aspect-name": "en",
+                        "@specific-culture": "en-GB",
+                        "@ref": "2128377995",
+                        "@id": "2128377995-9",
+                        "@context": "instructions",
+                        "p":                         {
+                            "@context": "li",
+                            "$": "Do not place small parts in the tablet collecting tray and do not block it with tableware so as not to obstruct the lid of the detergent dispenser."
+                        }
+                    }}
+                ]}}
+            }}
+        ],
+        "image-container":         {
+            "@type": "img_original",
+            "@id": "2128382091",
+            "@class": "TextModule2",
+            "@base-id": "2128382091",
+            "@chapternumbering": "yes",
+            "@showintoc": "yes",
+            "@linkid": "8564545C-30E5-438D-B9CB-D71F8E44D46F",
+            "@fragment-element": "image-container",
+            "@aspect-name": "en",
+            "@specific-culture": "en-GB",
+            "@ref": "2128382091",
+            "@image-page": "true-imageInUMTaskNode",
+            "img":             {
+                "@src": "2128383628",
+                "@name": "OG_R_1289_Oberkorb_Hinweis_Tab-Auffangschale",
+                "@type": "svg",
+                "@href": "Images/svg/410327691__Web.svg",
+                "@class": "GraficResource",
+                "@link-id": "2128383628",
+                "@label": "2128383628",
+                "@dpi": "720",
+                "@aspect": "en",
+                "@source-aspect": "All",
+                "@st4-width-cm": "6.078361111111111",
+                "@st4-height-cm": "4.370916666666666",
+                "@width-cm": "6.078361111111111",
+                "@height-cm": "4.370916666666666"
+            }
+        }
+    },
+    "linklist": {"BSHCollectionOfElements":     [
+        {"link":         {
+            "@source-id": "36028797166086283-9",
+            "@target-id": "4299237259-9",
+            "@label": "5F558935-6C78-4D3B-AC9F-482722B12C7B",
+            "@use": "grab",
+            "@target": "Arrange tableware",
+            "@name": "TextModuleHierarchy",
+            "@id": "4299237388",
+            "@source": "Arrange tableware",
+            "@target-base-id": "4299237259",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797166086283-9",
+            "@target-id": "2128174859-9",
+            "@label": "82B45CF0-6B30-4C5C-AFAB-27E35CCEE728",
+            "@use": "grab",
+            "@target": "Arrange tableware",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400637656972",
+            "@source": "Arrange tableware",
+            "@target-base-id": "2128174859",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797166086283-9",
+            "@target-id": "2128322699-9",
+            "@label": "37615E60-2817-47C7-B329-26FF502C772B",
+            "@use": "grab",
+            "@target": "Arrange tableware",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400637809932",
+            "@source": "Arrange tableware",
+            "@target-base-id": "2128322699",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797166086283-9",
+            "@target-id": "2128377995-9",
+            "@label": "3334103C-4A71-46ED-AEBA-9A0EA695D65D",
+            "@use": "grab",
+            "@target": "Arrange tableware",
+            "@name": "TextModuleHierarchy",
+            "@id": "18014400637860108",
+            "@source": "Arrange tableware",
+            "@target-base-id": "2128377995",
+            "@external": "0"
+        }},
+        {"link":         {
+            "@source-id": "36028797166086283-9",
+            "@target-id": "108086391418377227-9",
+            "@label": "1188583564",
+            "@use": "grab",
+            "@target": "Technical specifications",
+            "@name": "RelatedTopic",
+            "@id": "36028798207547532",
+            "@source": "Arrange tableware",
+            "@target-base-id": "361485323",
+            "@external": "0"
+        }}
+    ]},
+    "BSHCollectionOfElements":     [
+        {"image":         {
+            "@name": "OG_Stoerung_was_tun_Tasse_richtig_einraeumen",
+            "@type": "svg",
+            "@href": "Images/svg/410331531__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "36028798069809804",
+            "@label": "1050845836",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }},
+        {"image":         {
+            "@name": "OG_R_1289_Oberkorb_Hinweis_Tab-Auffangschale",
+            "@type": "svg",
+            "@href": "Images/svg/410327691__Web.svg",
+            "@class": "GraficResource",
+            "@link-id": "2128383628",
+            "@label": "2128383628",
+            "@dpi": "720",
+            "@aspect": "en",
+            "@source-aspect": "All",
+            "@st4-width-cm": "6.078361111111111",
+            "@st4-height-cm": "4.370916666666666",
+            "@width-cm": "6.078361111111111",
+            "@height-cm": "4.370916666666666"
+        }}
+    ]
+}

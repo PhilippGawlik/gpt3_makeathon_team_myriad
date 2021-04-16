@@ -1,0 +1,76 @@
+{
+    "@file-name": "358366091.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "358366091",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "358366091-9",
+    "@icon-name": "cleaningandcare",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "true",
+    "@level": "2",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Tips on appliance care"},
+    "shortdesc": {"$": "Follow the tips on appliance care to make sure your appliance functions properly at all times."},
+    "properties":     {
+        "@flipTable": "false",
+        "@presentation": "table",
+        "@propertie-count": "2",
+        "@hsdl-percent": "50% 50%",
+        "prophead":         {
+            "proptypehd":             {
+                "@col-index": "1",
+                "p":                 {
+                    "@context": "Cond",
+                    "$": "Action"
+                }
+            },
+            "propvaluehd":             {
+                "@col-index": "2",
+                "p":                 {
+                    "@context": "Cond",
+                    "$": "Benefit"
+                }
+            }
+        },
+        "property":         [
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "Wipe the door seals, the front of the dishwasher and the control panel regularly using a damp cloth and washing-up liquid."
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "This ensures the parts of the appliance will remain clean and hygienic."
+                    }
+                }
+            },
+                        {
+                "proptype":                 {
+                    "@col-index": "1",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "If the appliance is not going to be used for a while, leave the door slightly ajar."
+                    }
+                },
+                "propvalue":                 {
+                    "@col-index": "2",
+                    "p":                     {
+                        "@context": "Cond",
+                        "$": "This will prevent unpleasant odours."
+                    }
+                }
+            }
+        ]
+    }
+}

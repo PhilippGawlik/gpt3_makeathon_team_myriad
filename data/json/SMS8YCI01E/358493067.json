@@ -1,0 +1,105 @@
+{
+    "@file-name": "358493067.html",
+    "@class": "Concept",
+    "@type": "TextNode",
+    "@base-id": "358493067",
+    "@chapternumbering": "yes",
+    "@showintoc": "yes",
+    "@aspect-name": "en",
+    "@specific-culture": "en-GB",
+    "@format": "standard",
+    "@id": "54043195886939019-9",
+    "@is-page": "true",
+    "@childrencount": "0",
+    "@is-distributor": "false",
+    "@level": "3",
+    "@timestamp": "20210303102313000454",
+    "title": {"$": "Information on detergents"},
+    "shortdesc": {"$": "Follow the instructions on detergents in everyday use."},
+    "properties":     {
+        "@flipTable": "false",
+        "@presentation": "list",
+        "@propertie-count": "1",
+        "property":         [
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$": "Detergents marked as \"organic\" or \"ecological\" (environmentally friendly) generally contain lower levels of active agents or completely dispense with certain substances. The cleaning effect may be restricted here."}
+            }},
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$": "Set the rinse aid and the water softening system to the separate detergent or combined detergent in use."}
+            }},
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$":                 [
+                    "According to manufacturers, combined detergents with salt replacement substances can only be used up to a certain water hardness, usually",
+                    {"variable":                     {
+                        "@linkid": "1442687628",
+                        "@name": "1027",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "26",
+                        "@variableName": "Enthärtung und Klaspüler aus - Kombireiniger- max 21°dH",
+                        "@variant": "1018",
+                        "@variantName": "GV6xx TFT Premium/Added Value",
+                        "$": "26"
+                    }},
+                    " ",
+                    {"variable":                     {
+                        "@linkid": "2389313548",
+                        "@name": "1024",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "°E",
+                        "@variableName": "Wasserhärte",
+                        "@variant": "1051",
+                        "@variantName": "GV6xx P5_A3 EU",
+                        "$": "°E"
+                    }},
+                    ", without adding special salt. For the best washing and drying results we recommend using special salt from a water hardness of",
+                    {"variable":                     {
+                        "@linkid": "1442687628",
+                        "@name": "1033",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "17",
+                        "@variableName": "Spezialsalz und Klarspüler verwenden ab °dH",
+                        "@variant": "1018",
+                        "@variantName": "GV6xx TFT Premium/Added Value",
+                        "$": "17"
+                    }},
+                    " ",
+                    {"variable":                     {
+                        "@linkid": "2389313548",
+                        "@name": "1024",
+                        "@detailed-topic-type": "Technical value",
+                        "@variableType": "Standard",
+                        "@variable": "°E",
+                        "@variableName": "Wasserhärte",
+                        "@variant": "1051",
+                        "@variantName": "GV6xx P5_A3 EU",
+                        "$": "°E"
+                    }},
+                    "."
+                ]}
+            }},
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$": "To prevent sticking, only touch detergents in a water-soluble pouch with dry hands and only ever place them in a dry detergent dispenser."}
+            }},
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$": "Even if the rinse aid and special salt refill indicators light up, washing programmes will run properly with combined detergents."}
+            }},
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$": "The function of rinse aid is limited with combined detergents. You will generally get better results using rinse aid."}
+            }},
+            {"proptype":             {
+                "@col-index": "1",
+                "p": {"$": "Use tablets with a special drying performance."}
+            }}
+        ]
+    },
+    "linklist": ""
+}
