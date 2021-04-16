@@ -2,6 +2,13 @@
 TextOptimizer
 =============
 
+Canvas
+------------
+
+.. image:: doc/business_case_canvas.png
+    :width: 1610
+    :align: center
+    :height: 871
 
 Tasks 
 ----
@@ -51,10 +58,3 @@ Questions
 - How much time does BSH need to do the corpus work
 
 
-Architecture
-------------
-
-.. image:: doc/business_case_canvas.png
-    :width: 1610
-    :align: center
-    :height: 871
