@@ -1,5 +1,5 @@
 
-TextOptimizer
+Myriad
 =============
 
 Canvas
