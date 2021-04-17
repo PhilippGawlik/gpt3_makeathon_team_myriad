@@ -1,0 +1,6 @@
+{"0" : {"IntentID":0,"IntentName":"Suitable detergents","Query":"Why should you use a separate detergent for dishwashers?","Response":" To avoid having residue left behind in the dishwasher."},
+"1" : {"IntentID":0,"IntentName":"Suitable detergents","Query":"What does a powerful detergent mainly use?","Response":"Low-alkaline formulation with enzymes."},
+"2" : {"IntentID":0,"IntentName":"Suitable detergents","Query":"How is a tab made suitable for the dishwasher?","Response":"They are usually made to break down quickly so the dishes will be clean."},
+"3" : {"IntentID":0,"IntentName":"Suitable detergents","Query":"What is the recommended dosage for a detergent?","Response":"The dosage is adjusted for more or less soiled dishes."}}
+
+
