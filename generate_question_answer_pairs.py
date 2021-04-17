@@ -8,24 +8,29 @@ from src.chatbot_formatting import chatbot_format
 from src.tools import retry
 
 
-def pipeline(data: List[Tuple[str, str]]=TEXT_INTEND_SOURCE_DATA, retries=1):
+def pipeline(
+        data: List[Tuple[str, str]]=TEXT_INTEND_SOURCE_DATA,
+        attempts_per_intent=3,
+        retries=1
+):
     triplets = []
     for (intent, text) in data:
-        try:
-            questions_answer_pairs = retry(
-                get_question_answer_pairs, text,
-                max_count=retries
-            )
-        except (ValueError, HTTPError):
-            print((
-                f"Not been able to generate equal amount of question answer"
-                f" pairs for intent: {intent}"))
-            continue
+        for _ in range(0, attempts_per_intent):
+            try:
+                questions_answer_pairs = retry(
+                    get_question_answer_pairs, text,
+                    max_count=retries
+                )
+            except (ValueError, HTTPError):
+                print((
+                    f"Not been able to generate equal amount of question answer"
+                    f" pairs for intent: {intent}"))
+                continue
 
-        for (q, a) in questions_answer_pairs:
-            q = preprocess(q)
-            a = preprocess(a)
-            triplets.append((intent, q, a))
+            for (q, a) in questions_answer_pairs:
+                q = preprocess(q)
+                a = preprocess(a)
+                triplets.append((intent, q, a))
 
     if triplets:
         chatbot_format(triplets)
