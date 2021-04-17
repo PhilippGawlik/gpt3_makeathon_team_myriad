@@ -33,12 +33,17 @@ def pipeline(data: List[Tuple[str, str]]=TEXT_INTEND_SOURCE_DATA, retries=1):
         print(f"Did not generate any tripplets!")
 
 
-
 def get_question_answer_pairs(text):
     questions = generate_questions(text)
     answers = generate_answers(text, questions)
     if not len(questions) == len(answers):
-        raise ValueError("Amount of questions and answers differs!")
+        if len(questions) > len(answers):
+            del questions[-1]
+        elif len(questions) < len(answers):
+            del answers[-1]
+
+        if not len(questions) == len(answers):
+            raise ValueError("Amount of questions and answers differs!")
 
     return zip(questions, answers)
 
