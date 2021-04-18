@@ -3,9 +3,14 @@ from typing import List, Tuple
 from urllib.error import HTTPError
 
 from data.text_intent_source_data import TEXT_INTEND_SOURCE_DATA
-from src.open_ai_api import generate_answers, generate_questions
+from src.open_ai_api import generate_answer, generate_question
 from src.chatbot_formatting import chatbot_format
 from src.tools import retry
+
+
+def preprocess_text(text):
+    sentences = text.split(".")
+    return [f"{s.strip()}." for s in sentences]
 
 
 def pipeline(
@@ -15,22 +20,11 @@ def pipeline(
 ):
     triplets = []
     for (intent, text) in data:
-        for _ in range(0, attempts_per_intent):
-            try:
-                questions_answer_pairs = retry(
-                    get_question_answer_pairs, text,
-                    max_count=retries
-                )
-            except (ValueError, HTTPError):
-                print((
-                    f"Not been able to generate equal amount of question answer"
-                    f" pairs for intent: {intent}"))
-                continue
-
-            for (q, a) in questions_answer_pairs:
-                q = preprocess(q)
-                a = preprocess(a)
-                triplets.append((intent, q, a))
+        questions_answer_pairs = get_question_answer_pairs(text)
+        for (q, a) in questions_answer_pairs:
+            q = preprocess(q)
+            a = preprocess(a)
+            triplets.append((intent, q, a))
 
     if triplets:
         chatbot_format(triplets)
@@ -39,18 +33,25 @@ def pipeline(
 
 
 def get_question_answer_pairs(text):
-    questions = generate_questions(text)
-    answers = generate_answers(text, questions)
-    if not len(questions) == len(answers):
-        if len(questions) > len(answers):
-            del questions[-1]
-        elif len(questions) < len(answers):
-            del answers[-1]
+    sentences = preprocess_text(text)
+    pairs = []
+    for sentence in sentences:
+        question = generate_question(sentence)
+        question = question.strip()
+        if not question[-1] == "?":
+            print(f"This is not a question: '{question}' so I skip it!")
+            continue
 
-        if not len(questions) == len(answers):
-            raise ValueError("Amount of questions and answers differs!")
+        answer = generate_answer(text, question)
+        answer = answer.strip()
+        answer = answer.strip('"')
+        if not answer:
+            print(f"Got a empty answer for the question: '{question}' so I skip it!")
+            continue
 
-    return zip(questions, answers)
+        pairs.append((question, answer))
+
+    return pairs
 
 
 def preprocess(s: str) -> str:
