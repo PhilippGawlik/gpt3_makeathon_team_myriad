@@ -59,8 +59,8 @@ Plan:
 
 Frontend
 --------
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/9bYt03_oxCA/0.jpg)]
-(https://www.youtube.com/watch?v=9bYt03_oxCA "Prototype")
+![image alt text](https://img.youtube.com/vi/9bYt03_oxCA/0.jpg)
+[link text](https://www.youtube.com/watch?v=9bYt03_oxCA "Prototype")
 
 Questions
 ---------
