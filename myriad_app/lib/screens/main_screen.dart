@@ -29,29 +29,22 @@ class _MainScreen extends State<MainScreen> {
 
   loadJson() async {
     String data = await rootBundle.loadString('qa.json');
-    Map<String, dynamic> jsonResult = json.decode(data);
+    List<dynamic> jsonResult = json.decode(data);
     List<Triplet> list=[];
-    jsonResult.forEach((key, value) {
+    jsonResult.forEach((value) {
       String question = value['Query'];
       String answer = value["Response"];
       String intent = value["IntentName"];
 
-      list.add(new Triplet(question, answer, intent, false));
-      list.add(new Triplet(question, answer, intent, false));
-      list.add(new Triplet(question, answer, intent, false));
+      if (answer.isNotEmpty && question.isNotEmpty && intent.isNotEmpty){
+        list.add(new Triplet(question, answer, intent, false));
+      }
     });
     setState(() {
+      list.shuffle();
       items=list;
     });
   }
-  /*
-  @override
-  void initState() {
-    super.initState();
-    loadDefaultData();
-
-
-  }*/
 
   @override
   Widget build(BuildContext context) {
@@ -134,7 +127,7 @@ class _MainScreen extends State<MainScreen> {
                                     Row(children: [Text('Intend: ', style: TextStyle(fontWeight: FontWeight.bold)), Text(items[Index].intend)],),
                                     SizedBox(height: 5,),
                                     Row(children: [Text('Question: ', style: TextStyle(fontWeight: FontWeight.bold)), Text(items[Index].question)],),
-                                    Row(children: [Text('Answer: ', style: TextStyle(fontWeight: FontWeight.bold)), Text(items[Index].answer)],),
+                                    Row(children: [Text('Answer: ', style: TextStyle(fontWeight: FontWeight.bold)), SizedBox(width: screenSize.width*0.5, child: Text(items[Index].answer,))],),
                                   ],
                                 ),
                                 Container(
@@ -197,7 +190,7 @@ class _MainScreen extends State<MainScreen> {
 
 }
 void downloadFile(){
-  html.window.open('https://drive.google.com/file/d/1R2RdMn_YngGMZqK1hAtRdXfvrAx157VP/view?usp=sharing', 'new tab');
+  html.window.open('https://drive.google.com/file/d/1Bkq2MH8dO5-bVTOPMiBLBuLpvvjR3Sls/view?usp=sharing', 'new tab');
 }
 
 class Triplet {
