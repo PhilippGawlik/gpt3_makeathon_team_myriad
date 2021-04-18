@@ -1,6 +1,6 @@
 from typing import Generator, List
 
-from tools import load_content
+from src.tools import load_content
 
 
 RELEVANT_KEYS = [
