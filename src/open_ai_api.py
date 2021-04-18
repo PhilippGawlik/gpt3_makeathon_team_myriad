@@ -22,4 +22,4 @@ def request_gpt3(prompt: str, settings: dict):
         stop=settings["stop"],
         )
     questions = response["choices"][0]["text"].split("\n")
-    return questions
+    return questions[0]
