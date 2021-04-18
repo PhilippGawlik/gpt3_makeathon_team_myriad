@@ -2,6 +2,14 @@
 Myriad
 =============
 
+Usage
+------------
+
+Run user manual text extraction with ``python extract_from_manual.py``
+
+Run question answer pair generation with ``python generate_question_answer_pairs.py``
+
+
 Canvas
 ------------
 
