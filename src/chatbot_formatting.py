@@ -15,7 +15,7 @@ def chatbot_format(triples, path="{}_dialogflow_corpora"):
     df["IntentID"] = df.groupby(["IntentName"]).ngroup()
     cols = ["IntentID", "IntentName", "Query", "Response"]
     df = df.loc[:, cols]
-    df.to_json(path + ".json", orient="records", lines=True)
+    df.to_json(path + ".json", orient="records")
     df.to_csv(path + ".csv", index=False)
     return
 
