@@ -31,6 +31,7 @@ class _MainScreen extends State<MainScreen> {
     String data = await rootBundle.loadString('qa.json');
     List<dynamic> jsonResult = json.decode(data);
     List<Triplet> list=[];
+
     jsonResult.forEach((value) {
       String question = value['Query'];
       String answer = value["Response"];
@@ -124,7 +125,7 @@ class _MainScreen extends State<MainScreen> {
                                 Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Row(children: [Text('Intend: ', style: TextStyle(fontWeight: FontWeight.bold)), Text(items[Index].intend)],),
+                                    Row(children: [Text('Intent: ', style: TextStyle(fontWeight: FontWeight.bold)), Text(items[Index].intend)],),
                                     SizedBox(height: 5,),
                                     Row(children: [Text('Question: ', style: TextStyle(fontWeight: FontWeight.bold)), Text(items[Index].question)],),
                                     Row(children: [Text('Answer: ', style: TextStyle(fontWeight: FontWeight.bold)), SizedBox(width: screenSize.width*0.5, child: Text(items[Index].answer,))],),
