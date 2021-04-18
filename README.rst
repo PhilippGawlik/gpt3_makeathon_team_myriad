@@ -13,7 +13,7 @@ Run question answer pair generation with ``python generate_question_answer_pairs
 Canvas
 ------------
 
-.. image:: doc/business_case_canvas.png
+.. image:: doc/lean_canvas.png
     :width: 1610
     :align: center
     :height: 871
