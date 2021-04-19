@@ -67,7 +67,7 @@ def get_question(
     :param q_settings: gpt3 settings for generation
     """
     q_prompt = q_prompt.format(sentence)
-    question = request_gpt3(q_prompt, q_settings)
+    question = request_gpt3(q_prompt, q_settings)[0]
     question = question.strip()
     if not question[-1] == "?":
         raise ValueError(f"This is not a question: '{question}' so I skip it!")
@@ -89,7 +89,7 @@ def get_answer(
     :param q_settings: gpt3 settings for generation
     """
     a_prompt = a_prompt.format(text, question)
-    answer = request_gpt3(a_prompt, a_settings)
+    answer = request_gpt3(a_prompt, a_settings)[0]
     answer = answer.strip()
     if not answer:
         raise ValueError(

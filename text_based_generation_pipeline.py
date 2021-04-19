@@ -12,7 +12,7 @@ from prompts.text_based_prompt import (
 
 def text_based_generation_pipeline(
         data: List[Tuple[str, str]]=TEXT_INTEND_SOURCE_DATA,
-        generation_cycles: int=1,
+        generation_cycles: int=3,
         retries: int=1
 ) -> None:
     """Generate intent-question-answer tripplets from user manual text.
@@ -26,7 +26,7 @@ def text_based_generation_pipeline(
         for _ in range(generation_cycles):
             try:
                 questions_answer_pairs = retry(
-                    get_question_answer_pairs, [text],
+                    get_question_answer_pairs, text,
                     max_count=retries
                 )
             except (ValueError, HTTPError):
