@@ -7,9 +7,13 @@ This is the result of a 48 hour run to write a gpt3 based text generation soluti
 The MYRIAD team consists of:
 
 Kathy-Ann Heitmeier
+
 Christian Hammacher
+
 Miguel Â. Simões Valente
+
 Robin Strohmeyer
+
 Philipp Gawlik
 
 
