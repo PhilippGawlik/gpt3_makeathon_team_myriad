@@ -1,5 +1,7 @@
 from typing import Generator, List
-
+ #the special types defined in the typing module. These types add syntax for 
+ #specifying the types of elements of composite types.
+ # start with capital letters and use square brackets to define itemtypes
 from src.tools import load_content
 
 
